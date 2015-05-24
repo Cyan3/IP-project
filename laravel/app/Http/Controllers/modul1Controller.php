@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use Carbon\Carbon;
 use App\Http\Controllers;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Redirect;
 use App\Url;
@@ -125,27 +126,117 @@ class modul1Controller extends Controller {
     public function readJson($filePath){
         $string = file_get_contents($filePath);
         $json_a = json_decode($string, true);
+        $queryId = $this->genQuerryId();
         foreach ($json_a as $pubs){
             foreach($pubs as $pub){
-                $public = Publication::create(array(
-                    'usr_id' => Auth::user()->id,
-                    'title' => $pub['title'] ,
-                    'year' => $pub['year'],
-                    'location' => $pub['location'],
-                    'isbn' => $pub['isbn'],
-                    'issn' => $pub['issn']
-                ));
-                foreach ($pub['autori'] as $author){
-                    PubAuthor::create(array(
-                        'pub_id' => $public->id,
-                        'name' => $author
+                //var_dump($pub);
+                $publication = $pub;
+                $author_pub = Auth::user()->id;
+                $unique = $this->checkIfExist($publication, $author_pub);
+                //var_dump($unique);
+                if($unique == 2){
+                    $public = Publication::create(array(
+                        'usr_id' => $author_pub,
+                        'title' => $pub['title'] ,
+                        'year' => $pub['year'],
+                        'location' => $pub['location'],
+                        'isbn' => $pub['isbn'],
+                        'issn' => $pub['issn'],
+                        'querry_id' => $queryId
                     ));
+                    foreach ($pub['autori'] as $author){
+                        PubAuthor::create(array(
+                            'pub_id' => $public->id,
+                            'name' => $author
+                        ));
+                    }
+               }else if($unique == 1){
+                    $query = 'title = \''.$publication['title'].'\' and usr_id = \''.$author_pub.'\' and year = \''.$publication['year'].'\'';
+                    $outdatedPub = Publication::whereRaw($query)->firstOrFail();
+                    $outdatedPubID = $outdatedPub->id;
+                    $outdatedPub->delete();
+                    $public = Publication::create(array(
+                        'usr_id' => $author_pub,
+                        'title' => $pub['title'] ,
+                        'year' => $pub['year'],
+                        'location' => $pub['location'],
+                        'isbn' => $pub['isbn'],
+                        'issn' => $pub['issn'],
+                        'querry_id' => $queryId
+                    ));
+                    foreach ($pub['autori'] as $author){
+                        $uniqueAuthor = $this->checkIfAuthExist($author, $public->id);
+                        if($uniqueAuthor == 0){
+                            $query = 'pub_id = \''.$outdatedPubID.'\'  and name = \''.$author.'\'';
+                            //var_dump($query);
+                            $outdatedAuth = PubAuthor::whereRaw($query)->firstOrFail();
+                            $outdatedAuth->delete();
+                            PubAuthor::create(array(
+                                'pub_id' => $public->id,
+                                'name' => $author
+                            ));
+                        }
+
+                    }
+                }else if($unique == 0){
+                    $public = Publication::create(array(
+                        'usr_id' => $author_pub,
+                        'title' => $pub['title'] ,
+                        'year' => $pub['year'],
+                        'location' => $pub['location'],
+                        'isbn' => $pub['isbn'],
+                        'issn' => $pub['issn'],
+                        'querry_id' => $this->$queryId
+                    ));
+                    foreach ($pub['autori'] as $author){
+                        PubAuthor::create(array(
+                            'pub_id' => $public->id,
+                            'name' => $author
+                        ));
+                    }
                 }
+
             }
         }
 
     }
-
+    public function checkIfExist($pub, $author){
+        $publications = DB::table('publications')->where('usr_id', $author)->get();
+        //var_dump($publications);
+        if(count($publications)==0){
+            return 2;
+        }
+        foreach($publications as $public){
+            //var_dump($public['title']);
+            //var_dump($pub['title']);
+            if (($public->title == $pub['title']) && ($public->year == $pub['year'])){
+                return 1;
+            }
+        }
+        return 0;
+    }
+    public function checkIfAuthExist($author, $pubId){
+        $authors = DB::table('pubauthors')->where('pub_id', $pubId)->get();
+        if(count($authors)==0){
+            return 0;
+        }
+        foreach($authors as $auth){
+            if (($auth->name == $author)){
+                return 1;
+            }
+        }
+        return 0;
+    }
+    public function genQuerryId(){
+        $max = 0;
+        $publications = DB::table('publications')->get();
+        if(count($publications)==0){
+            $max = 1;
+        }else{
+            $max = DB::table('publications')->max('querry_id') + 1;
+        }
+        return $max;
+    }
 
 
 }

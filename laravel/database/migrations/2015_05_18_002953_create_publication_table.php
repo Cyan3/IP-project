@@ -26,6 +26,7 @@ class CreatePublicationTable extends Migration {
             $table->string('issn')->nullable();
             $table->integer('score')->nullable();
             $table->integer('categoryScore')->nullable();
+            $table->integer('querry_id')->nullable();
 			$table->timestamps();
 		});
 	}
