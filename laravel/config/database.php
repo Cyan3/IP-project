@@ -86,12 +86,13 @@ return [
 
         'oracle' => array(
             'driver' => 'oracle',
-            'host' => 'localhost',
+            'host' => env('DB_HOST', 'localhost'),
             'port' => '1521',
-            'database' => 'xe',
-            'username' => 'radu',
-            'password' => '12345',
+            'database' => env('DB_DATABASE', 'forge'),
+            'username' => env('DB_USERNAME', 'forge'),
+            'password' => env('DB_PASSWORD', ''),
             'prefix' => '',
+            'charset'  => 'utf8'
         )
 
 	],

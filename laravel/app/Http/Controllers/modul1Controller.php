@@ -112,8 +112,11 @@ class modul1Controller extends Controller {
 
     public function toModul2($input){
         $jar = public_path() . '\jar\Modul1.jar ';
-        $execstring = 'java -jar' . $jar . $input;
+        $execstring = 'java -jar ' . $jar . $input;
         exec($execstring , $output,$ret);
+
+        var_dump($execstring);
+
         $file = public_path() . '\export.json';
         $this->readJson($file);
     }
