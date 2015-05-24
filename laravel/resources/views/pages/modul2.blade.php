@@ -56,7 +56,15 @@ if (isset($_GET['execJAR'])){
                         echo "<td>".$pub->title."</td>";
                         echo "<td>".$pub->isbn."</td>";
                         echo "<td>".$pub->issn."</td>";
-                        \Illuminate\Support\Facades\DB::
+                        $authors = getAuthors($pub->id);
+                        echo "<td>";
+
+                        foreach ($authors as $author){
+                            echo $author->name . ', ';
+                        }
+
+                        echo "</td>";
+
                         echo "</tr>";
                     }
                     ?>
@@ -92,3 +100,13 @@ if (isset($_GET['execJAR'])){
         <div class="rights">© 2015 – Toate drepturile sunt rezervate.</div>
     </div>
 @stop
+
+<?php
+
+    function getAuthors($pubId){
+        $authors = \Illuminate\Support\Facades\DB::table('pubauthors')->where ('pub_id','=',$pubId)->get();
+        return $authors;
+    }
+
+
+1?>
