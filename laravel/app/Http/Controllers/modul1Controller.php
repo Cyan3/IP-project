@@ -63,6 +63,7 @@ class modul1Controller extends Controller {
 
             $this->toModul2($path);
         }
+        return redirect('modul2');
 
 	}
 
@@ -115,7 +116,7 @@ class modul1Controller extends Controller {
         $execstring = 'java -jar ' . $jar . $input;
         exec($execstring , $output,$ret);
 
-        var_dump($execstring);
+        //var_dump($execstring);
 
         $file = public_path() . '\export.json';
         $this->readJson($file);
@@ -142,6 +143,7 @@ class modul1Controller extends Controller {
                 }
             }
         }
+
     }
 
 

@@ -3,21 +3,21 @@
 
 
 
-Route::get('modul1','modul1Controller@show');
+Route::get('modul1',['middleware' => 'auth','uses' => 'modul1Controller@show']);
 
-Route::post('modul1','modul1Controller@store');
+Route::post('modul1',['middleware' => 'auth','uses' => 'modul1Controller@store']);
 
-Route::get('modul2','modul2Controller@show');
+Route::get('modul2',['middleware' => 'auth','uses' => 'modul2Controller@show']);
 
-Route::get('punctaje','PunctajeController@punctaje');
+Route::get('punctaje',['middleware' => 'auth','uses' => 'PunctajeController@punctaje']);
 
-Route::get('modul3','PunctajeController@modul3');
+Route::get('modul3',['middleware' => 'auth','uses' => 'PunctajeController@modul3']);
 
-Route::get('editare','PunctajeController@editare');
+Route::get('editare',['middleware' => 'auth','uses' => 'PunctajeController@editare']);
 
-Route::get('home','PunctajeController@home');
+Route::get('home',['middleware' => 'auth','uses' => 'PunctajeController@home']);
 
-Route::post('pages','PunctajeController@store');
+Route::post('pages',['middleware' => 'auth','uses' => 'PunctajeController@store']);
 
 
 Route::controllers([
