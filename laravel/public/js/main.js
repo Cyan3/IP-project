@@ -7,16 +7,16 @@ $( document ).ready(function( $ ) {
     });
 
 
-    $("#URL").hide();
-    jQuery("input[name=inlineRadioOptions]").click(function(){
+    $("#url-container").hide();
+    jQuery("input[name=file_url]").click(function(){
+        $("#url-container").hide();
         $("#browse").hide();
-        $("#URL").hide();
-        if(document.getElementById('inlineRadio1').checked) {
+        if($('#inlineRadio1').is(':checked')) {
             $("#browse").show();
-            $("#URL").hide();
-        }else if(document.getElementById('inlineRadio2').checked) {
+            $("#url-container").hide();
+        }else if($('#inlineRadio2').is(':checked')) {
             $("#browse").hide();
-            $("#URL").show();
+            $("#url-container").show();
         }
     });
 });

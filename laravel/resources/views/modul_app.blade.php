@@ -20,7 +20,7 @@
     <link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
     <link href="{{ asset('css/simple-line-icons.css') }}" rel="stylesheet">
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('/css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 </head>
 <body>
 
@@ -40,7 +40,7 @@
                         <button class="user-img dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"
                                 aria-expanded="true">
 
-                            <img src="img/avatar.jpg">
+                            <img class="avatar-image" src="{{ asset('img/avtr.jpg') }}">
                         </button>
                         <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                             <li class="user-menu-item" role="presentation"><a role="menuitem" tabindex="-1" href="editare">Editare
@@ -65,6 +65,5 @@
 <script src={{ asset('js/jquery-1.11.2.min.js') }} type="text/javascript"></script>
 <script src={{ asset('js/bootstrap.min.js') }} type="text/javascript"></script>
 <script src={{ asset('js/main.js') }} type="text/javascript"></script>
-<script src={{ asset('js/myFile.js') }} type="text/javascript"></script>
 </body>
 </html>
