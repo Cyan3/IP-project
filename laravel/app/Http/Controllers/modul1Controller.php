@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Redirect;
 use App\Url;
 use Auth;
+
 use App\Publication;
 use App\PubAuthor;
 class modul1Controller extends Controller {
@@ -59,6 +60,7 @@ class modul1Controller extends Controller {
                 'url' => $path,
                 'type_url' => 'file'
             ));
+
             $this->toModul2($path);
         }
 
@@ -121,7 +123,7 @@ class modul1Controller extends Controller {
         $json_a = json_decode($string, true);
         foreach ($json_a as $pubs){
             foreach($pubs as $pub){
-                Publication::create(array(
+                $public = Publication::create(array(
                     'usr_id' => Auth::user()->id,
                     'title' => $pub['title'] ,
                     'year' => $pub['year'],
@@ -129,11 +131,14 @@ class modul1Controller extends Controller {
                     'isbn' => $pub['isbn'],
                     'issn' => $pub['issn']
                 ));
+                foreach ($pub['autori'] as $author){
+                    PubAuthor::create(array(
+                        'pub_id' => $public->id,
+                        'name' => $author
+                    ));
+                }
             }
-
-
         }
-
     }
 
 

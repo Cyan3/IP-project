@@ -2,9 +2,11 @@
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-
+use App\Publication;
+use App\PubAuthor;
 use Illuminate\Http\Request;
-
+use Auth;
+use DB;
 class modul2Controller extends Controller {
 
     /**
@@ -45,7 +47,12 @@ class modul2Controller extends Controller {
      */
     public function show()
     {
-        return view('pages.modul2');
+        $userId = Auth::user()->id;
+        //$querry = Publication::find($userId);
+        $var = DB::table('publications')->where('usr_id', '=', $userId)->get();
+
+
+        return view('pages.modul2')->with('var',$var);
     }
 
     /**
@@ -81,7 +88,11 @@ class modul2Controller extends Controller {
         //
     }
 
+    public function getPubFromDB(){
 
+
+
+    }
 
 
 }

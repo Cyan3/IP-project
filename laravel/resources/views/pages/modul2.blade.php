@@ -1,18 +1,9 @@
 <?php
-// copy file content into a string var
-$json_file = file_get_contents('json/modul1.json');
-$json_file2 = file_get_contents('json/modul2.json');
-// convert the string to a json object
-$jfo = json_decode($json_file);
-$jfo2 = json_decode($json_file2);
 
-$publics = $jfo->publications;
-$publics2 = $jfo2->publications;
+
 if (isset($_GET['execJAR'])){
     chdir('C:\wamp\www\Back-End\laravel\public\grupa2');
-    exec('java -jar modul2.jar input.json');
-}
-
+    exec('java -jar modul2.jar input.json');}
 ?>
 @extends('modul_app')
 @section('header')
@@ -59,20 +50,16 @@ if (isset($_GET['execJAR'])){
 
                     <tbody>
                     <?php
-                    foreach($publics as $pub){
+                    foreach($var as $pub){
                         echo "<tr>";
                         echo "<td>".$pub->year."</td>";
                         echo "<td>".$pub->title."</td>";
                         echo "<td>".$pub->isbn."</td>";
                         echo "<td>".$pub->issn."</td>";
-                        echo "<td>";
-                        foreach($pub->autori as $auth)
-                            echo $auth.", ";
-                        echo "</td>";
+                        \Illuminate\Support\Facades\DB::
                         echo "</tr>";
                     }
                     ?>
-
                     </tbody>
                 </table>
             </div>
@@ -83,60 +70,7 @@ if (isset($_GET['execJAR'])){
         </div>
         <div id="output-mod-2" class="col-md-12">
             <div id="tab2" class="row">
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th>Year</th>
-                        <th>Title</th>
-                        <th>ISBN</th>
-                        <th>ISSN</th>
-                        <th>AUTHORS</th>
-                        <th>INDEXED</th>
-                        <th>CITATIONS</th>
-                        <th>REFERENCES</th>
 
-                    </tr>
-                    </thead>
-
-                    <tbody>
-                    <?php
-
-
-                    foreach($publics2 as $pub){
-                        $publ = \App\Publication::create([
-                                'usr_id' => Auth::user()->id,
-                                'name' => $pub->title,
-                                'yearReleased' => $pub->year,
-                                'isbn' => (int)$pub->isbn,
-                                'issn' => (int)$pub->issn,
-                                'score' => 0,
-                                'categoryScore' => 0
-                        ]);
-
-                        echo "<tr>";
-                        echo "<td>".$pub->year."</td>";
-                        echo "<td>".$pub->title."</td>";
-                        echo "<td>".$pub->isbn."</td>";
-                        echo "<td>".$pub->issn."</td>";
-                        echo "<td>";
-                        foreach($pub->authors as $auth){
-                            echo $auth.", ";
-                            \App\PubAuthor::create([
-                                    'pub_id' => $publ->id,
-                                    'name' => $auth
-                            ]);
-                        }
-
-                        echo "</td>";
-                        echo "<td>".$pub->indexed."</td>";
-
-
-
-                    }
-                    ?>
-
-                    </tbody>
-                </table>
             </div>
 
         </div>
