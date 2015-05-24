@@ -1,36 +1,12 @@
-@extends('basic')
+@extends('modul_app')
 @section('header')
-    <div id="header" class="container">
-        <div class="row">
-            <div id="menu" class="col-md-12">
-                <div class="nav col-md-6">
-                    <ul class="list-inline">
-                        <li><a href="home">Home</a></li>
-                        <li class="selected-menu"><a href="editare">Editare profil</a></li>
-                    </ul>
-                </div>
-                <div id="user-menu" class="col-md-6">
-                    <div class="dropdown user-menu">
-                        <div class="user-name">John Doe</div>
-                        <button class="user-img dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"
-                                aria-expanded="true">
-
-                            <img src="img/avatar.png">
-                        </button>
-                        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                            <li class="user-menu-item" role="presentation"><a role="menuitem" tabindex="-1" href="editare">Editare
-                                    profil</a></li>
-                            <li class="user-menu-item" role="presentation"><a role="menuitem" tabindex="-1" href="auth/logout">Iesire</a>
-                            </li>
-                        </ul>
-                    </div>
-
-
-                </div>
-
-            </div>
-        </div>
-    </div>
+    <ul class="list-inline">
+        <li><a href="home">Home</a></li>
+        <li><a href="{{ url('/modul1') }}">Modul 1</a></li>
+        <li><a href="{{ url('/modul2') }}">Modul 2</a></li>
+        <li><a href="{{ url('/modul3') }}">Modul 3</a></li>
+        <li><a href="{{ url('/punctaje') }}">Punctaje</a>
+    </ul>
 @stop
 
 @section('contenter')
@@ -69,20 +45,6 @@
                             </div>
 
                             <div class="form-group">
-                                <label class="col-md-4 control-label">E-Mail Address</label>
-                                <div class="col-md-6">
-                                    <input type="email" class="form-control" name="email" value="{{ old('email') }}">
-                                </div>
-                            </div>
-
-                            <div class="form-group">
-                                <label class="col-md-4 control-label">Old Password</label>
-                                <div class="col-md-6">
-                                    <input type="password" class="form-control" name="oldpassword">
-                                </div>
-                            </div>
-
-                            <div class="form-group">
                                 <label class="col-md-4 control-label">New Password</label>
                                 <div class="col-md-6">
                                     <input type="password" class="form-control" name="newpassword">
@@ -91,7 +53,7 @@
                             <div class="form-group">
                                 <label class="col-md-4 control-label">Confirm password</label>
                                 <div class="col-md-6">
-                                    <input type="text" class="form-control" name="confirmpassword">
+                                    <input type="password" class="form-control" name="confirmpassword">
                                 </div>
                             </div>
 
