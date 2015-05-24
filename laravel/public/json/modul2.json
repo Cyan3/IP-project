@@ -1,0 +1,64 @@
+{
+	"publications":[
+     {
+       "year": "someYear",
+       "title": "somePublicationName",
+       "isbn" : "ISBN",
+       "issn" : "ISSN",
+       "authors":["autor1","autor2"],
+       "indexed": "true",
+       "references":
+       [
+       {"title": "titlu","authors":["autor1","autor2"]}
+       ]
+     },
+	 {
+       "year": "someYear",
+       "title": "somePublicationName",
+       "isbn" : "ISBN",
+       "issn" : "ISSN",
+       "authors":["autor1","autor2"],
+       "indexed": "true",
+       "references":
+       [
+       {"title": "titlu","authors":["autor1","autor2"]}
+       ]
+     },
+	 {
+       "year": "someYear",
+       "title": "somePublicationName",
+       "isbn" : "ISBN",
+       "issn" : "ISSN",
+       "authors":["autor1","autor2"],
+       "indexed": "true",
+       "references":
+       [
+       {"title": "titlu","authors":["autor1","autor2"]}
+       ]
+     },
+	 {
+       "year": "someYear",
+       "title": "somePublicationName",
+       "isbn" : "ISBN",
+       "issn" : "ISSN",
+       "authors":["autor1","autor2"],
+       "indexed": "true",
+       "references":
+       [
+       {"title": "titlu","authors":["autor1","autor2"]}
+       ]
+     },
+	 {
+       "year": "someYear",
+       "title": "somePublicationName",
+       "isbn" : "ISBN",
+       "issn" : "ISSN",
+       "authors":["autor1","autor2"],
+       "indexed": "true",
+       "references":
+       [
+       {"title": "titlu","authors":["autor1","autor2"]}
+       ]
+     }
+     ]
+}

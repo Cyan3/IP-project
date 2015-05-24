@@ -1,0 +1,170 @@
+{
+  "publications": [
+    {
+      "authors": [
+        "Iftene A.",
+        "Trandab?? D.",
+        "Husarciuc M.",
+        "Moruz A."
+      ],
+      "title": "(2010) Question Answering on Romanian, English and French Languages, in CLEF 2010 LABs and Workshops, Notebook Papers, 22-23 September 2010,    Padua, Italy, ",
+      "citations": [
+        {
+          "citiSeer": {
+            "references": [],
+            "indexed": false
+          }
+        },
+        {
+          "scopus": {
+            "references": [
+              {
+                "authors": ["Iftene A."],
+                "title": "Enhancing a Question Answering system with Textual        Entailment for Machine Reading Evaluation",
+                "place": ""
+              },
+              {
+                "authors": ["Rodrigues, H."],
+                "title": "Testing lexical approaches in QA4MRE",
+                "place": ""
+              },
+              {
+                "authors": ["Peñas, A."],
+                "title": "Overview of QA4MRE at CLEF 2011: Question answering for machine reading evaluation",
+                "place": ""
+              }
+            ],
+            "indexed": true
+          }
+        },
+        {
+          "dblp": {
+            "references": [
+              {
+                "authors": ["Iftene, A."],
+                "title": "Enhancing a Question Answering system with Textual        Entailment for Machine Reading Evaluation",
+                "place": ""
+              },
+              {
+                "authors": ["Rodrigues, H."],
+                "title": "Testing lexical approaches in QA4MRE",
+                "place": ""
+              }
+            ],
+            "indexed": false
+          }
+        },
+        {
+          "schoolar": {
+            "references": [
+              {
+                "authors": ["Iftene, A."],
+                "title": "Enhancing a Question Answering system with Textual Entailment for Machine Reading Evaluation",
+                "place": ""
+              },
+              {
+                "authors": ["Rodrigues, H."],
+                "title": "Testing lexical approaches in QA4MRE",
+                "place": ""
+              },
+              {
+                "authors": [
+                  "Peñas, A."
+                ],
+                "title": "Overview of QA4MRE at CLEF 2011: Question answering for machine reading evaluation",
+                "place": ""
+              }
+            ],
+            "indexed": true
+          }
+        }
+      ],
+      "issn": "",
+      "isbn": "978-88-904810",
+      "year": "22-23 September 2010"
+    },
+    {
+      "authors": [
+        "Iftene A.",
+        "Trandab?? D.",
+        "Husarciuc M.",
+        "Moruz A."
+      ],
+      "title": "(2011) Question Answering on Romanian, English and French Languages, in CLEF 2010 LABs and Workshops, Notebook Papers, 22-23 September 2010, Padua, Italy, ",
+      "citations": [
+        {
+          "citiSeer": {
+            "references": [ {
+              "authors": ["Iftene A."],
+              "title": "Enhancing a Question Answering system with Textual Entailment for Machine Reading Evaluation",
+              "place": ""
+            },
+              {
+                "authors": ["Rodrigues, H."],
+                "title": "Testing lexical approaches in QA4MRE",
+                "place": ""
+              }],
+            "indexed": true
+          }
+        },
+        {
+          "scopus": {
+            "references": [
+              {
+                "authors": ["Iftene, A."],
+                "title": "Enhancing a Question Answering system with Textual Entailment for Machine Reading Evaluation",
+                "place": ""
+              },
+              {
+                "authors": ["Rodrigues, H."],
+                "title": "Testing lexical approaches in QA4MRE",
+                "place": ""
+              },
+              {
+                "authors": [
+                  "Peñas, A."
+                ],
+                "title": "Overview of QA4MRE at CLEF 2011: Question answering for machine reading evaluation",
+                "place": ""
+              }
+            ],
+            "indexed": true
+          }
+        },
+        {
+          "dblp": {
+            "references": [],
+            "indexed": false
+          }
+        },
+        {
+          "schoolar": {
+            "references": [
+              {
+                "authors": ["Iftene, A."],
+                "title": "Enhancing a Question Answering system with Textual Entailment for Machine Reading Evaluation",
+                "place": ""
+              },
+              {
+                "authors": ["Rodrigues, H."],
+                "title": "Testing lexical approaches in QA4MRE",
+                "place": ""
+              },
+              {
+                "authors": [
+                  "Peñas, A."
+                ],
+                "title": "Overview of QA4MRE at CLEF 2011: Question answering for machine reading evaluation",
+                "place": ""
+              }
+            ],
+            "indexed": true
+          }
+        }
+      ],
+      "issn": "",
+      "isbn": "978-88-904810",
+      "year": "22-23 September 2010"
+    }
+  ]
+}

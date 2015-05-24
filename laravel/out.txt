@@ -1,0 +1,3 @@
+Migrated: 2015_05_18_004109_create_citedscopus_table
+Migrated: 2015_05_18_004411_create_citedgooglescholar_table
+Migrated: 2015_05_18_004447_create_thompson_table
