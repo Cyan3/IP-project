@@ -9,7 +9,6 @@ return array(
     'CreateAuthorsTable' => $baseDir . '/database/migrations/2015_05_18_053238_create_authors_table.php',
     'CreateCitationsTable' => $baseDir . '/database/migrations/2015_05_18_052934_create_citations_table.php',
     'CreatePasswordResetsTable' => $baseDir . '/database/migrations/2014_10_12_100000_create_password_resets_table.php',
-    'CreatePubAuthorsTable' => $baseDir . '/database/migrations/2015_05_18_055314_create_pub_authors_table.php',
     'CreatePubauthorsTable' => $baseDir . '/database/migrations/2015_05_18_053732_create_pubauthors_table.php',
     'CreatePublicationTable' => $baseDir . '/database/migrations/2015_05_18_002953_create_publication_table.php',
     'CreateUrlTable' => $baseDir . '/database/migrations/2015_05_17_183144_create_url_table.php',

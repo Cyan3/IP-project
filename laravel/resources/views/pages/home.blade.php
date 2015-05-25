@@ -13,7 +13,7 @@
     <div class="jumbotron">
         <h1> Felicitari v-ati logat cu succes!</h1>
         <p>Acum puteti trece la pasii urmatori!</p>
-        <p><a class="btn btn-primary btn-lg" href="{{ url('/modul1') }}" role="button">Learn more</a></p>
+        <p><a class="btn btn-primary btn-lg" href="{{ url('/modul1') }}" role="button">Treceti la pasul 1</a></p>
     </div>
 
 

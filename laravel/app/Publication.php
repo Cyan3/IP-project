@@ -14,7 +14,8 @@ class Publication extends Model {
         'isbn',
         'issn',
         'score',
-        'categoryScore'
+        'categoryScore',
+        'querry_id'
     ];
 
 }

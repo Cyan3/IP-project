@@ -1,11 +1,12 @@
 <?php namespace App\Http\Controllers;
+use App\Http\Requests\UpdateUserRequest;
+use App\User;
 use Auth;
 use Hash;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\DB;
 use Request;
-use Illuminate\Contracts\Validation\Validator;
-use App\User;
 
 class PunctajeController extends Controller {
 
@@ -21,31 +22,29 @@ class PunctajeController extends Controller {
     public function editare(){
         return view('pages.editare');
     }
-    public function store(){
 
-        $input= Request::all();
-        //var_dump($input);
-        $rules = array(
-            'fname'                         => 'required|max:255',
-            'lname'                         => 'required|max:255',
-            'email'                         => 'required|email|max:255|unique:usrs',
-            'oldpassword'                   => 'required',
-            'newpassword'                   => 'required|confirmed|different:old_password',
-            'confirmpassword'               => 'required|different:old_password|same:new_password'
-        );
+    /**
+     * @param UpdateUserRequest $request
+     * @return \Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
+     */
+    public function store(UpdateUserRequest $request){
+
         $user = User::find(Auth::user()->id);
-        //$validator = Validator::make(Input::all(), $rules);
+        if($request['fname'] != ''){
+            $user->fname = $request['fname'];
+        }
+        if($request['lname'] != ''){
+            $user->lname = $request['lname'];
+        }
+        if($request['newpassword'] != ''){
+            $user->password = Hash::make($request['newpassword']);
+        }
 
-       // if($validator->passes()) {
+        $user->save();
+        return redirect('home');
 
-            //$user = UserEventbot::findOrFail(Auth::user()->id);
-            //echo $user;
-            $user->password = Hash::make($input['newpassword']);
-            $user->fname = $input['fname'];
-            $user->save();
-            //return Redirect::to('/');
+        //return redirect('editare');
 
-        //}
 
     }
     public function home(){
