@@ -44,41 +44,41 @@ $publics2 = $jfo2->publications;
     </div>
 
     <div id="input-mod-2" class="col-md-12">
-    <div class="row">
-        <table class="table table-striped">
-            <thead>
-            <tr>
-                <th>Year</th>
-                <th>Title</th>
-                <th>ISBN</th>
-                <th>ISSN</th>
-                <th>AUTHORS</th>
-                <th>CITATIONS</th>
-                <th>POINTS</th>
-            </tr>
-            </thead>
+        <div class="row">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Year</th>
+                    <th>Title</th>
+                    <th>ISBN</th>
+                    <th>ISSN</th>
+                    <th>AUTHORS</th>
+                    <th>CITATIONS</th>
+                    <th>POINTS</th>
+                </tr>
+                </thead>
 
-            <tbody>
-            <?php
-            foreach($publics as $pub){
-                echo "<tr>";
-                echo "<td>".$pub->year."</td>";
-                echo "<td>".$pub->title."</td>";
-                echo "<td>".$pub->isbn."</td>";
-                echo "<td>".$pub->issn."</td>";
-                echo "<td>";
-                foreach($pub->autori as $auth)
-                    echo $auth.", ";
-                echo "</td>";
-                echo "<td>13</td>";
-                echo "<td>5</td>";
-                echo "</tr>";
-            }
-            ?>
+                <tbody>
+                <?php
+                foreach ($publics as $pub) {
+                    echo "<tr>";
+                    echo "<td>" . $pub->year . "</td>";
+                    echo "<td>" . $pub->title . "</td>";
+                    echo "<td>" . $pub->isbn . "</td>";
+                    echo "<td>" . $pub->issn . "</td>";
+                    echo "<td>";
+                    foreach ($pub->autori as $auth)
+                        echo $auth . ", ";
+                    echo "</td>";
+                    echo "<td>13</td>";
+                    echo "<td>5</td>";
+                    echo "</tr>";
+                }
+                ?>
 
-            </tbody>
-        </table>
-    </div>
+                </tbody>
+            </table>
+        </div>
     </div>
 
 

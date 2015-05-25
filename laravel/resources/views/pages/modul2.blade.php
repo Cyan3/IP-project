@@ -1,9 +1,10 @@
 <?php
 
 
-if (isset($_GET['execJAR'])){
+if (isset($_GET['execJAR'])) {
     chdir('C:\wamp\www\Back-End\laravel\public\grupa2');
-    exec('java -jar modul2.jar input.json');}
+    exec('java -jar modul2.jar input.json');
+}
 ?>
 @extends('modul_app')
 @section('header')
@@ -51,16 +52,16 @@ if (isset($_GET['execJAR'])){
 
                     <tbody>
                     <?php
-                    foreach($var as $pub){
+                    foreach ($var as $pub) {
                         echo "<tr>";
-                        echo "<td>".$pub->year."</td>";
-                        echo "<td>".$pub->title."</td>";
-                        echo "<td>".$pub->isbn."</td>";
-                        echo "<td>".$pub->issn."</td>";
+                        echo "<td>" . $pub->year . "</td>";
+                        echo "<td>" . $pub->title . "</td>";
+                        echo "<td>" . $pub->isbn . "</td>";
+                        echo "<td>" . $pub->issn . "</td>";
                         $authors = getAuthors($pub->id);
                         echo "<td>";
 
-                        foreach ($authors as $author){
+                        foreach ($authors as $author) {
                             echo $author->name . ', ';
                         }
 
@@ -92,7 +93,9 @@ if (isset($_GET['execJAR'])){
         </div>
 
 
-        <div id="spinner" style="z-index: 999; display: none; background-color: black; opacity: 0.4; position: fixed; width: 100%; top:0; left:0; height: 1000px; text-align: center; padding-top: 200px;"><i class="fa fa-spinner fa-pulse" style="color: white; font-size: 30px;"></i></div>
+        <div id="spinner"
+             style="z-index: 999; display: none; background-color: black; opacity: 0.4; position: fixed; width: 100%; top:0; left:0; height: 1000px; text-align: center; padding-top: 200px;">
+            <i class="fa fa-spinner fa-pulse" style="color: white; font-size: 30px;"></i></div>
     </div>
 @stop
 
@@ -109,10 +112,11 @@ if (isset($_GET['execJAR'])){
 
 <?php
 
-    function getAuthors($pubId){
-        $authors = \Illuminate\Support\Facades\DB::table('pubauthors')->where ('pub_id','=',$pubId)->get();
-        return $authors;
-    }
+function getAuthors($pubId)
+{
+    $authors = \Illuminate\Support\Facades\DB::table('pubauthors')->where('pub_id', '=', $pubId)->get();
+    return $authors;
+}
 
 
 1?>

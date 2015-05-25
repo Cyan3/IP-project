@@ -11,6 +11,8 @@ return array(
     'CreatePasswordResetsTable' => $baseDir . '/database/migrations/2014_10_12_100000_create_password_resets_table.php',
     'CreatePubauthorsTable' => $baseDir . '/database/migrations/2015_05_18_053732_create_pubauthors_table.php',
     'CreatePublicationTable' => $baseDir . '/database/migrations/2015_05_18_002953_create_publication_table.php',
+    'CreateSumByCategoryIRTable' => $baseDir . '/database/migrations/2015_05_25_035053_create_sumByCategoryIR_table.php',
+    'CreateSumByCategorySPTable' => $baseDir . '/database/migrations/2015_05_25_035155_create_sumByCategorySP_table.php',
     'CreateUrlTable' => $baseDir . '/database/migrations/2015_05_17_183144_create_url_table.php',
     'CreateUsersTable' => $baseDir . '/database/migrations/2014_10_12_000000_create_users_table.php',
     'CreateUsrsTable' => $baseDir . '/database/migrations/2015_05_17_161103_create_usrs_table.php',

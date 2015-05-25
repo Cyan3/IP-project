@@ -1,4 +1,5 @@
 <?php namespace App\Http\Controllers;
+
 use App\Http\Requests\UpdateUserRequest;
 use App\User;
 use Auth;
@@ -8,18 +9,22 @@ use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\DB;
 use Request;
 
-class PunctajeController extends Controller {
+class PunctajeController extends Controller
+{
 
-	public function punctaje()
+    public function punctaje()
     {
         return view('pages.punctaje');
     }
-    public function modul3(){
+
+    public function modul3()
+    {
         return view('pages.modul3');
     }
 
 
-    public function editare(){
+    public function editare()
+    {
         return view('pages.editare');
     }
 
@@ -27,16 +32,17 @@ class PunctajeController extends Controller {
      * @param UpdateUserRequest $request
      * @return \Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
      */
-    public function store(UpdateUserRequest $request){
+    public function store(UpdateUserRequest $request)
+    {
 
         $user = User::find(Auth::user()->id);
-        if($request['fname'] != ''){
+        if ($request['fname'] != '') {
             $user->fname = $request['fname'];
         }
-        if($request['lname'] != ''){
+        if ($request['lname'] != '') {
             $user->lname = $request['lname'];
         }
-        if($request['newpassword'] != ''){
+        if ($request['newpassword'] != '') {
             $user->password = Hash::make($request['newpassword']);
         }
 
@@ -47,7 +53,9 @@ class PunctajeController extends Controller {
 
 
     }
-    public function home(){
+
+    public function home()
+    {
         return view('pages.home');
     }
 

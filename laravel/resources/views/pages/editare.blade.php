@@ -33,12 +33,14 @@
 
                             <div class="form-group">
                                 <label class="col-md-4 control-label">First Name</label>
+
                                 <div class="col-md-6">
                                     <input type="text" class="form-control" name="fname" value="{{ old('fname') }}">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label class="col-md-4 control-label">Last Name</label>
+
                                 <div class="col-md-6">
                                     <input type="text" class="form-control" name="lname" value="{{ old('lname') }}">
                                 </div>
@@ -46,12 +48,14 @@
 
                             <div class="form-group">
                                 <label class="col-md-4 control-label">New Password</label>
+
                                 <div class="col-md-6">
                                     <input type="password" class="form-control" name="newpassword">
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label class="col-md-4 control-label">Confirm password</label>
+
                                 <div class="col-md-6">
                                     <input type="password" class="form-control" name="confirmpassword">
                                 </div>

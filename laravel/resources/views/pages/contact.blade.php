@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head lang="en">
@@ -58,7 +57,7 @@
             </div>
         </div>
     </div>
- </div>
+</div>
 <div id="content">
     <div class="row">
         <div id="steps" class="col-md-12">
@@ -81,8 +80,8 @@
         </div>
     </div>
 
-    <div class="CSSTableGenerator" >
-        <table >
+    <div class="CSSTableGenerator">
+        <table>
             <tr>
                 <td>
                     {{$first}}
@@ -106,7 +105,7 @@
                 <td>
                     {{$third}}
                 </td>
-               <tr>
+            <tr>
                 <td>
                     {{$fourth}}
                 </td>
@@ -115,7 +114,7 @@
                 </td>
             </tr>
         </table>
-     </div>
+    </div>
 
 </div>
 <div id="footer" class="container">

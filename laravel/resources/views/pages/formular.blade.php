@@ -18,9 +18,11 @@
                             <img src="img/avatar.png">
                         </button>
                         <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                            <li class="user-menu-item" role="presentation"><a role="menuitem" tabindex="-1" href="editare">Editare
+                            <li class="user-menu-item" role="presentation"><a role="menuitem" tabindex="-1"
+                                                                              href="editare">Editare
                                     profil</a></li>
-                            <li class="user-menu-item" role="presentation"><a role="menuitem" tabindex="-1" href="auth/logout">Iesire</a>
+                            <li class="user-menu-item" role="presentation"><a role="menuitem" tabindex="-1"
+                                                                              href="auth/logout">Iesire</a>
                             </li>
                         </ul>
                     </div>
@@ -36,7 +38,7 @@
 
     @foreach($item as $input)
         {
-            echo $item;
+        echo $item;
         }
     @endforeach
 @stop

@@ -1,9 +1,10 @@
 <?php
 
 
-if (isset($_GET['execJAR'])){
+if (isset($_GET['execJAR'])) {
     chdir('C:\wamp\www\Back-End\laravel\public\grupa2');
-    exec('java -jar modul2.jar input.json');}
+    exec('java -jar modul2.jar input.json');
+}
 ?>
 @extends('modul_app')
 @section('header')
@@ -46,33 +47,74 @@ if (isset($_GET['execJAR'])){
                         <th>ISBN</th>
                         <th>ISSN</th>
                         <th>AUTHORS</th>
-                        <th>CitiSeer</th>
-                        <th>DBLP</th>
-                        <th>Scholar</th>
-                        <th>Scopus</th>
-                        <th>Nr</th>
+                    </tr>
+                    <tr>
+                        <th>isIndexedCitiSeer</th>
+                        <th>isIndexedDBLP</th>
+                        <th>isIndexedScholar</th>
+                        <th>isIndexedScopus</th>
+                        <th>NrScopus</th>
+                        <th>NrDBLP</th>
+                        <th>NrScholar</th>
+                        <th>NrScopus</th>
+
                     </tr>
                     </thead>
 
                     <tbody>
 
+                    <?php
+
+                    foreach ($json_a as $pub) {
+                        echo "<tr>";
+                        echo "<td>" . $pub['year']. "</td>";
+                        echo "<td>" . $pub['name'] . "</td>";
+                        echo "<td>" . $pub['ISBN']. "</td>";
+                        echo "<td>" . $pub['ISSN']. "</td>";
+
+                        echo "<td>";
+
+                        foreach ($pub['authors'] as $author) {
+                            echo $author . ', ';
+                        }
+
+                        echo "</td>";
+
+                        echo "</tr>";
+                        echo "<tr>";
+                        echo "<td>" . $pub['isIndexedCitiSeer']. "</td>";
+                        echo "<td>" . $pub['isIndexedDBLP'] . "</td>";
+                        echo "<td>" . $pub['isIndexedScholar']. "</td>";
+                        echo "<td>" . $pub['isIndexedScopus']. "</td>";
+                        echo "</tr>";
+
+
+                    }
+
+                    ?>
                     </tbody>
                 </table>
             </div>
         </div>
 
+        {!! Form::open() !!}
+        <div id="execut" class="col-md-12">
+            <div class="from-group">
+                {!! Form::submit('Next', array('class'=>'btn btn-primary'))!!}
+            </div>
+        </div>
+        {!! Form::close() !!}
+        <div id="output-mod-2" class="col-md-12">
+            <div id="tab2" class="row">
 
-            {!! Form::open() !!}
-                <div id="execut" class="col-md-12">
-                    <div class="from-group">
-                        {!! Form::submit('Executa', array('class'=>'btn btn-primary'))!!}
-                    </div>
-                </div>
-            {!! Form::close() !!}
-                {{--<a type="button" class="btn btn-primary btn-lg" href="modul3">Next <i class="glyphicon glyphicon-chevron-right"></i></a>--}}
+            </div>
+
+        </div>
 
 
-        <div id="spinner" style="z-index: 999; display: none; background-color: black; opacity: 0.4; position: fixed; width: 100%; top:0; left:0; height: 1000px; text-align: center; padding-top: 200px;"><i class="fa fa-spinner fa-pulse" style="color: white; font-size: 30px;"></i></div>
+        <div id="spinner"
+             style="z-index: 999; display: none; background-color: black; opacity: 0.4; position: fixed; width: 100%; top:0; left:0; height: 1000px; text-align: center; padding-top: 200px;">
+            <i class="fa fa-spinner fa-pulse" style="color: white; font-size: 30px;"></i></div>
     </div>
 @stop
 
@@ -86,3 +128,15 @@ if (isset($_GET['execJAR'])){
         <div class="rights">© 2015 – Toate drepturile sunt rezervate.</div>
     </div>
 @stop
+
+<?php
+
+function getAuthors($pubId)
+{
+
+    $authors = \Illuminate\Support\Facades\DB::table('pubauthors')->where('pub_id', '=', $pubId)->get();
+    return $authors;
+}
+
+
+1?>
