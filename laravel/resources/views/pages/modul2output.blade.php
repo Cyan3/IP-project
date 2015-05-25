@@ -48,25 +48,44 @@ if (isset($_GET['execJAR'])) {
                         <th>ISSN</th>
                         <th>AUTHORS</th>
                     </tr>
+                    <tr>
+                        <th>isIndexedCitiSeer</th>
+                        <th>isIndexedDBLP</th>
+                        <th>isIndexedScholar</th>
+                        <th>isIndexedScopus</th>
+                        <th>NrScopus</th>
+                        <th>NrDBLP</th>
+                        <th>NrScholar</th>
+                        <th>NrScopus</th>
+
+                    </tr>
                     </thead>
 
                     <tbody>
+
                     <?php
-                    foreach ($var as $pub) {
+
+                    foreach ($json_a as $pub) {
                         echo "<tr>";
-                        echo "<td>" . $pub->year . "</td>";
-                        echo "<td>" . $pub->title . "</td>";
-                        echo "<td>" . $pub->isbn . "</td>";
-                        echo "<td>" . $pub->issn . "</td>";
-                        $authors = getAuthors($pub->id);
+                        echo "<td>" . $pub['year']. "</td>";
+                        echo "<td>" . $pub['name'] . "</td>";
+                        echo "<td>" . $pub['ISBN']. "</td>";
+                        echo "<td>" . $pub['ISSN']. "</td>";
+
                         echo "<td>";
 
-                        foreach ($authors as $author) {
-                            echo $author->name . ', ';
+                        foreach ($pub['authors'] as $author) {
+                            echo $author . ', ';
                         }
 
                         echo "</td>";
 
+                        echo "</tr>";
+                        echo "<tr>";
+                        echo "<td>" . $pub['isIndexedCitiSeer']. "</td>";
+                        echo "<td>" . $pub['isIndexedDBLP'] . "</td>";
+                        echo "<td>" . $pub['isIndexedScholar']. "</td>";
+                        echo "<td>" . $pub['isIndexedScopus']. "</td>";
                         echo "</tr>";
 
 
@@ -114,6 +133,7 @@ if (isset($_GET['execJAR'])) {
 
 function getAuthors($pubId)
 {
+
     $authors = \Illuminate\Support\Facades\DB::table('pubauthors')->where('pub_id', '=', $pubId)->get();
     return $authors;
 }

@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateCitationsTable extends Migration {
+class CreateSumByCategorySPTable extends Migration {
 
 	/**
 	 * Run the migrations.
@@ -12,19 +12,19 @@ class CreateCitationsTable extends Migration {
 	 */
 	public function up()
 	{
-		Schema::create('citations', function(Blueprint $table)
+		Schema::create('sumByCategorySP', function(Blueprint $table)
 		{
-            $table->increments('id');
+			$table->increments('id');
             $table->unsignedInteger('pub_id')
                 ->foreign('pub_id')
                 ->reference('id')
                 ->on('publications')
                 ->onDelete('cascade');
-            $table->string('name')->nullable();
-            $table->string('location')->nullable();
-            $table->string('score')->nullable();
-            $table->string('fromdb')->nullable();
-            $table->timestamps();
+            $table->string('A');
+            $table->string('B1');
+            $table->string('B2');
+            $table->string('D');
+			$table->timestamps();
 		});
 	}
 
@@ -35,7 +35,7 @@ class CreateCitationsTable extends Migration {
 	 */
 	public function down()
 	{
-		Schema::drop('citations');
+		Schema::drop('sumByCategorySP');
 	}
 
 }

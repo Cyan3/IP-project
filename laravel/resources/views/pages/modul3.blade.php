@@ -8,7 +8,7 @@ $jfo2 = json_decode($json_file2);
 
 $publics = $jfo->publications;
 $publics2 = $jfo2->publications;
-if (isset($_GET['execJAR'])){
+if (isset($_GET['execJAR'])) {
     chdir('C:\wamp\www\Back-End\laravel\public\grupa3');
     exec('java -jar modul3.jar');
 }
@@ -62,15 +62,15 @@ if (isset($_GET['execJAR'])){
 
                     <tbody>
                     <?php
-                    foreach($publics as $pub){
+                    foreach ($publics as $pub) {
                         echo "<tr>";
-                        echo "<td>".$pub->year."</td>";
-                        echo "<td>".$pub->title."</td>";
-                        echo "<td>".$pub->isbn."</td>";
-                        echo "<td>".$pub->issn."</td>";
+                        echo "<td>" . $pub->year . "</td>";
+                        echo "<td>" . $pub->title . "</td>";
+                        echo "<td>" . $pub->isbn . "</td>";
+                        echo "<td>" . $pub->issn . "</td>";
                         echo "<td>";
-                        foreach($pub->autori as $auth)
-                            echo $auth.", ";
+                        foreach ($pub->autori as $auth)
+                            echo $auth . ", ";
                         echo "</td>";
                         echo "</tr>";
                     }
@@ -82,9 +82,6 @@ if (isset($_GET['execJAR'])){
         </div>
 
 
-
-
-
         <!--<form action="welcome.php" method="post">
             Name: <input type="text" name="name"><br>
             E-mail: <input type="text" name="email"><br>
@@ -93,7 +90,7 @@ if (isset($_GET['execJAR'])){
 
 
         <div id="execut-mod-2" class="col-md-12">
-            <button id="execBTN" type="button"  onclick="executeJAR()" class="btn btn-primary btn-lg">Executa
+            <button id="execBTN" type="button" onclick="executeJAR()" class="btn btn-primary btn-lg">Executa
             </button>
         </div>
         <div id="output-mod-2" class="col-md-12">
@@ -113,17 +110,17 @@ if (isset($_GET['execJAR'])){
 
                     <tbody>
                     <?php
-                    foreach($publics2 as $pub){
+                    foreach ($publics2 as $pub) {
                         echo "<tr>";
-                        echo "<td>".$pub->year."</td>";
-                        echo "<td>".$pub->title."</td>";
-                        echo "<td>".$pub->isbn."</td>";
-                        echo "<td>".$pub->issn."</td>";
+                        echo "<td>" . $pub->year . "</td>";
+                        echo "<td>" . $pub->title . "</td>";
+                        echo "<td>" . $pub->isbn . "</td>";
+                        echo "<td>" . $pub->issn . "</td>";
                         echo "<td>";
-                        foreach($pub->authors as $auth)
-                            echo $auth.", ";
+                        foreach ($pub->authors as $auth)
+                            echo $auth . ", ";
                         echo "</td>";
-                        echo "<td>".$pub->indexed."</td>";
+                        echo "<td>" . $pub->indexed . "</td>";
 
                         echo "</tr>";
                     }
@@ -135,7 +132,8 @@ if (isset($_GET['execJAR'])){
 
         </div>
         <div class="col-md-12" id="next-mod-btn">
-            <a type="button" class="btn btn-primary btn-lg" href="modul3">Next <i class="glyphicon glyphicon-chevron-right"></i></a>
+            <a type="button" class="btn btn-primary btn-lg" href="modul3">Next <i
+                        class="glyphicon glyphicon-chevron-right"></i></a>
         </div>
         <div id="spinner" style="display: none;"><i class="fa fa-spinner fa-pulse"></i></div>
 
