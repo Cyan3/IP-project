@@ -46,7 +46,7 @@ var executeJAR = function () {
     $.ajax({
 
         method: "GET",
-        url: "http://localhost:81/Back-End/laravel/public/modul2",
+        url: "http://localhost:81/proiect-ip/laravel/public/modul2",
         data: {execJAR: "true"}
     }).success(function() {
         {

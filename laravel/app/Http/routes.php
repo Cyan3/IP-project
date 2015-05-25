@@ -9,6 +9,10 @@ Route::post('modul1',['middleware' => 'auth','uses' => 'modul1Controller@store']
 
 Route::get('modul2',['middleware' => 'auth','uses' => 'modul2Controller@show']);
 
+Route::post('modul2',['middleware' => 'auth','uses' => 'modul2Controller@showOutput']);
+
+Route::get('modul2output',['middleware' => 'auth','uses' => 'modul2Controller@showOutput']);
+
 Route::get('punctaje',['middleware' => 'auth','uses' => 'PunctajeController@punctaje']);
 
 Route::get('modul3',['middleware' => 'auth','uses' => 'PunctajeController@modul3']);

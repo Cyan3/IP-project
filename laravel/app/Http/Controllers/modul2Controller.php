@@ -1,5 +1,7 @@
 <?php namespace App\Http\Controllers;
 
+use App\Author;
+use App\Citation;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 use App\Publication;
@@ -50,8 +52,6 @@ class modul2Controller extends Controller {
         $userId = Auth::user()->id;
         //$querry = Publication::find($userId);
         $var = DB::table('publications')->where('usr_id', '=', $userId)->get();
-
-
         return view('pages.modul2')->with('var',$var);
     }
 
@@ -88,11 +88,82 @@ class modul2Controller extends Controller {
         //
     }
 
-    public function getPubFromDB(){
+    public function pubsFromDBtoJson(){
+        $dbPubs = \Illuminate\Support\Facades\DB::table('publications')->where('usr_id','=',Auth::user()->id)->get();
+        $json = array();
+        foreach ($dbPubs as $pub){
+            $authors = \Illuminate\Support\Facades\DB::table('pubauthors')->where('pub_id','=',$pub->id)->get();
+            $jsnoAuthors = array();
+            foreach ($authors as $author){
+                array_push($jsnoAuthors , $author->name );
+            }
+            $jsonPub = array(
+                'year'  => $pub->year,
+                'title' => $pub->title,
+                'isbn'  => $pub->isbn,
+                'issn'  => $pub->issn,
+                'authors' => $jsnoAuthors,
+                'location' => $pub->location
+            );
+            array_push($json , $jsonPub );
+        }
 
-
-
+        $fp = fopen(public_path(). '\json\\Modul2.json' , 'w');
+        fwrite($fp, json_encode(array('publications' => $json)));
+        fclose($fp);
+        return public_path(). '\\Modul2.json';
     }
 
+    public function execJar($path){
+        $jar = public_path() . '\jar\VIVO.jar ';
+        $execstring = 'java -jar ' . $jar . $path;
+        exec($execstring , $output,$ret);
+    }
+
+    public function showOutput(){
+        $path = $this->pubsFromDBtoJson();
+        //$this->execJar($path);
+        $filePath = public_path() . '\jar\output.JSON';
+        $string = file_get_contents($filePath);
+        $json_a = json_decode($string, true);
+        foreach ($json_a as $cit){
+            var_dump($cit);
+            DB::table('publications')
+                ->where('title', $cit['name'])
+                ->update([
+                    'i_CitiSeer' => $cit['isIndexedCitiSeer'],
+                    'i_DBLP' => $cit['isIndexedDBLP'],
+                    'i_Scholar' => $cit['isIndexedScholar'],
+                    'i_Scopus' => $cit['isIndexedScopus']
+
+                ]);
+            $cit_id = DB::table('publications')->where('title', $cit['name'])->get();
+
+            $this->addCitation($cit_id ,$cit['citedByCitiSeer'],'CitiSeer');
+            $this->addCitation($cit_id ,$cit['citedByDBLP'],'DBLP');
+            $this->addCitation($cit_id ,$cit['citedByScholar'],'Scholar');
+            $this->addCitation($cit_id ,$cit['citedByScopus'],'Scopus');
+        }
+        return view('pages.modul2output');
+    }
+    public function addCitation($pub_id ,$cits,$fromdb){
+        foreach ($cits as $cit){
+            $dbCit = Citation::create(array(
+                'pub_id'    => $pub_id,
+                'name'      => $cit['name'],
+                'location'  => $cit['place'],
+                'fromdb'    => $fromdb
+            ));
+            foreach ($cit['authors'] as $author){
+                Author::create(array(
+                    'cit_id' => $dbCit->id,
+                    'name' => $author
+                ));
+            }
+
+        }
+    }
 
 }
+
+

@@ -20,10 +20,10 @@ class CreateCitationsTable extends Migration {
                 ->reference('id')
                 ->on('publications')
                 ->onDelete('cascade');
-            $table->string('name');
-            $table->string('location');
-            $table->string('score');
-            $table->string('fromdb');
+            $table->string('name')->nullable();
+            $table->string('location')->nullable();
+            $table->string('score')->nullable();
+            $table->string('fromdb')->nullable();
             $table->timestamps();
 		});
 	}

@@ -46,50 +46,30 @@ if (isset($_GET['execJAR'])){
                         <th>ISBN</th>
                         <th>ISSN</th>
                         <th>AUTHORS</th>
+                        <th>CitiSeer</th>
+                        <th>DBLP</th>
+                        <th>Scholar</th>
+                        <th>Scopus</th>
+                        <th>Nr</th>
                     </tr>
                     </thead>
 
                     <tbody>
-                    <?php
-                    foreach($var as $pub){
-                        echo "<tr>";
-                        echo "<td>".$pub->year."</td>";
-                        echo "<td>".$pub->title."</td>";
-                        echo "<td>".$pub->isbn."</td>";
-                        echo "<td>".$pub->issn."</td>";
-                        $authors = getAuthors($pub->id);
-                        echo "<td>";
 
-                        foreach ($authors as $author){
-                            echo $author->name . ', ';
-                        }
-
-                        echo "</td>";
-
-                        echo "</tr>";
-
-
-                    }
-
-                    ?>
                     </tbody>
                 </table>
             </div>
         </div>
 
-        {!! Form::open() !!}
-        <div id="execut" class="col-md-12">
-            <div class="from-group">
-                {!! Form::submit('Next', array('class'=>'btn btn-primary'))!!}
-            </div>
-        </div>
-        {!! Form::close() !!}
-        <div id="output-mod-2" class="col-md-12">
-            <div id="tab2" class="row">
 
-            </div>
-
-        </div>
+            {!! Form::open() !!}
+                <div id="execut" class="col-md-12">
+                    <div class="from-group">
+                        {!! Form::submit('Executa', array('class'=>'btn btn-primary'))!!}
+                    </div>
+                </div>
+            {!! Form::close() !!}
+                {{--<a type="button" class="btn btn-primary btn-lg" href="modul3">Next <i class="glyphicon glyphicon-chevron-right"></i></a>--}}
 
 
         <div id="spinner" style="z-index: 999; display: none; background-color: black; opacity: 0.4; position: fixed; width: 100%; top:0; left:0; height: 1000px; text-align: center; padding-top: 200px;"><i class="fa fa-spinner fa-pulse" style="color: white; font-size: 30px;"></i></div>
@@ -106,13 +86,3 @@ if (isset($_GET['execJAR'])){
         <div class="rights">© 2015 – Toate drepturile sunt rezervate.</div>
     </div>
 @stop
-
-<?php
-
-    function getAuthors($pubId){
-        $authors = \Illuminate\Support\Facades\DB::table('pubauthors')->where ('pub_id','=',$pubId)->get();
-        return $authors;
-    }
-
-
-1?>

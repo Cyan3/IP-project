@@ -26,6 +26,10 @@ class CreatePublicationTable extends Migration {
             $table->string('issn')->nullable();
             $table->integer('score')->nullable();
             $table->integer('categoryScore')->nullable();
+            $table->boolean('i_CitiSeer')->nullable();
+            $table->boolean('i_DBLP')->nullable();
+            $table->boolean('i_Scholar')->nullable();
+            $table->boolean('i_Scopus')->nullable();
 			$table->timestamps();
 		});
 	}
