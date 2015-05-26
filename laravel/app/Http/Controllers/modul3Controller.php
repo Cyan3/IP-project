@@ -95,14 +95,13 @@ class modul3Controller extends Controller {
     }
     public function displayPoints()
     {
-        $path=public_path(). '\jar\\input.json';
+        $path=public_path(). '\jar\m3\outputModul2.json';
 
         $this->execJar($path);
 
-        $filePath = public_path() . '\jar\\input_out.json';
+        $filePath = public_path() . '\jar\m3\outputModul2_out.json';
         $string = file_get_contents($filePath);
         $json_a = json_decode($string, true);
-        //$json_a;
 
         foreach ($json_a['Publication'] as $pub){
             //var_dump($pub);
@@ -117,32 +116,38 @@ class modul3Controller extends Controller {
         $pubFromDB = DB::table('publications')->where('usr_id','=',Auth::user()->id)->where('querry_id','=',$max)->get();
 
         //var_dump($json_a);
-        DB::table('score_querry')->insert([
-            'pub_q_id'=> $max,
-            'sumSPScore' => $json_a['sumSPScore'],
-            'sumIRScore' => $json_a['sumIRScore'],
+        $pub_q_id_count = DB::table('score_querry')->where('pub_q_id','=',$max)->count();
+        if($pub_q_id_count == 0){
+            DB::table('score_querry')->insert([
+                'pub_q_id'=> $max,
+                'usr_id' => Auth::user()->id,
+                'sumSPScore' => $json_a['sumSPScore'],
+                'sumIRScore' => $json_a['sumIRScore'],
 
-            'sumByCategoryIRA' => $json_a['sumByCategoryIR']['A'],
-            'sumByCategoryIRB' => $json_a['sumByCategoryIR']['B'],
-            'sumByCategoryIRC' => $json_a['sumByCategoryIR']['C'],
-            'sumByCategoryIRD' => $json_a['sumByCategoryIR']['D'],
+                'sumByCategoryIRA' => $json_a['sumByCategoryIR']['A'],
+                'sumByCategoryIRB' => $json_a['sumByCategoryIR']['B'],
+                'sumByCategoryIRC' => $json_a['sumByCategoryIR']['C'],
+                'sumByCategoryIRD' => $json_a['sumByCategoryIR']['D'],
 
-            'sumByCategorySPA' => $json_a['sumIRScore']['A'],
-            'sumByCategorySPB' => $json_a['sumIRScore']['B'],
-            'sumByCategorySPC' => $json_a['sumIRScore']['C'],
-            'sumByCategorySPD' => $json_a['sumIRScore']['D'],
-            'created_at' => Carbon::now(),
-            'updated_at' => Carbon::now(),
-        ]);
+                'sumByCategorySPA' => $json_a['sumIRScore']['A'],
+                'sumByCategorySPB' => $json_a['sumIRScore']['B'],
+                'sumByCategorySPC' => $json_a['sumIRScore']['C'],
+                'sumByCategorySPD' => $json_a['sumIRScore']['D'],
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ]);
+        }
+
         //var_dump($pubFromDB);
         $score_db = DB::table('score_querry')->where('pub_q_id','=',$max)->get();
+        //Ndivar_dump($score_db);
         return view('pages.modul3output')->with('pubFromDB',$pubFromDB )->with('score_db',$score_db);
 
     }
 
     public function execJar($path)
     {
-        $jar = public_path() . '\jar\IP.jar ';
+        $jar = public_path() . '\jar\m3\IP.jar ';
         $execstring = 'java -jar ' . $jar . ' ' . $path;
         exec($execstring);
     }

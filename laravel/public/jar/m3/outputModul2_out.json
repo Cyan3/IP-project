@@ -1,0 +1,17 @@
+{
+	"Publication": [],
+	"sumSPScore": 0.0,
+	"sumIRScore": 0.0,
+	"sumByCategoryIR": {
+		"A": 0.0,
+		"B": 0.0,
+		"C": 0.0,
+		"D": 0.0
+	},
+	"sumByCategorySP": {
+		"A": 0.0,
+		"B": 0.0,
+		"C": 0.0,
+		"D": 0.0
+	}
+}

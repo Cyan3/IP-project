@@ -39,178 +39,184 @@ if (isset($_GET['execJAR'])) {
         </div>
         <div id="input-mod-2" class="col-md-12">
             <div class="row">
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th>Title</th>
-                        <th>Authors</th>
-                        <th>isIndexedCitiSeer</th>
-                        <th>isIndexedDBLP</th>
-                        <th>isIndexedScholar</th>
-                        <th>isIndexedScopus</th>
-                        <th>NrScopus</th>
-                        <th>NrDBLP</th>
-                        <th>NrScholar</th>
-                        <th>NrScopus</th>
-
-                    </tr>
-                    </thead>
-
-                    <tbody>
-
+                <div class="col-md-12 public-modul2-exec">
+                    <div class="col-md-12 public-modul2-header">
+                        <div class="col-md-3 text-center"><p>Title</p></div>
+                        <div class="col-md-1 text-center"><p>Authors</p></div>
+                        <div class="col-md-1 text-center"><p>CitiSeer</p></div>
+                        <div class="col-md-1 text-center"><p>DBLP</p></div>
+                        <div class="col-md-1 text-center"><p>Scholar</p></div>
+                        <div class="col-md-1 text-center"><p>Scopus</p></div>
+                        <div class="col-md-1 text-center"><p>NrScopus</p></div>
+                        <div class="col-md-1 text-center"><p>NrDBLP</p></div>
+                        <div class="col-md-1 text-center"><p>NrScholar</p></div>
+                        <div class="col-md-1 text-center"><p>NrScopus</p></div>
+                    </div>
+                </div>
+                <div class="col-md-12 public-modul2-body">
                     <?php
                     $pubs = App::make('\App\Http\Controllers\modul2Controller')->getPubFromBD();
                     foreach ($pubs as $pub) {
-                        echo '<tr>';
-                        echo '<th>';
-                        echo $pub->title;
-                        echo '</th>';
-                        echo '<th>';
-                        $authors = App::make('\App\Http\Controllers\modul2Controller')->getAuthors($pub->id);
-                        foreach ($authors as $author) {
-                            echo $author->name . ', ';
-                        }
-                        echo '</th>';
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_citiseer);
-                        echo '</th>';
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_dblp);
-                        echo '</th>';
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_scholar);
-                        echo '</th>';
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_scopus);
-                        echo '</th>';
+                        echo '<div id="pub-id-'.$pub->id.'" class="col-md-12 publication">';
+                        echo '<div class="col-md-3 pub-title">';
+                            echo $pub->title;
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-authors">';
+                            $authors = App::make('\App\Http\Controllers\modul2Controller')->getAuthors($pub->id);
+                            foreach ($authors as $author) {
+                                echo $author->name . ', ';
+                            }
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-is-citiseer">';
+                            echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_citiseer);
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-is-dblp">';
+                            echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_dblp);
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-is-scholar">';
+                            echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_scholar);
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-is-scopus">';
+                            echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_scopus);
+                        echo '</div>';
 
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'CitiSeer');
-                        echo '</th>';
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'DBLP');
-                        echo '</th>';
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'Scholar');
-                        echo '</th>';
-                        echo '<th>';
-                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'Scopus');
-                        echo '</th>';
-                        echo '</tr>';
+                        echo '<div class="col-md-1 pub-nr-citiseer">';
+                            echo '<button class="btn btn-default" data-pub="'.$pub->id.'" data-db="citiseer">';
+                                echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'CitiSeer');
+                            echo '</button>';
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-nr-dblp">';
+                            echo '<button class="btn btn-default" data-pub="'.$pub->id.'" data-db="dblp">';
+                                echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'DBLP');
+                            echo '</button>';
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-nr-scholar">';
+                            echo '<button class="btn btn-default" data-pub="'.$pub->id.'" data-db="scholar">';
+                                echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'Scholar');
+                            echo '</button>';
+                        echo '</div>';
+                        echo '<div class="col-md-1 pub-nr-scopus">';
+                            echo '<button class="btn btn-default" data-pub="'.$pub->id.'" data-db="scopus">';
+                                echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'Scopus');
+                            echo '</button>';
+                        echo '</div>';
+                        echo '</div>';
                         $citiseer = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'CitiSeer');
                         $dblp = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'DBLP');
                         $scholar = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'Scholar');
                         $scopus = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'Scopus');
 
-                        echo '<tr>';
-                        if (count($citiseer) == 0) {
-                            echo '<th>';
-                            echo 'Nu exista citaii in baza de date CitiSeer';
-                            echo '</th>';
-                        } else {
-                            echo '<tr>
-                                                <th>Titlu</th>
-                                                <th>Autori</th>
-                                                <th>Locatia</th>
-                                            </tr>';
-                            foreach ($citiseer as $cit) {
-                                echo '<th>' . $cit->name . '</th>';
-                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
-                                echo '<th>';
-                                foreach ($citAuthors as $citAuthor) {
-                                    echo $citAuthor->name . ', ';
+                        echo '<div class="col-md-12 publication-citations">';
+                            echo '<div id="cit-of-pub-id-'.$pub->id.'-citiseer" class="col-md-12 pub-citation pub-citation-citiseer">';
+                                if (count($citiseer) == 0) {
+                                    echo '<div class="col-md-12">';
+                                    echo '<h3>Nu exista citatii in baza de date CitiSeer</h3>';
+                                    echo '</div>';
+                                } else {
+                                    echo '<div class="col-md-12 publication-citations-header">
+                                            <div class="col-md-3 text-center"><p>Titlu</p></div>
+                                            <div class="col-md-3 text-center"><p>Autori</p></div>
+                                            <div class="col-md-3 text-center"><p>Locatia</p></div>
+                                          </div>';
+                                    echo '<div class="col-md-3 publication-citations-body">';
+                                        foreach ($citiseer as $cit) {
+                                            echo '<div class="col-md-3 text-center">' . $cit->name . '</div>';
+                                            $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                            echo '<div class="col-md-3 text-center">';
+                                            foreach ($citAuthors as $citAuthor) {
+                                                echo $citAuthor->name . ', ';
+                                            }
+                                            echo '</div>';
+                                            echo '<div class="col-md-3 text-center">' . $cit->location . '</div>';
+
+                                        }
+                                    echo '</div>';
                                 }
-                                echo '</th>';
-                                echo '<th>' . $cit->location . '</th>';
-
-                            }
-
-                        }
-
-
-                        echo '</tr>';
-                        echo '<tr>';
-                        if (count($dblp) == 0) {
-                            echo '<th>';
-                            echo 'Nu exista citaii in baza de date DBLP';
-                            echo '</th>';
-                        } else {
-                            echo '<tr>
-                                                <th>Titlu</th>
-                                                <th>Autori</th>
-                                                <th>Locatia</th>
-                                            </tr>';
-                            foreach ($dblp as $cit) {
-                                echo '<th>' . $cit->name . '</th>';
-                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
-                                echo '<th>';
-                                foreach ($citAuthors as $citAuthor) {
-                                    echo $citAuthor->name . ', ';
+                            echo '</div>';
+                            echo '<div id="cit-of-pub-id-'.$pub->id.'-dblp" class="col-md-12 pub-citation pub-citation-dblp">';
+                                if (count($dblp) == 0) {
+                                    echo '<div class="col-md-12">';
+                                    echo '<h3>Nu exista citatii in baza de date DBLP</h3>';
+                                    echo '</div>';
+                                } else {
+                                    echo '<div class="col-md-12 publication-citations-header">
+                                            <div class="col-md-3 text-center"><p>Titlu</p></div>
+                                            <div class="col-md-3 text-center"><p>Autori</p></div>
+                                            <div class="col-md-3 text-center"><p>Locatia</p></div>
+                                          </div>';
+                                    echo '<div class="col-md-3 publication-citations-body">';
+                                    foreach ($dblp as $cit) {
+                                        echo '<div class="col-md-3 text-center">' . $cit->name . '</div>';
+                                        $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                        echo '<div class="col-md-3 text-center">';
+                                        foreach ($citAuthors as $citAuthor) {
+                                            echo $citAuthor->name . ', ';
+                                        }
+                                        echo '</div>';
+                                        echo '<div class="col-md-3 text-center">' . $cit->location . '</div>';
+                                    }
+                                    echo '</div>';
                                 }
-                                echo '</th>';
-                                echo '<th>' . $cit->location . '</th>';
+                            echo '</div>';
+                            echo '<div id="cit-of-pub-id-'.$pub->id.'-scholar" class="col-md-12 pub-citation pub-citation-scholar">';
+                                if (count($scholar) == 0) {
+                                    echo '<div class="col-md-12">';
+                                    echo '<h3>Nu exista citatii in baza de date Google Scholar</h3>';
+                                    echo '</div>';
+                                } else {
+                                    echo '<div class="col-md-12 publication-citations-header">
+                                            <div class="col-md-3 text-center"><p>Titlu</p></div>
+                                            <div class="col-md-3 text-center"><p>Autori</p></div>
+                                            <div class="col-md-3 text-center"><p>Locatia</p></div>
+                                          </div>';
+                                    echo '<div class="col-md-3 publication-citations-body">';
+                                        foreach ($scholar as $cit) {
+                                            echo '<div class="col-md-3 text-center">' . $cit->name . '</div>';
+                                            $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                            echo '<div class="col-md-3 text-center">';
+                                            foreach ($citAuthors as $citAuthor) {
+                                                echo $citAuthor->name . ', ';
+                                            }
+                                            echo '</div>';
+                                            echo '<div class="col-md-3 text-center">' . $cit->location . '</div>';
 
-                            }
-
-                        }
-
-
-                        echo '</tr>';
-                        echo '<tr>';
-                        if (count($scholar) == 0) {
-                            echo '<th>';
-                            echo 'Nu exista citaii in baza de date Google Scholar';
-                            echo '</th>';
-                        } else {
-                            echo '<tr>
-                                                <th>Titlu</th>
-                                                <th>Autori</th>
-                                                <th>Locatia</th>
-                                            </tr>';
-                            foreach ($scholar as $cit) {
-                                echo '<th>' . $cit->name . '</th>';
-                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
-                                echo '<th>';
-                                foreach ($citAuthors as $citAuthor) {
-                                    echo $citAuthor->name . ', ';
+                                        }
+                                    echo '</div>';
                                 }
-                                echo '</th>';
-                                echo '<th>' . $cit->location . '</th>';
-
-                            }
-
-                        }
-
-
-                        echo '</tr>';
-                        echo '<tr>';
-                        if (count($scopus) == 0) {
-                            echo '<th>';
-                            echo 'Nu exista citaii in baza de date Scopus';
-                            echo '</th>';
-                        } else {
-                            echo '<tr>
-                                                <th>Titlu</th>
-                                                <th>Autori</th>
-                                                <th>Locatia</th>
-                                            </tr>';
-                            foreach ($scopus as $cit) {
-                                echo '<th>' . $cit->name . '</th>';
-                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
-                                echo '<th>';
-                                foreach ($citAuthors as $citAuthor) {
-                                    echo $citAuthor->name . ', ';
+                            echo '</div>';
+                            echo '<div id="cit-of-pub-id-'.$pub->id.'-scopus" class="col-md-12 pub-citation pub-citation-scopus">';
+                                if (count($scopus) == 0) {
+                                    echo '<div class="col-md-12">';
+                                    echo '<h3>Nu exista citatii in baza de date Scopus</h3>';
+                                    echo '</div>';
+                                } else {
+                                    echo '<div class="col-md-12 publication-citations-header">
+                                            <div class="col-md-3 text-center"><p>Titlu</p></div>
+                                            <div class="col-md-3 text-center"><p>Autori</p></div>
+                                            <div class="col-md-3 text-center"><p>Locatia</p></div>
+                                          </div>';
+                                    echo '<div class="col-md-3 publication-citations-body">';
+                                        foreach ($scopus as $cit) {
+                                            echo '<div class="col-md-3 text-center">' . $cit->name . '</div>';
+                                            $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                            echo '<div class="col-md-3 text-center">';
+                                            foreach ($citAuthors as $citAuthor) {
+                                                echo $citAuthor->name . ', ';
+                                            }
+                                            echo '</div>';
+                                            echo '<div class="col-md-3 text-center">' . $cit->location . '</div>';
+                                        }
+                                    echo '</div>';
                                 }
-                                echo '</th>';
-                                echo '<th>' . $cit->location . '</th>';
-                            }
-                        }
-                        echo '</tr>';
+
+                            echo '</div>';
+
+                        echo '</div>';
                     }
 
                     ?>
-                    </tbody>
-                </table>
+                </div>
+
             </div>
         </div>
 

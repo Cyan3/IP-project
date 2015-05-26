@@ -15,8 +15,11 @@ class CreateScoreQuerryTable extends Migration {
 		Schema::create('score_querry', function(Blueprint $table)
 		{
 			$table->increments('id');
+            $table->unsignedInteger('usr_id')->foreign('usr_id')
+                ->reference('id')
+                ->on('usrs')
+                ->onDelete('cascade');
             $table->integer('pub_q_id')->nullable();
-
             $table->double('sumSPScore',15,2)->nullable();
             $table->double('sumIRScore',15,2)->nullable();
 

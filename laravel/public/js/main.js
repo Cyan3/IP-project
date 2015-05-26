@@ -21,6 +21,17 @@ $( document ).ready(function( $ ) {
     });
 });
 $(document).ready( function() {
+    $('.pub-citation').each(function(){
+       $(this).hide();
+    });
+    $('.publication button').click(function(){
+        var pubID = $(this).attr('data-pub');
+        var btnDB = $(this).attr('data-db');
+        var citID = 'cit-of-pub-id-'+pubID+'-'+btnDB;
+        $('#'+citID).toggleClass('active');
+    });
+});
+$(document).ready( function() {
     $('.btn-file :file').on('fileselect', function(event, numFiles, label) {
 
         var input = $(this).parents('.input-group').find(':text'),

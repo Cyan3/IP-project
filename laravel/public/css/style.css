@@ -302,3 +302,6 @@ input[readonly] {
 .centered{
     margin: 0 auto;
 }
+.pub-citation.active{
+    display: block!important;
+}

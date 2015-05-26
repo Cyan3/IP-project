@@ -111,26 +111,27 @@ class modul2Controller extends Controller
             array_push($json, $jsonPub);
         }
 
-        $fp = fopen(public_path() . '\json\Modul2.json', 'w');
+        $fp = fopen(public_path() . '\jar\m2\inputModul2.json', 'w');
         fwrite($fp, json_encode(array('publications' => $json)));
         fclose($fp);
-        return public_path() . '\json\Modul2.json';
+        return public_path() . '\jar\m2\inputModul2.json';
     }
 
     public function execJar($path)
     {
-        $jar = public_path() . '\jar\VIVO.jar ';
-        $execstring = 'java -jar ' . $jar . ' ' . $path;
+        $jar = public_path() . '\jar\m2\VIVO.jar ';
+        $execstring = 'java -jar ' . $jar . ' ' . $path . ' outputModul2.json';
         exec($execstring);
+        return public_path() . '\jar\m3\outputModul2.json ';
     }
 
     public function showOutput()
     {
         $path = $this->pubsFromDBtoJson();
-        //$this->execJar($path);
+        $outputPath = $this->execJar($path);
 
 
-        $filePath = public_path() . '\output.JSON';
+        $filePath = $outputPath;
         $string = file_get_contents($filePath);
         $json_a = json_decode($string, true);
         foreach ($json_a as $cit) {

@@ -4,6 +4,8 @@ use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\DB;
 
 class modul4Controller extends Controller {
 
@@ -48,7 +50,9 @@ class modul4Controller extends Controller {
 		//
 	}
     public function showResults(){
+        $score = DB::table('score_querry')->where('usr_id','=',Auth::user()->id)->get();
 
+        return view('pages.modul4')->with('score',$score);
     }
 	/**
 	 * Show the form for editing the specified resource.
@@ -82,5 +86,10 @@ class modul4Controller extends Controller {
 	{
 		//
 	}
+
+    public function getPubQuerry($q_id){
+        $pubFromDB = DB::table('publications')->where('usr_id','=',Auth::user()->id)->where('querry_id','=',$q_id)->get();
+        return $pubFromDB;
+    }
 
 }

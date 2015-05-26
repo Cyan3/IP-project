@@ -116,20 +116,20 @@ class modul1Controller extends Controller
 
     public function toModul2($input)
     {
-        $jar = public_path() . '\jar\Modul1.jar ';
+        $jar = public_path() . '\jar\m1\Modul1.jar ';
         $execstring = 'java -jar ' . $jar . $input;
         exec($execstring, $output, $ret);
 
         //var_dump($execstring);
 
-        $file = public_path() . '\export.json';
+        $file = public_path() . '\jar\m1\export.json';
         $this->readJson($file);
     }
 
     public function readJson($filePath)
     {
-        $fals_json = public_path() . '\json\\inputm2.json';
-        $string = file_get_contents($fals_json);
+        //$fals_json = public_path() . '\json\\inputm2.json';
+        $string = file_get_contents($filePath);
         $json_a = json_decode($string, true);
         //var_dump($json_a);
         $queryId = $this->genQuerryId();
