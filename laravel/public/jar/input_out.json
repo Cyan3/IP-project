@@ -1,0 +1,4691 @@
+{
+	"Publication": [
+		{
+			"SpScore": 0.0,
+			"IrScore": 354.5,
+			"NrCitationDBLP": 0,
+			"NrCitationCitiseer": 540,
+			"NrCitationGoogleSchoolar": 30,
+			"numberOfCitationsScopus": 1,
+			"title": "typesetting concrete mathematics",
+			"ISBN": "978-88-904810",
+			"ISSN": "",
+			"isIndexedCitiSeer": true,
+			"isIndexedDBLP": false,
+			"isIndexedScholar": true,
+			"isIndexedScopus": false,
+			"authors": [
+				"Iftene A.",
+				"Trandab?? D.",
+				"Husarciuc M.",
+				"Moruz A."
+			],
+			"citedByScholar": [
+				{
+					"name": "TEX by topic: a TEXnician&#39;s reference",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Reprint (with corrections): The New Font Family Selection| User Interface to Standard LATEX",
+					"place": "null",
+					"date": "null",
+					"authors": [
+						"F Mittelbach"
+					]
+				},
+				{
+					"name": "Towards a new math font encoding for (LA) TEX",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Towards a new math font encoding for (LA) TEX",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "TEX by Topic: A TEXnician&#39;s Reference",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "TEX by Topic: A TEXnician&#39;s Reference",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "The euler package",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "The concmath package",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Affichage et manipulation interactive de formules mathÃ©matiques dans les documents structurÃ©s",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Macros for Indexing and",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "The Local Guide to Fonts in TEX",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Reprint (with corrections): The New Font Family Selection-User Interface to Standard] l.&#39;! EX Frank Mittelbach",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Indian TEX Users Group",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatics &amp; Computer Manual-theology. asin. web. id",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatics &amp; Computer Manual-susu-kerbau. wo. web. id",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-perbutulan-desa-kelurahan. ggiklan. com",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-universitas-suryadarma. nomor. net",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-porno-graffitti. violet. web. id",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Affichage et manipulation interactive de formules mathÃ©matiques dans les documents structurÃ©s",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-jurang-mangu-barat-desa-kelurahan. sepakbola. biz",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-karier-kasir-l8. sepakbola. biz",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatics &amp; Computer Manual-games. kucing. biz",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatics &amp; Computer Manual-pasir. doktor. web. id",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-paprika. perahu. info",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatics &amp; Computer Manual-karier-kasir-l8. sepakbola. biz",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatics &amp; Computer Manual-karier-kasir-l8. sepakbola. biz",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "Textsatz und Layout mit LATEX",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatics &amp; Computer Manual-www. wisata. us",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-theology. asin. web. id",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				},
+				{
+					"name": "AMS Euler-Informatika &amp; Komputer Manual Indonesia-pasir. doktor. web. id",
+					"place": "null",
+					"date": "null",
+					"authors": []
+				}
+			],
+			"citedByCitiSeer": [
+				{
+					"name": "Fibonacci cubesï¿½??a class of self-similar graphs",
+					"place": "- Fibonacci Quart",
+					"date": "null",
+					"authors": [
+						"W. -j. Hsu",
+						"J. -s. Liu"
+					]
+				},
+				{
+					"name": "Exact Arithmetic on the Stern-Brocot Tree",
+					"place": "- NIJMEEGS INSTITUUT VOOR INFORMATICA EN INFORMATEIKUNDE, 2003. HTTP://WWW.CS.RU.NL/RESEARCH/REPORTS/FULL/NIII-R0325.PDF",
+					"date": "null",
+					"authors": [
+						"Milad Niqui"
+					]
+				},
+				{
+					"name": "Randomized Optimization by Simplex-type Methods",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Bernd G?ï¿½rtner"
+					]
+				},
+				{
+					"name": "Approximate Polynomial Decomposition",
+					"place": "- IN INTERNATIONAL SYMPOSIUM ON SYMBOLIC AND ALGEBRAIC COMPUTATION",
+					"date": "null",
+					"authors": [
+						"Robert M. Corless",
+						"Mark W. Giesbrecht",
+						"David J. Jeffrey",
+						"Stephen M. Watt"
+					]
+				},
+				{
+					"name": "Computer proofs for polynomial identities in arbitrary many variables",
+					"place": "- In Proceedings of ISSACï¿½??04",
+					"date": "null",
+					"authors": [
+						"Manuel Kauers"
+					]
+				},
+				{
+					"name": "Indefinite summation with unspecified summands",
+					"place": "- Discrete Math",
+					"date": "null",
+					"authors": [
+						"Manuel Kauers",
+						"Carsten Schneider",
+						"Johannes Kepler Universit?ï¿½t"
+					]
+				},
+				{
+					"name": "Finding Polynomial Invariants for Imperative Loops in the Theorema System",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Laura Ildik?? Kov??cs",
+						"Tudor Jebelean"
+					]
+				},
+				{
+					"name": "Mereghetti: Fibonacci and Lucas Numbers as Cumulative Connection Constantsï¿½??, The Fibonacci Quaterly 38.2",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Luca Colucci",
+						"Ottavio D Antona",
+						"Carlo Mereghettl"
+					]
+				},
+				{
+					"name": "Lagrange inversion: when and how",
+					"place": "- Acta Appl. Math",
+					"date": "null",
+					"authors": [
+						"D. Merlini",
+						"R. Sprugnoli",
+						"M. C. Verri"
+					]
+				},
+				{
+					"name": "L.: ABC: Algebraic Bound Computation for Loops",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"R?ï¿½gis Blanc",
+						"Thomas A. Henzinger",
+						"Thibaud Hottelier",
+						"Laura Kov??cs",
+						"Tu Vienna"
+					]
+				},
+				{
+					"name": "Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David Gleich"
+					]
+				},
+				{
+					"name": "Two-Dimensional Cellular Automata and the Analysis of Correlated Time Series",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Lu?ï¿½s O. Rigo",
+						"Valmir C. Barbosa"
+					]
+				},
+				{
+					"name": "factorial cumulants and partitions identities",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Konstancja Bobecka",
+						"Pawe?? Hitczenko",
+						"O L??pez-bl??zquez",
+						"Grzegorz Rempa??a",
+						"Jacek Weso??owski"
+					]
+				},
+				{
+					"name": "Reversible Resampling of Integer Signals",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Pengwei Hao"
+					]
+				},
+				{
+					"name": "Tight Bounds on Approximate Self-Assembly of the Sierpinski Triangle ï¿½??",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jack H. Lutz",
+						"Bradley S. Shutters"
+					]
+				},
+				{
+					"name": "Discrete Structures in Biomathematics -- An introduction for application",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Dietmar Cieslik"
+					]
+				},
+				{
+					"name": "Hot Topics in Symbolic Computation",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Peter Paule",
+						"Lena Kartashova",
+						"Manuel Kauers",
+						"Carsten Schneider",
+						"Franz Winkler"
+					]
+				},
+				{
+					"name": "1. Are Virtual Learning Environments used to facilitate collaborative 5",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Chris Turnock",
+						"Pat Gannon-leary"
+					]
+				},
+				{
+					"name": "On the Maximum Degree of Minimum Spanning Trees (Extended Abstract)",
+					"place": "- IN PROC. ACM SYMP. COMPUTATIONAL GEOMETRY, STONY",
+					"date": "null",
+					"authors": [
+						"Gabriel Robins",
+						"Jeffrey S. Salowe"
+					]
+				},
+				{
+					"name": "of the T) $ Users Group for 1990-91. The past two",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Nelson H. F. Beebe"
+					]
+				},
+				{
+					"name": "Powers of R-diagonal Elements",
+					"place": "- Journ. Operator Theory",
+					"date": "null",
+					"authors": [
+						"Flemming Larsen"
+					]
+				},
+				{
+					"name": "Complexity Theoretical Results for Randomized Branching Programs",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Martin Sauerhoff"
+					]
+				},
+				{
+					"name": "Subrecursion as Basis for a Feasible Programming Language",
+					"place": "- Proceedings of CSL&apos;94, number 933 in LNCS",
+					"date": "null",
+					"authors": [
+						"Paul J. Voda"
+					]
+				},
+				{
+					"name": "Efficient algorithms for optimal stream merging for media-on-demand",
+					"place": "-  ",
+					"date": "null",
+					"authors": [
+						"Amotz Bar-Noy",
+						"Richard E. Ladner"
+					]
+				},
+				{
+					"name": "Bayesian Statistical Analysis",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Samir Chettri"
+					]
+				},
+				{
+					"name": "For Authors",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Copyright Project",
+						"X For"
+					]
+				},
+				{
+					"name": "The Eulerian Representations of Î£_n as Restrictions of Representations of Î£_n+1",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Sarah Whitehouse"
+					]
+				},
+				{
+					"name": "Efficient address generation for affine subscripts in data-parallel programs",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jang-Ping Sheu",
+						"Kuei-Ping Shih",
+						"ChuaHuang Huang"
+					]
+				},
+				{
+					"name": "Some remarks on Kurepaï¿½??s left factorial",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Bernd C. Kellner"
+					]
+				},
+				{
+					"name": "Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"K. Myriam Kroll",
+						"Fabrice Berger",
+						"Gerard Barkema",
+						"Enrico Carlon"
+					]
+				},
+				{
+					"name": "A generalized linear complexity",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Mark Steven Stamp"
+					]
+				},
+				{
+					"name": "AN ANALYSIS OF A SIMPLE ALGORITHM FOR RANDOM DERANGEMENTS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Donatella Merlini",
+						"Renzo Sprugnoli",
+						"Maria Cecilia Verri"
+					]
+				},
+				{
+					"name": "Combinatorics, Commutative Algebra and Statistical Mechanics",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Der Universit&quot;at Wien",
+						"Martin Rubey"
+					]
+				},
+				{
+					"name": "by",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Saman Prabhath Amarasinghe",
+						"Monica S. Lam",
+						"John L. Hennessy",
+						"Anoop Gupta"
+					]
+				},
+				{
+					"name": "Broadcasting in Synchronous Networks with Dynamic Faults",
+					"place": "- Networks",
+					"date": "null",
+					"authors": [
+						"B. S. Chlebus",
+						"K. Diks",
+						"A. Pelc"
+					]
+				},
+				{
+					"name": "Estimating Replicability of Classifier Learning Experiments",
+					"place": "- In Proceedings of ICML",
+					"date": "null",
+					"authors": [
+						"Remco Bouckaert"
+					]
+				},
+				{
+					"name": "Modular Algorithms for Polynomial Basis Conversion and Greatest Factorial Factorization",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"J??rgen Gerhard"
+					]
+				},
+				{
+					"name": "Noncommutative symmetric functions and Lagrange inversion",
+					"place": "- Adv. Appl. Math",
+					"date": "null",
+					"authors": [
+						"Jean-christophe Novelli",
+						"Jean-yves Thibon"
+					]
+				},
+				{
+					"name": "Depth And Path Length Of Heap Ordered Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Helmut Prodinger"
+					]
+				},
+				{
+					"name": "Coupon Replication Systems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Contents L ATEX 2Îµ font selection",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Notices",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Lance Carnes"
+					]
+				},
+				{
+					"name": "Complex Numerical Values of the Wright! function",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Robert M. Corless",
+						"David J. JeÂ®rey"
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ahmed Helmi",
+						"Alois Panholzer"
+					]
+				},
+				{
+					"name": "LAURENT POLYNOMIALS AND EULERIAN NUMBERS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Daniel Erman",
+						"Gregory G. Smith",
+						"Anthony V??rilly-alvarado"
+					]
+				},
+				{
+					"name": "ESTIMATE OF THE NUMBER OF RESTRICTED INTEGER-PARTITIONS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Joel Ratsaby"
+					]
+				},
+				{
+					"name": "Extensibility and Efficiency of Top-Down Query Optimizers",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Klaus Julisch"
+					]
+				},
+				{
+					"name": "General Terms: Algorithms",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Robert M. Corless"
+					]
+				},
+				{
+					"name": "The Automatic Complexity Analysis of Divide-And-Conquer Algorithms",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"E De Recherche",
+						"Et En Automatique",
+						"Domaine De Voluceau",
+						"Paul Zimmermann",
+						"Paul Zimmermann",
+						"Wolf Zimmermann",
+						"Wolf Zimmermann"
+					]
+				},
+				{
+					"name": "PAC Learning of Interleaved Melodies",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Revised Brian Ross",
+						"Brian J. Ross"
+					]
+				},
+				{
+					"name": "Clique Polynomials and Trace Monoids",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Massimiliano Goldwurm",
+						"Laura Saporiti"
+					]
+				},
+				{
+					"name": "The \"Optical Formula Recognition\" System for Handprinted Input",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"J. Hartmann",
+						"G. Hotz",
+						"R. Loos",
+						"R. Marzinkewitsch",
+						"J. Quapp",
+						"F. Weigel",
+						"A. Weber"
+					]
+				},
+				{
+					"name": "An Algebraic Approach to a Class of Combinatorial Sums",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Donatella Merlini",
+						"Renzo Sprugnoli",
+						"M. Cecilia Verri"
+					]
+				},
+				{
+					"name": "Quantum Computers, Factoring and Decoherence",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Chuang Laflamme Shor",
+						"I. L. Chuang",
+						"R. Laflamme",
+						"P. W. Shor",
+						"W. H. Zurek"
+					]
+				},
+				{
+					"name": "T E X 2",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"For Authors Copyright",
+						"X For"
+					]
+				},
+				{
+					"name": "T E X 2",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Font Selection Copyright",
+						"X Font Selection"
+					]
+				},
+				{
+					"name": "Average case reductions for Subset Sum and Decoding of Linear Codes",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Genevieve Arboit"
+					]
+				},
+				{
+					"name": "Enumeration of Geometric Configurations on a Convex Polygon",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Marc Noy"
+					]
+				},
+				{
+					"name": "Factor Graphs and the Sum-Product Algorithm",
+					"place": "- IEEE TRANSACTIONS ON INFORMATION THEORY",
+					"date": "null",
+					"authors": [
+						"Frank R. Kschischang",
+						"Brendan J. Frey",
+						"Hans-Andrea Loeliger"
+					]
+				},
+				{
+					"name": "Succinct indexable dictionaries with applications to encoding k-ary trees and multisets",
+					"place": "- In Proceedings of the 13th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA",
+					"date": "null",
+					"authors": [
+						"Rajeev Raman",
+						"Venkatesh Raman",
+						"S. Srinivasa Rao"
+					]
+				},
+				{
+					"name": "Data and Computation Transformations for Multiprocessors",
+					"place": "- In Proceedings of the Fifth ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming",
+					"date": "null",
+					"authors": [
+						"Jennifer Anderson",
+						"Saman P. Amarasinghe",
+						"Monica S. Lam"
+					]
+				},
+				{
+					"name": "The method of creative telescoping",
+					"place": "- J. Symbolic Computation",
+					"date": "null",
+					"authors": [
+						"Doron Zeilberger"
+					]
+				},
+				{
+					"name": "GFUN: A Maple Package for the Manipulation of Generating and Holonomic Functions in One Variable",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Bruno Salvy",
+						"Paul Zimmermann"
+					]
+				},
+				{
+					"name": "Gap-definable counting classes",
+					"place": "- Journal of Computer and System Sciences",
+					"date": "null",
+					"authors": [
+						"S Fenner",
+						"L Fortnow",
+						"S Kurtz"
+					]
+				},
+				{
+					"name": "Discrete Mobile Centers",
+					"place": "- Discrete and Computational Geometry",
+					"date": "null",
+					"authors": [
+						"Jie Gao",
+						"Leonidas J. Guibas",
+						"John Hershberger",
+						"Li Zhang",
+						"An Zhu"
+					]
+				},
+				{
+					"name": "Coupon Replication Systems",
+					"place": "- in Proc. ACM SIGMETRICS",
+					"date": "null",
+					"authors": [
+						"Laurent Massouli?ï¿½",
+						"Milan Vojnoviï¿½?"
+					]
+				},
+				{
+					"name": "Sphere Packing Numbers for Subsets of the Boolean n-Cube with Bounded Vapnik-Chervonenkis Dimension",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David Haussler"
+					]
+				},
+				{
+					"name": "The Equivalence of Giugaï¿½??s and Agohï¿½??s Conjectures",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Bernd C. Kellner"
+					]
+				},
+				{
+					"name": "Counting canonical partitions in the random graph",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jean A Larson"
+					]
+				},
+				{
+					"name": "Performance Analysis of Combined Transmit Selection Diversity and Receive Generalized Selection Combining in Rayleigh Fading Channels",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Xiaodong Cai",
+						"Georgios B. Giannakis"
+					]
+				},
+				{
+					"name": "Tower of Hanoi, revisited",
+					"place": "- Also MAPS 92.1",
+					"date": "null",
+					"authors": [
+						"Kees Van Der Laan"
+					]
+				},
+				{
+					"name": "The Generalization of Quicksort",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Shyue-Horng Shiau Chang-Biau",
+						"Chang-biau Yang",
+						"Where Hm"
+					]
+				},
+				{
+					"name": "Tree codes and Equations",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Sabrina Mantaci"
+					]
+				},
+				{
+					"name": "Generating-Functions of Interconnection Networks",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jayadev Misra"
+					]
+				},
+				{
+					"name": "The Inductive Inference of Finite Interleaving with Synchronization",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Brian J. Ross"
+					]
+				},
+				{
+					"name": "The Power of One-Letter Rational Languages",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Thierry Cachat"
+					]
+				},
+				{
+					"name": "The Order Of The Fibonacci And Lucas Numbers",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"T. Lengyel"
+					]
+				},
+				{
+					"name": "Using Visualization To Teach Novices Recursion",
+					"place": "- Proceedings of the 6 th Annual Conference on Innovation and Technology in Computer Science Education",
+					"date": "null",
+					"authors": [
+						"Wanda Dann",
+						"Stephen Cooper"
+					]
+				},
+				{
+					"name": "Fast stabbing of boxes in high dimensions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Frank Nielsen"
+					]
+				},
+				{
+					"name": "A Fast and Robust General Purpose Clustering Algorithm",
+					"place": "- In Pacific Rim International Conference on Artificial Intelligence",
+					"date": "null",
+					"authors": [
+						"Vladimir Estivill-Castro",
+						"Jianhua Yang"
+					]
+				},
+				{
+					"name": "Discrete Loops and Worst Case Performance",
+					"place": "- Computer Languages",
+					"date": "null",
+					"authors": [
+						"Johann Blieberger"
+					]
+				},
+				{
+					"name": "Binomial Identities - Combinatorial and Algorithmic Aspects",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Volker Strehl"
+					]
+				},
+				{
+					"name": "On Approximation of Functions by Exponential Sums",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Gregory Beylkin",
+						"Lucas Monz??n"
+					]
+				},
+				{
+					"name": "Weighted and probabilistic context-free grammars are equally expressive",
+					"place": "- Computational Linguistics",
+					"date": "null",
+					"authors": [
+						"Noah A. Smith",
+						"Mark Johnson"
+					]
+				},
+				{
+					"name": "The Many Faces of Introspection",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Rok Sosic"
+					]
+				},
+				{
+					"name": "Modulo Intervals: A Proposed Notation",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Nachum Dershowitz",
+						"Edward M. Reingold"
+					]
+				},
+				{
+					"name": "Abstract. In this paper we study the function Ki(z) =",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Aleksandar Petojeviï¿½?"
+					]
+				},
+				{
+					"name": "Chapter 43 Deterministic",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"J. Ian",
+						"Munrot Thomas Papadakist"
+					]
+				},
+				{
+					"name": "Extracting Mathematical Semantics from L ATEX Documents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"J??rgen Stuber",
+						"Mark Van Den Br"
+					]
+				},
+				{
+					"name": "ISSN 1386-369XExtracting Mathematical Semantics from LaTeX Documents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"J. Stuber"
+					]
+				},
+				{
+					"name": "Complexity Analyses and Algorithms for Pickup and Delivery Problems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Gerardo Berbeglia"
+					]
+				},
+				{
+					"name": "Backward Stochastic Differential Equations under G-Brownian Motion",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Faizullah",
+						"Daxiong Piao"
+					]
+				},
+				{
+					"name": "ALGORITHMS AND SOFTWARE TOOLS FOR TEACHING MATHEMATICAL FUNDAMENTALS OF COMPUTER SECURITY",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Vladimir V. Riabov",
+						"Bryan J. Higgs"
+					]
+				},
+				{
+					"name": "Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Combinatorial sums and implicit Riordan arrays",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Donatella Merlini",
+						"Renzo Sprugnoli",
+						"Maria Cecilia Verri"
+					]
+				},
+				{
+					"name": "Alternating Sums of the Reciprocals of Binomial Coefficients",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hac?ï¿½ne Belbachir",
+						"Mourad Rahmani",
+						"El Alia",
+						"B. Sury"
+					]
+				},
+				{
+					"name": "A Restricted Random Walk defined via a Fibonacci Process",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Martin Griffiths",
+						"Un U"
+					]
+				},
+				{
+					"name": "The 1/k-Eulerian Polynomials",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Carla D. Savage",
+						"Gopal Viswanathan"
+					]
+				},
+				{
+					"name": "LATTICE PATHS, SAMPLING WITHOUT REPLACEMENT, AND THE KERNEL METHOD",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Markus Kuba",
+						"Alois Panholzer",
+						"Helmut Prodinger"
+					]
+				},
+				{
+					"name": "the On-line Encyclopedia of Integer Sequences [3, 4]. Here we prove conjecture 87.",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Elizabeth Wilmer"
+					]
+				},
+				{
+					"name": "1.4 Derived Types and Generic Functions::::::::::::::: 5",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Zane Dodson",
+						"New Source Form"
+					]
+				},
+				{
+					"name": "HowProbableisit toDiscardan Aceof Hearts?",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Rena Bakhshi",
+						"Wan Fokkink"
+					]
+				},
+				{
+					"name": "Toward Advanced Symbolic Analysis",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hansang Bae"
+					]
+				},
+				{
+					"name": "Quantum Random Walks and the Analysis of Discrete Quantum Processes",
+					"place": "- Proceedings of STOCï¿½??01",
+					"date": "null",
+					"authors": [
+						"Andris Ambainis",
+						"Eric Bach",
+						"John Watrous"
+					]
+				},
+				{
+					"name": "Highly Fault-Tolerant Sorting Circuits",
+					"place": "- In Proceedings of the 32nd Annual Symposium on Foundations of Computer Science",
+					"date": "null",
+					"authors": [
+						"Tom Leighton",
+						"Yuan Ma",
+						"C. Greg Plaxton"
+					]
+				},
+				{
+					"name": "Varieties of Mathematical Prose",
+					"place": "- Primus",
+					"date": "null",
+					"authors": [
+						"Atish Bagchi",
+						"Charles Wells"
+					]
+				},
+				{
+					"name": "On the density of languages representing finite set partitions",
+					"place": "- Journal of Integer Sequences",
+					"date": "null",
+					"authors": [
+						"Nelma Moreira",
+						"Rog?ï¿½rio Reis"
+					]
+				},
+				{
+					"name": "Clause Aggregation: An Approach to Generating Concise Text",
+					"place": "- COLUMBIA UNIVERSITY",
+					"date": "null",
+					"authors": [
+						"James C. Shaw"
+					]
+				},
+				{
+					"name": "On the Calculation of Arbitrary Moments of Polygons",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Carsten Steger"
+					]
+				},
+				{
+					"name": "Probabilistic and Nondeterministic Unary Automata",
+					"place": "- Proc. of Math. Foundations of Computer Science, Springer, LNCS 2747, 2003",
+					"date": "null",
+					"authors": [
+						"Gregor Gramlich"
+					]
+				},
+				{
+					"name": "Gossiping Models -- Formal Analysis of Epidemic Protocols",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Rena Bakhshi"
+					]
+				},
+				{
+					"name": "C.: Automatic retrieval of similar content using search engine query interface",
+					"place": "- In: Proceeding of the 18th ACM conference on Information and knowledge management - CIKM ï¿½??09",
+					"date": "null",
+					"authors": [
+						"Ali Dasdan",
+						"Santanu Kolay",
+						"Chris Drome"
+					]
+				},
+				{
+					"name": "A random formula lower bound for ordered DLL extended",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Olof Lindroth",
+						"Filosofie Licentiatavhandling",
+						"Olof Lindroth"
+					]
+				},
+				{
+					"name": "Combinatorics and Optimization",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Martha Yip",
+						"C Martha Yip"
+					]
+				},
+				{
+					"name": "A Framework for Interactive Multicast Data Transport in the Internet",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "A Framework for Interactive Multicast Data Transport in the Internet",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Table of Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Kumulative Habilitationsschrift"
+					]
+				},
+				{
+					"name": "Das inverse Problem Friedrich-Alexander-Universit?ï¿½t Erlangen-N??rnberg",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Regul?ï¿½re Sprachen",
+						"Lehrstuhl F??r Informatik",
+						"Diplomarbeit Im Fach Informatik",
+						"Christoph Koutschan",
+						"Betreuer Prof",
+						"Dr. Volker Strehl"
+					]
+				},
+				{
+					"name": "and Computer Typesetting",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Petr Sojka"
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ordered Theta",
+						"Graphsy Prosenjit",
+						"Bosez Joachim",
+						"Gudmundssonx Pat Morinz"
+					]
+				},
+				{
+					"name": "USERï¿½??S DECLARATION",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"A. A. Zito"
+					]
+				},
+				{
+					"name": "Solution: T (n) =6 n +1. 2",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Cs Schlag Winter"
+					]
+				},
+				{
+					"name": "Abstract IYER, PRASHANT. The Complexity of Traffic Grooming in Optical Path Networks with Egress",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Journal of Integer Sequences, Vol. 2 (1999), Article 99.1.5 Balls on the Lawn",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Colin L. Mallows",
+						"Lou Shapiro"
+					]
+				},
+				{
+					"name": "Collaborative VoDWp Contents PDS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Dick H. J. Epema",
+						"Johan Pouwelse",
+						"Maarten Van Steen"
+					]
+				},
+				{
+					"name": "1 INTRODUCTION Approximate Polynomial Decomposition ï¿½??",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Using Symbolic Summation and Polynomial Algebra for Imperative Program Verification",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"In Theorema",
+						"Laura Kov??cs",
+						"Tudor Jebelean A",
+						"Deepak Kapur B"
+					]
+				},
+				{
+					"name": "1 Introduction Cache Oblivious Algorithms",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Piyush Kumar"
+					]
+				},
+				{
+					"name": "Electronic Colloquium on Computational Complexity, Report No. 57 (2000) An Improved Hierarchy Result for Partitioned BDDs ï¿½??",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Martin Sauerhoff"
+					]
+				},
+				{
+					"name": "Discrete Mathematics and Theoretical Computer Science Proceedings AA (DM-CCG), 2001, 133ï¿½??144 A Bijection for Directed-Convex Polyominoes",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Alberto Del Lungo",
+						"Massimo Mirolli",
+						"Renzo Pinzani"
+					]
+				},
+				{
+					"name": "The Number of Connected Components in Graphs and Its Applications",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ryuhei Uehara",
+						"K The Factor"
+					]
+				},
+				{
+					"name": "Self-Assembly of Discrete Self-Similar Fractals",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Matthew J. Patitz",
+						"Scott M. Summers"
+					]
+				},
+				{
+					"name": "A Transformational Approach which Combines Size Inference and Program Optimization",
+					"place": "- SEMANTICS, APPLICATIONS, AND IMPLEMENTATION OF PROGRAM GENERATION (SAIGï¿½??01), LECTURE NOTES IN COMPUTER SCIENCE 2196",
+					"date": "null",
+					"authors": [
+						"Christoph A. Herrmann",
+						"Christian Lengauer"
+					]
+				},
+				{
+					"name": "Length Distributions and Regular Sequences",
+					"place": "- CODES, SYSTEMS AND GRAPHICAL MODELS, IMA VOLUMES IN MATHEMATICS AND ITS APPLICATIONS",
+					"date": "null",
+					"authors": [
+						"Fr?ï¿½d?ï¿½rique Bassino",
+						"Marie-Pierre B?ï¿½al",
+						"Dominique Perrin"
+					]
+				},
+				{
+					"name": "A Framework for Interactive Multicast Data Transport in the Internet",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Suchitra Raman"
+					]
+				},
+				{
+					"name": "Adaptive local linear regression with application to printer color management",
+					"place": "- IEEE Trans. on Image Processing",
+					"date": "null",
+					"authors": [
+						"Maya R. Gupta",
+						"Eric K. Garcia",
+						"Erika Chin"
+					]
+				},
+				{
+					"name": "Miscellaneous Isabelle/Isar examples for higher-order logic. Part of the Isabelle distribution, http://isabelle.in.tum.de/library/ HOL/Isar examples/document.pdf",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Markus Wenzel",
+						"Contributions Gertrud Bauer",
+						"Tobias Nipkow"
+					]
+				},
+				{
+					"name": "Faster exact Markovian probability functions for motif occurrences: a DFA-only approach",
+					"place": "- Bioinformatics",
+					"date": "null",
+					"authors": [
+						"Paolo Ribeca",
+						"Emanuele Raineri"
+					]
+				},
+				{
+					"name": "Analytic Combinatorics of the Mabinogion Urn",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Thierry Huillet"
+					]
+				},
+				{
+					"name": "Invariant Generation for P-solvable Loops with Assignments",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Laura Kov??cs"
+					]
+				},
+				{
+					"name": "Design of an Efficient Power Delivery Network in an SoC to Enable Dynamic Power Management",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Behnam Amelifard"
+					]
+				},
+				{
+					"name": "Rigidity Theory for Circle Homeomorphisms with Singularities",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Dmitri Viktorovich Khmelev"
+					]
+				},
+				{
+					"name": "A frogï¿½??s random jump and the P??lya identity",
+					"place": "- Ryukyu Math. Journal",
+					"date": "null",
+					"authors": [
+						"Norihide Tokushige"
+					]
+				},
+				{
+					"name": "The Statistical Significance of Max-Gap Clusters",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Rose Hoberman",
+						"David Sankoff",
+						"Dannie Durand"
+					]
+				},
+				{
+					"name": "Summation algorithms for Stirling number identities",
+					"place": "- Journal of Symbolic Computation",
+					"date": "null",
+					"authors": [
+						"Manuel Kauers"
+					]
+				},
+				{
+					"name": "COMBINATORIAL MODELS OF CREATIONï¿½??ANNIHILATION",
+					"place": "- S??MINAIRE LOTHARINGIEN DE COMBINATOIRE 65 (2011), ARTICLE B65C ",
+					"date": "null",
+					"authors": [
+						"Pawel Blasiak",
+						"Philippe Flajolet"
+					]
+				},
+				{
+					"name": "On a generalization of Carlitzï¿½??s congruence",
+					"place": "- Int. J. Mod. Math",
+					"date": "null",
+					"authors": [
+						"Hao Pan"
+					]
+				},
+				{
+					"name": "Weighted height of random trees",
+					"place": "- Manuscript",
+					"date": "null",
+					"authors": [
+						"N. Broutin",
+						"L. Devroye",
+						"E. Mcleish"
+					]
+				},
+				{
+					"name": "Abstract Analytic Combinatoricsï¿½?? A Calculus of Discrete Structures",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Design of an Efficient Power Delivery Network in an SoC to Enable Dynamic Power Management",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Some exactly solvable models of urn process theory",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Vincent Puyhaubert"
+					]
+				},
+				{
+					"name": "Strength Reduction of Integer Division and Modulo Operations",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "by",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Saman Prabhath Amarasinghe",
+						"Monica S. Lam",
+						"John L. Hennessy",
+						"Anoop Gupta"
+					]
+				},
+				{
+					"name": "Accessing Nearby Copies of Replicated Objects in a Distributed Environment",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"C. Greg",
+						"Plaxton Rajmohan",
+						"W. Richa"
+					]
+				},
+				{
+					"name": "Computing Limits of Sequences",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Manuel Kauers"
+					]
+				},
+				{
+					"name": "An Improved Algorithm for Subdivision Traversal without Extra Storage",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Prosenjit Bose",
+						"Pat Morin"
+					]
+				},
+				{
+					"name": "Enumeration of lozenge tilings of hexagons with cut off corners",
+					"place": "- J. Comb. Th. Ser. A",
+					"date": "null",
+					"authors": [
+						"Mihai Ciucu",
+						"Christian Krattenthaler"
+					]
+				},
+				{
+					"name": "Cache oblivious algorithms",
+					"place": "- Algorithms for Memory Hierarchies, LNCS 2625",
+					"date": "null",
+					"authors": [
+						"Piyush Kumar"
+					]
+				},
+				{
+					"name": "Data-Flow Frameworks for Worst-Case Execution Time Analysis",
+					"place": "- Real-Time Systems",
+					"date": "null",
+					"authors": [
+						"Johann Blieberger"
+					]
+				},
+				{
+					"name": "Efficient Broadcasting in Wormhole-Routed Multicomputers: A Network-Partitioning Approach",
+					"place": "- IEEE Transactions on Parallel and Distributed Systems",
+					"date": "null",
+					"authors": [
+						"Yu-Chee Tseng",
+						"San-yuan Wang",
+						"Chin-Wen Ho"
+					]
+				},
+				{
+					"name": "A Large-Scale Trust-Region Approach to the Regularization of Discrete Ill-Posed Problems",
+					"place": "- RICE UNIVERSITY",
+					"date": "null",
+					"authors": [
+						"Marielba Rojas"
+					]
+				},
+				{
+					"name": "Randomized K-Dimensional Binary Search Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Amalia Duch",
+						"Vladimir Estivill-Castro",
+						"Conrado Mart?ï¿½nez"
+					]
+				},
+				{
+					"name": "The concrete Tetrahedron",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Manuel Kauers"
+					]
+				},
+				{
+					"name": "Improved lower bounds for the capacity of i.i.d. deletion and duplication channels",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Eleni Drinea",
+						"Michael Mitzenmacher"
+					]
+				},
+				{
+					"name": "Spanning Trees in Hypergraphs with Applications to Steiner Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David Michael Warme"
+					]
+				},
+				{
+					"name": "Markov Analysis of Multiple-Disk Prefetching Strategies for External Merging",
+					"place": "- Theoretical Computer Science",
+					"date": "null",
+					"authors": [
+						"Vinay Sadananda Pai",
+						"Schlumberger Dowell",
+						"Alejandro A. Sch?ï¿½ffer",
+						"Peter J. Varman"
+					]
+				},
+				{
+					"name": "Computing the Similarity of Two Sequences with Nested Arc Annotations",
+					"place": "- Theoretical Computer Science",
+					"date": "null",
+					"authors": [
+						"Jochen Alber",
+						"Jens Gramm",
+						"Jiong Guo",
+						"Rolf Niedermeier"
+					]
+				},
+				{
+					"name": "SumCracker: A package for manipulating symbolic sums and related objects",
+					"place": "- J. Symb. Comput",
+					"date": "null",
+					"authors": [
+						"Manuel Kauers",
+						"Johannes Kepler Universit?ï¿½t"
+					]
+				},
+				{
+					"name": "Hierarchical Arc Consistency for Disjoint Real Intervals in Constraint Logic Programming",
+					"place": "- COMPUTATIONAL INTELLIGENCE",
+					"date": "null",
+					"authors": [
+						"Greg Sidebottom",
+						"William S. Havens"
+					]
+				},
+				{
+					"name": "Periodicities in linear fractional recurrences: degree growth of birational surface maps. Preprint at www.arxiv.org",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Eric Bedford",
+						"Kyounghee Kim"
+					]
+				},
+				{
+					"name": "Emerging Tools for Experimental Mathematics",
+					"place": "- American Mathematical Monthly",
+					"date": "null",
+					"authors": [
+						"Jonathan M. Borwein",
+						"Robert M. Corless"
+					]
+				},
+				{
+					"name": "Poisson process approximation for sequence repeats, and sequencing by hybridization",
+					"place": "- J. of Computational Biology",
+					"date": "null",
+					"authors": [
+						"Richard Arratia",
+						"Daniela Martin",
+						"Gesine Reinert",
+						"Michael S. Waterman"
+					]
+				},
+				{
+					"name": "Difference Matching",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David Basin",
+						"Toby Walsh"
+					]
+				},
+				{
+					"name": "Homological Computations for p-Groups",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Johannes Grabmeier",
+						"Larry A. Lambe"
+					]
+				},
+				{
+					"name": "Linear Recurrences",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"In This Section"
+					]
+				},
+				{
+					"name": "Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"For Authors Fl",
+						"X For"
+					]
+				},
+				{
+					"name": "Tower of Hanoi, revisited",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Kees Van Der",
+						"Kees Van Der Laan"
+					]
+				},
+				{
+					"name": "Admissible Digit Sets and a Modified Stern-Brocot Representation",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jesse Hughes",
+						"Milad Niqui"
+					]
+				},
+				{
+					"name": "1. STATEMENT OF THE PROBLEM AND FORMULATION OF THE RESULT",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"British Computer Society",
+						"Vladimir B. Balakirsky"
+					]
+				},
+				{
+					"name": "Contents L ATEX 2Îµ font selection",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Font Selection Copyright"
+					]
+				},
+				{
+					"name": "system for alphabet design. Noteworthy byproducts of those activities were the",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Languages For Structured",
+						"Donald E"
+					]
+				},
+				{
+					"name": "T E X 2",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Font Selection Copyright",
+						"X Font Selection"
+					]
+				},
+				{
+					"name": "Automatic Generation of Modular Time-space Mappings and Data Alignment",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hyuk-jae Lee",
+						"Jos?ï¿½ A.B. Fortes"
+					]
+				},
+				{
+					"name": "Skip Lists -- Some Results on a Recent Data Structure",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Peter Kirschenhofer"
+					]
+				},
+				{
+					"name": "T E X 2",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Font Selection Copyright"
+					]
+				},
+				{
+					"name": "Computing Dimensionally Parametrized Determinant Formulas",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Mark Ziegelmann"
+					]
+				},
+				{
+					"name": "Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "The Artist of Computer Programming",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Gregory W. Kulczycki"
+					]
+				},
+				{
+					"name": "Online Algorithms and Game Theory",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Pat Morin"
+					]
+				},
+				{
+					"name": "Sensitivity Analysis of Frequency Counting",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Theodore Johnson"
+					]
+				},
+				{
+					"name": "Handling Proximity for Text Problems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ricardo Baeza-yates",
+						"Walter Cunto"
+					]
+				},
+				{
+					"name": "Cheap operating systems research and teaching with Linux",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Victor Yodaiken"
+					]
+				},
+				{
+					"name": "Counting feasible solutions of the traveling salesman problem with pickups and deliveries is #P-complete",
+					"place": "- Discrete Applied Mathematics",
+					"date": "null",
+					"authors": [
+						"Gerardo Berbeglia",
+						"Ge??a Hahn"
+					]
+				},
+				{
+					"name": "A constrained version of Sauer's Lemma",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Joel Ratsaby"
+					]
+				},
+				{
+					"name": "Universal Maximally Flat Lowpass FIR Systems",
+					"place": "- IEEE TRANS. SIGNAL PROCESSING",
+					"date": "null",
+					"authors": [
+						"Saed Samadi",
+						"Akinori Nishihara",
+						"Hiroshi Iwakura"
+					]
+				},
+				{
+					"name": "The Hiring Problem and Permutations",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Margaret Archibald",
+						"Conrado Mart?ï¿½nez"
+					]
+				},
+				{
+					"name": "The Asymptotic Number of Attractors in the Random Map Model",
+					"place": "- J. Phys. A: Math. Gen",
+					"date": "null",
+					"authors": [
+						"David Romero",
+						"Federico Zertuche"
+					]
+				},
+				{
+					"name": "Time-dependent Schr?ï¿½dinger perturbations of transition densities",
+					"place": "- Studia Mathematica",
+					"date": "null",
+					"authors": [
+						"Krzysztof Bogdan",
+						"Wolfhard Hansen",
+						"Tomasz Jakubowski"
+					]
+				},
+				{
+					"name": "Definability Of Combinatorial Functions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Tomer Kotek"
+					]
+				},
+				{
+					"name": "On the High-Level Error Bound for Gaussian Interpolation",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Lin-tian Luh"
+					]
+				},
+				{
+					"name": "Shuffling Cards for Blackjack, Bridge, and Other Card Games",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Mark Conger",
+						"D. Viswanath"
+					]
+				},
+				{
+					"name": "A note on Brown and Shiueï¿½??s paper on a remark related to the Frobenius problem",
+					"place": "- Fibonacci Quarterly",
+					"date": "null",
+					"authors": [
+						"Oystein J. Rodseth"
+					]
+				},
+				{
+					"name": "COMPUTING BOUNDARY SLOPES OF 2-BRIDGE LINKS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jim Hoste",
+						"Patrick D. Shanahan"
+					]
+				},
+				{
+					"name": "Moments of Reciprocals of Binomial Coefficients",
+					"place": "- J. Integer Sequences",
+					"date": "null",
+					"authors": [
+						"Renzo Sprugnoli"
+					]
+				},
+				{
+					"name": "Counting Fixed-Height Tatami Tilings",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Frank Ruskey",
+						"Jennifer Woodcock"
+					]
+				},
+				{
+					"name": "Order Statistics in the Farey Sequences in Sublinear Time and Counting Primitive Lattice Points in Polygons",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jakub Pawlewicz",
+						"et al."
+					]
+				},
+				{
+					"name": "A Complete Invariant Generation Approach for P-solvable Loops",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Laura Kov??cs"
+					]
+				},
+				{
+					"name": "Covering Arrays on Graphs: Qualitative Independence Graphs and Extremal Set Partition Theory",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Karen Meagher"
+					]
+				},
+				{
+					"name": "Font Selection",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Copyright Project Team"
+					]
+				},
+				{
+					"name": "mit LATEX von",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ralf Banning",
+						"Heiko A. Groeneveld",
+						"Lat E X",
+						"Ralf Banning"
+					]
+				},
+				{
+					"name": "November 1995The Fourier Transform { A Primer",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hagit Shatkay",
+						"Hagit Shatkay"
+					]
+				},
+				{
+					"name": "Array Syntax Compilation and Performance Tuning",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Yuan Zhao",
+						"Danny C. Sorensen",
+						"Jack Dongarra",
+						"Robert Fowler",
+						"Yuan Zhao"
+					]
+				},
+				{
+					"name": "Efficient Algorithms for Computing Modular Exponentiation",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"D. J. Guan"
+					]
+				},
+				{
+					"name": "The Problem of Broker Placement in Peer-to-Peer Overlay Networks",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Dick H. J. Epema",
+						"Maarten Van Steen"
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Approximate Max k-Cut with Subgraph Guarantee",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jens Lagergreny Aless",
+						"Ro Panconesiz"
+					]
+				},
+				{
+					"name": "ABSTRACT A FRAMEWORK TO CREATE RESOURCE-BOUNDED NETWORK SERVICES",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jaiwant Mulik",
+						"Jaiwant Mulik"
+					]
+				},
+				{
+					"name": "Under consideration for publication in Theory and Practice of Logic Programming 1 Set Unification",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Agostino Dovier",
+						"Enrico Pontelli"
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "A Note on Minimum-Area Upward Drawing of Complete and Fibonacci Trees",
+					"place": "- Information Processing Letters",
+					"date": "null",
+					"authors": [
+						"Luca Trevisan"
+					]
+				},
+				{
+					"name": "Fast algorithms for Taylor shifts and certain difference equations (Extended Abstract)",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Joachim von zur Gathen",
+						"J??rgen Gerhard"
+					]
+				},
+				{
+					"name": "Computing the Width of a Three-Dimensional Point Set: Documentation",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"J?ï¿½rg Schwerdt",
+						"Michiel Smid"
+					]
+				},
+				{
+					"name": "Modern Computer Arithmetic",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Richard P. Brent",
+						"Paul Zimmermann"
+					]
+				},
+				{
+					"name": "There and back again",
+					"place": "- In ICFP ï¿½??02: Proceedings of the seventh ACM SIGPLAN international conference on Functional programming",
+					"date": "null",
+					"authors": [
+						"Olivier Danvy",
+						"Mayer Goldberg"
+					]
+				},
+				{
+					"name": "On computational properties of chains of recurrences",
+					"place": "- In Proceedings of the 2001 International Symposium on Symbolic and Algebraic Computation",
+					"date": "null",
+					"authors": [
+						"Eugene V. Zima"
+					]
+				},
+				{
+					"name": "A Calculus for the Random Generation of Combinatorial Structures",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Philippe Flajolet",
+						"Paul Zimmermann",
+						"Bernard Van Cutsem"
+					]
+				},
+				{
+					"name": "Induction Variable Substitution and Reduction Recognition in the Polaris Parallelizing Compiler",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"William Morton Pottenger"
+					]
+				},
+				{
+					"name": "On the Sandpile Group of a Graph",
+					"place": "- European Journal of Combinatorics",
+					"date": "null",
+					"authors": [
+						"Robert Cori",
+						"Dominique Rossin"
+					]
+				},
+				{
+					"name": "ï¿½?? Factoring to Compute the GCD of Univariate Approximate Polynomials",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Linear Recurrences",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Efficient Broadcasting in Wormhole-Routed Multicomputers: A Network-Partitioning Approach",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Chin-wen Ho",
+						"Ieee Computer Society"
+					]
+				},
+				{
+					"name": "On Polynomials Related to Derivatives of the Generating Function of Catalan Numbers",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Coupon Replication Systems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Perceptrons, Regression, and Global Network Optimization i TABLE OF CONTENTS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"John F. Elder Iv"
+					]
+				},
+				{
+					"name": "Approximate Polynomial Decomposition \\Lambda",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Robert M. Corlessyz",
+						"Mark W. Giesbrechtz",
+						"David J. Jeffreyy",
+						"Stephen M. Wattzy"
+					]
+				},
+				{
+					"name": "Rank complement of diagonalizable matrices using polynomial functions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Klas Nordberg",
+						"Gunnar Farneb?ï¿½ck"
+					]
+				},
+				{
+					"name": "Bijlage Q Towers of Hanoi 69 Towers of Hanoi, revisited",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Kees Van Der",
+						"Kees Van Der Laan"
+					]
+				},
+				{
+					"name": "Lattice paths, sampling without replacement, and limiting distributions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"M. Kuba",
+						"A. Panholzer",
+						"H. Prodinger",
+						"Technische Universit?ï¿½t Wien"
+					]
+				},
+				{
+					"name": "Complexity Analysis of a Fast Modular Multiexponentiation Algorithm",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Haimin Jin",
+						"Duncan S. Wong",
+						"Yinlong Xu"
+					]
+				},
+				{
+					"name": "Using Computer Algebra techniques for the specification, verification and synthesis of recursive programs",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Nikolaj Popov",
+						"Tudor Jebelean"
+					]
+				},
+				{
+					"name": "Machine-Checked Real-Time System Verification",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Matthew Michael Wilding"
+					]
+				},
+				{
+					"name": "A Fast Bitwise Algorithm for Computing the Subset Partial Order",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Paul Pritchard"
+					]
+				},
+				{
+					"name": "Average Case-Analysis Of Priority Trees: A Structure For Priority Queue Administration",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Alois Panholzer",
+						"Helmut Prodinger"
+					]
+				},
+				{
+					"name": "THE FELINE JOSEPHUS PROBLEM",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Frank Ruskey",
+						"Aaron Williams"
+					]
+				},
+				{
+					"name": "Parity-alternate permutations and signed Eulerian numbers",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"S Tanimoto"
+					]
+				},
+				{
+					"name": "A verification environment for imperative and functional programs in the theorema system",
+					"place": "- Satellite of 2nd Balkan Conference in Informatics, 17-19 November, Ohrid. Contributed talk at 2nd South-East European Workshop on Formal Methods (SEEFM05), ï¿½??Practical dimensions: Challenges in the business worldï¿½??, Ohrid, FYR of Macedonia",
+					"date": "null",
+					"authors": [
+						"Laura Ildik?? Kov??cs",
+						"Nikolaj Popov",
+						"Tudor Jebelean"
+					]
+				},
+				{
+					"name": "Euler-VM: Generic math fonts for use with L ATEX",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Walter Schmidt"
+					]
+				},
+				{
+					"name": "Scheduling Divisible Loads on Star and Tree Networks: Results and Open Problems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Olivier Beaumount",
+						"Henri Casanova",
+						"Arnaud Legrand",
+						"Yves Robert",
+						"Yang Yang"
+					]
+				},
+				{
+					"name": "1 CONTENT-DEPENDENT CHUNKING FOR DIFFERENTIAL COMPRESSION, THE LOCAL MAXIMUM APPROACH",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Nikolaj Bj?ï¿½rner",
+						"Andreas Blass",
+						"Yuri Gurevich"
+					]
+				},
+				{
+					"name": "Supported in part by the Fund for the Improvement of Post-Secondary Education (Grant",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Charles Wells",
+						"Charles Wells",
+						"Gco Charles Wells"
+					]
+				},
+				{
+					"name": "On the Variance of Quickselect",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jean Daligault",
+						"Conrado Mart?ï¿½nez"
+					]
+				},
+				{
+					"name": "Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "(6) TABLE 1. B(n, m) Central Binomial Triangle 7VV",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Wolfdieter Lang"
+					]
+				},
+				{
+					"name": "Relative Node Polynomials for Plane Curves",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Florian Block"
+					]
+				},
+				{
+					"name": "^-FIBONACCI POLYNOMIALS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Johann Cigler"
+					]
+				},
+				{
+					"name": "On the Trellis Structure of Bloc",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Frank R. Kschischang",
+						"Vladislav Sorokine",
+						"Student Member"
+					]
+				},
+				{
+					"name": "Summation in Maple",
+					"place": "- MAPLE TECH. NEWSLETT",
+					"date": "null",
+					"authors": [
+						"Wolfram Koepf"
+					]
+				},
+				{
+					"name": "Keys, Nominate, and Concrete Domains",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Carsten Lutz",
+						"Carlos Areces",
+						"Ian Horrocks",
+						"Ulrike Sattler"
+					]
+				},
+				{
+					"name": "Proper generating trees and their internal path length",
+					"place": "- Discrete Applied Mathematics",
+					"date": "null",
+					"authors": [
+						"Donatella Merlini"
+					]
+				},
+				{
+					"name": "POLYNOMIALS, MEANDERS, AND PATHS IN THE LATTICE OF NONCROSSING PARTITIONS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David Savitt"
+					]
+				},
+				{
+					"name": "DIAMETERS OF CAYLEY GRAPHS OF CHEVALLEY GROUPS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"M. Kassabov",
+						"T. R. Riley"
+					]
+				},
+				{
+					"name": "Zeckendorf Integer Arithmetic",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Peter Fenwick"
+					]
+				},
+				{
+					"name": "On Optimizing Multi-Sequence Functionals for Competitive Analysis",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Tom Kamphans",
+						"Elmar Langetepe"
+					]
+				},
+				{
+					"name": "Load Balancing on the Hypercube and Shuffle-Exchange",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"C. Greg Plaxton"
+					]
+				},
+				{
+					"name": "The Wright ?? Function",
+					"place": "- IN: ARTIFICIAL INTELLIGENCE, AUTOMATED REASONING, AND SYMBOLIC",
+					"date": "null",
+					"authors": [
+						"Robert M. Corless",
+						"D. J. Jeffrey"
+					]
+				},
+				{
+					"name": "Font Selection",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Copyright Project",
+						"X Font Selection"
+					]
+				},
+				{
+					"name": "Indecomposable Prefix Codes and Prime Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Maria Gabriella Castelli",
+						"Daniela Guaiana",
+						"Sabrina Mantaci"
+					]
+				},
+				{
+					"name": "The Level Of Nodes In Heap Ordered Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Helmut Prodinger"
+					]
+				},
+				{
+					"name": "Cache Awareness in Blocking Techniques, Part II",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"O. Temam",
+						"C. Fricker",
+						"W. Jalby"
+					]
+				},
+				{
+					"name": "Integer Division, Clock Arithmetic, and Congruences",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Even And",
+						"Odd Fibonacci Numbers"
+					]
+				},
+				{
+					"name": "List Decoding of Lee Metric Codes",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ido Tal"
+					]
+				},
+				{
+					"name": "On the Concept of Optimality Interval",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Pelegr?ï¿½ Viader",
+						"Jaume Parad?ï¿½s",
+						"Llu?ï¿½s Bibiloni"
+					]
+				},
+				{
+					"name": "An Efficient Technique for Calculating Exact Nearest-Neighbor Classification Accuracy",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Matthew Mullin Just",
+						"Matthew Mullin",
+						"Rahul Sukthankar"
+					]
+				},
+				{
+					"name": "The Fourier Transform -- A Primer",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hagit Shatkay Department",
+						"Hagit Shatkay"
+					]
+				},
+				{
+					"name": "Decomposing a Permutation into a Conjugated Tensor Product",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Sebastian Egner",
+						"Markus P??schel",
+						"Thomas Beth"
+					]
+				},
+				{
+					"name": "Computing Resolutions over Finite p-Groups",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Johannes Grabmeier",
+						"Larry A. Lambe"
+					]
+				},
+				{
+					"name": "Approximation of Boolean Functions by Combinatorial Rectangles",
+					"place": "- Electr. Coll. on Comp. Compl",
+					"date": "null",
+					"authors": [
+						"Martin Sauerhoff"
+					]
+				},
+				{
+					"name": "More Lower Bounds for Weak Sense of Direction: The Case of Regular Graphs",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Paolo Boldi",
+						"Sebastiano Vigna"
+					]
+				},
+				{
+					"name": "A non-automatic (!) application of Gosper's algorithm evaluates a determinant from tiling enumeration",
+					"place": "- Rocky Mountain J. Math. (to",
+					"date": "null",
+					"authors": [
+						"M. Ciucu",
+						"C. Krattenthaler",
+						"A- Wien"
+					]
+				},
+				{
+					"name": "The concmath package",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ulrik Vieth"
+					]
+				},
+				{
+					"name": "Counting the Number of Fault Patterns in Redundant VLSI Arrays",
+					"place": "- INFORMATION PROCESSING LETTERS",
+					"date": "null",
+					"authors": [
+						"Linda Pagli",
+						"Geppino Pucci"
+					]
+				},
+				{
+					"name": "Resource Bounded Measure and Learnability",
+					"place": "- IN PROC. 13TH ANNUAL IEEE CONFERENCE ON COMPUTATIONAL COMPLEXITY",
+					"date": "null",
+					"authors": [
+						"Wolfgang Lindner",
+						"Rainer Schuler",
+						"Osamu Watanabe"
+					]
+				},
+				{
+					"name": "Fibrations of Graphs",
+					"place": "- DISCRETE MATH",
+					"date": "null",
+					"authors": [
+						"Paolo Boldi",
+						"Sebastiano Vigna"
+					]
+				},
+				{
+					"name": "Dynamic Frequency Scaling with Buffer Insertion for Mixed Workloads",
+					"place": "- IEEE Transactions on",
+					"date": "null",
+					"authors": [
+						"Yung-Hsiang Lu",
+						"Luca Benini",
+						"Giovanni De Micheli"
+					]
+				},
+				{
+					"name": "On Takeover Times in Spatially Structured Populations: Array and Ring",
+					"place": "- PROCEEDINGS OF THE SECOND ASIA-PACIFIC CONFERENCE ON GENETIC ALGORITHMS AND APPLICATIONS",
+					"date": "null",
+					"authors": [
+						"G??nter Rudolph"
+					]
+				},
+				{
+					"name": "Scheduling Independent Multiprocessor Tasks",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"A. K. Amoura",
+						"E. Bampis",
+						"C. Kenyon",
+						"Y. Manoussakis"
+					]
+				},
+				{
+					"name": "Information-Theoretically Secure Secret-Key Agreement by NOT Authenticated Public Discussion",
+					"place": "- Advances in Cryptology - EUROCRYPT &apos;97, Lecture",
+					"date": "null",
+					"authors": [
+						"Ueli Maurer"
+					]
+				},
+				{
+					"name": "Strict self-assembly of discrete Sierpinski triangles",
+					"place": "- Proceedings of The Third Conference on Computability in Europe",
+					"date": "null",
+					"authors": [
+						"James I. Lathrop",
+						"Jackh. Lutz",
+						"Scott M. Summers"
+					]
+				},
+				{
+					"name": "A Simple Sampling Lemma: Analysis and Applications in Geometric Optimization",
+					"place": "- Discr. Comput. Geometry",
+					"date": "null",
+					"authors": [
+						"Bernd G?ï¿½rtner",
+						"Emo Welzl"
+					]
+				},
+				{
+					"name": "Ordered Theta Graphs",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Prosenjit Bose",
+						"Joachim Gudmundsson",
+						"Pat Morin"
+					]
+				},
+				{
+					"name": "A Sequence of Series for The Lambert Function",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Robert Corless",
+						"David Jeffrey",
+						"Donald Knuth"
+					]
+				},
+				{
+					"name": "On Computing the Subset Graph of a Collection of Sets",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Paul Pritchard",
+						"Log N Ram"
+					]
+				},
+				{
+					"name": "Analysis of a system of linear delay differential equations",
+					"place": "- Journal of Dynamic System, Measurement and Control",
+					"date": "null",
+					"authors": [
+						"A. Galip Ulsoy"
+					]
+				},
+				{
+					"name": "Low-Light Trees, and Tight Lower Bounds for Euclidean Spanners",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Yefim Dinitz",
+						"Michael Elkin",
+						"Shay Solomon"
+					]
+				},
+				{
+					"name": "Algebraic methods for computing smallest enclosing and circumscribing cylinders of simplices",
+					"place": "- Appl. Algebra Eng. Commun. Comput",
+					"date": "null",
+					"authors": [
+						"Ren?ï¿½ Brandenberg",
+						"Thorsten Theobald"
+					]
+				},
+				{
+					"name": "On the Number of Descendants and Ascendants in Random Search Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Conrado Mart?ï¿½nez",
+						"Helmut Prodinger"
+					]
+				},
+				{
+					"name": "Analytical Computation of Ehrhart Polynomials and its Application in Compile-Time Generated Cache Hints",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Rachid Seghir",
+						"Sven Verdoolaege",
+						"Kristof Beyls",
+						"Vincent Loechner"
+					]
+				},
+				{
+					"name": "Counting Occurrences of a Pattern of Type (1,2) or (2,1",
+					"place": "- in Permutations, Adv. in App. Maths",
+					"date": "null",
+					"authors": [
+						"A Claesson",
+						"T Mansour"
+					]
+				},
+				{
+					"name": "Decomposition of perturbed Chebyshev polynomials",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Thomas Stoll"
+					]
+				},
+				{
+					"name": "Balanced Parentheses Strike Back",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hsueh-i Lu",
+						"Chia-chi Yeh"
+					]
+				},
+				{
+					"name": "Partial match queries in relaxed multidimensional search trees",
+					"place": "- Algorithmica",
+					"date": "null",
+					"authors": [
+						"C. Mart?ï¿½nez",
+						"A. Panholzer",
+						"H. Prodinger"
+					]
+				},
+				{
+					"name": "One-Dimensional Quantum Walks",
+					"place": "- STOC&apos;01",
+					"date": "null",
+					"authors": [
+						"Andris Ambainis",
+						"et al."
+					]
+				},
+				{
+					"name": "Cache Interference Phenomena",
+					"place": "- In Proceedings of the Sigmetrics Conference on Measurement and Modeling of Computer Systems",
+					"date": "null",
+					"authors": [
+						"O. Temam",
+						"C. Fricker",
+						"W. Jalby"
+					]
+				},
+				{
+					"name": "Computer Generated Proofs of Binomial Multi-Sum Identities",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Kurt Wegschaider"
+					]
+				},
+				{
+					"name": "An Extension Of Zeilberger's Fast Algorithm To General Holonomic Functions",
+					"place": "- DISCRETE MATH",
+					"date": "null",
+					"authors": [
+						"Frederic Chyzak"
+					]
+				},
+				{
+					"name": "Rational functions certify combinatorial identities",
+					"place": "- J. Amer. Math. Soc",
+					"date": "null",
+					"authors": [
+						"Herbert S. Wilf",
+						"Doron Zeilberger"
+					]
+				},
+				{
+					"name": "Efficient discovery of error-tolerant frequent itemsets in high dimensions",
+					"place": "- In SIGKDD 2001",
+					"date": "null",
+					"authors": [
+						"Cheng Yang"
+					]
+				},
+				{
+					"name": "Downward Refinement and the Efficiency of Hierarchical Problem Solving",
+					"place": "- Artificial Intelligence",
+					"date": "null",
+					"authors": [
+						"Fahiem Bacchus",
+						"Qiang Yang"
+					]
+				},
+				{
+					"name": "UMR: A Multi-Round Algorithm for Scheduling Divisible Workloads",
+					"place": "- In Proceedings of the International Parallel and Distributed Processing Symposium (IPDPSï¿½??03",
+					"date": "null",
+					"authors": [
+						"Yang Yang",
+						"Henri Casanova"
+					]
+				},
+				{
+					"name": "Varieties of Increasing Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"F. Bergeron",
+						"Philippe Flajolet",
+						"Bruno Salvy"
+					]
+				},
+				{
+					"name": "A New Coding Algorithm for Trees",
+					"place": "- Comp. J",
+					"date": "null",
+					"authors": [
+						"Vladimir Balakirsky"
+					]
+				},
+				{
+					"name": "On the Efficiency of Nearest Neighbor Load Balancing for Random Loads",
+					"place": "- Proc. Parcella ï¿½??96: Seventh Intï¿½??l Workshop Parallel Processing by Cellular Automata and Arrays, Akademie Verlag",
+					"date": "null",
+					"authors": [
+						"Peter Sanders"
+					]
+				},
+				{
+					"name": "The euler package",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Frank Jensen"
+					]
+				},
+				{
+					"name": "q-Distributions in Random Graphs: Transitive Closure and Reduction",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Davide Crippa",
+						"Klaus Simon"
+					]
+				},
+				{
+					"name": "Stirling Numbers for Complex Arguments",
+					"place": "- SIAM JOURNAL ON DISCRETE MATHEMATICS",
+					"date": "null",
+					"authors": [
+						"Bruce Richmond",
+						"Donatella Merlini"
+					]
+				},
+				{
+					"name": "The h-vector of a ladder determinantal ring cogenerated by 2??2 minors is log-concave",
+					"place": "- J. Algebra",
+					"date": "null",
+					"authors": [
+						"Martin Rubey"
+					]
+				},
+				{
+					"name": "Strategies For The Modelling And Simulation Of Asynchronous Computer Architectures",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Georgios Theodoropoulos"
+					]
+				},
+				{
+					"name": "Riffle shuffles of decks with repeated cards",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Mark Conger",
+						"D. Viswanath"
+					]
+				},
+				{
+					"name": "Navigating the Cayley graphs of SLN(Z) and SLN(Fp",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"T. R. Riley"
+					]
+				},
+				{
+					"name": "Hanoi graphs and some classical numbers",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Expo Math"
+					]
+				},
+				{
+					"name": "Approximate Polynomial Decomposition ï¿½??",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Stephen M. Watt"
+					]
+				},
+				{
+					"name": "A stochastic approach to count RNA molecules using DNA sequencing methods",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Boris Hollas",
+						"Rainer Schuler"
+					]
+				},
+				{
+					"name": "Recursive Integration of Piecewise-Continuous Functions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"D. J. Jeffrey",
+						"A. D. Rich"
+					]
+				},
+				{
+					"name": "Computing the Subset Partial Order: Progress and Open Problems (Extended Abstract)",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Paul Pritchard"
+					]
+				},
+				{
+					"name": "LINEAR RECURRENCES AND POWER SERIES DIVISION",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Herwig Hauser",
+						"Christoph Koutschan"
+					]
+				},
+				{
+					"name": "TU Dortmund",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Rolf Klein",
+						"Rainer Penninger",
+						"Christian Sohler",
+						"David P. Woodruff"
+					]
+				},
+				{
+					"name": "THE MERCHANDISING MATHEMATICIAN MODEL. STOCHASTIC DEMAND AND SUPPLY.",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"W. Piotrowski"
+					]
+				},
+				{
+					"name": "SPANNING SETS FOR M??BIUS VERTEX ALGEBRAS SATISFYING ARBITRARY DIFFERENCE CONDITIONS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Geoffrey Buhl",
+						"Gizem Karaali"
+					]
+				},
+				{
+					"name": "On the trellis structure of block codes",
+					"place": "- IEEE Trans. Inform. Theory",
+					"date": "null",
+					"authors": [
+						"F R Kschischang",
+						"V Sorokine"
+					]
+				},
+				{
+					"name": "Algorithmic Manipulations and Transformations of Univariate Holonomic Functions and Sequences",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Christian Mallinger"
+					]
+				},
+				{
+					"name": "Fast Concurrent Access to Parallel Disks",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Peter Sanders",
+						"Sebastian Egner",
+						"Jan Korst"
+					]
+				},
+				{
+					"name": "On-line Prediction and Conversion Strategies",
+					"place": "- Machine Learning",
+					"date": "null",
+					"authors": [
+						"N. Cesa-bianchi",
+						"Y. Freund",
+						"D.P. Helmbold",
+						"M. Warmuth"
+					]
+				},
+				{
+					"name": "Scheduling Divisible Loads for Star and Tree Networks: RESULTS AND OPEN PROBLEMS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Olivier Beaumont",
+						"Henri Casanova",
+						"Arnaud Legrand",
+						"Yves Robert",
+						"Yang Yang"
+					]
+				},
+				{
+					"name": "Upper and Lower Bounds for Randomized Search Heuristics . . .",
+					"place": "- ELECTRONIC COLLOQUIUM ON COMPUTATIONAL COMPLEXITY (ECCC",
+					"date": "null",
+					"authors": [
+						"Stefan Droste",
+						"Thomas Jansen",
+						"Ingo Wegener"
+					]
+				},
+				{
+					"name": "A Na??ve Time Analysis and its Theory of Cost Equivalence",
+					"place": "- Journal of Logic and Computation",
+					"date": "null",
+					"authors": [
+						"David Sands"
+					]
+				},
+				{
+					"name": "Competitive Online Routing in Geometric Graphs",
+					"place": "- Theoretical Computer Science",
+					"date": "null",
+					"authors": [
+						"Prosenjit Bose",
+						"Pat Morin"
+					]
+				},
+				{
+					"name": "High-level filtering for arrangements of conic arcs",
+					"place": "- In Proc. ESA 2002",
+					"date": "null",
+					"authors": [
+						"Ron Wein"
+					]
+				},
+				{
+					"name": "Parametric Timing Estimation With Newton-Gregory Formulae ï¿½??",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Robert Van Engelen",
+						"Kyle Gallivan",
+						"Burt Walsh"
+					]
+				},
+				{
+					"name": "On polynomials related to powers of the generating function of Catalanï¿½??s numbers, Fibonacci Quart",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Wolfdieter Lang"
+					]
+				},
+				{
+					"name": "Tile Selection Algorithms and Their Performance Models",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Chung-hsing Hsu",
+						"Ulrich Kremer"
+					]
+				},
+				{
+					"name": "On the Competitive Analysis of Randomized Static Load Balancing",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Peter Sanders"
+					]
+				},
+				{
+					"name": "A Stable and Efficient Loop Tiling Algorithm",
+					"place": "- Mid-Atlantic Student Workshop on Programming Languages and Systems",
+					"date": "null",
+					"authors": [
+						"Chung-hsing Hsu",
+						"Ulrich Kremer"
+					]
+				},
+				{
+					"name": "Fast parallel computation of the polynomial shift",
+					"place": "- In IPPS&apos;97",
+					"date": "null",
+					"authors": [
+						"Eugene V. Zima"
+					]
+				},
+				{
+					"name": "Random Sampling in Geometric Optimization: New Insights and Applications",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Bernd G?ï¿½rtner",
+						"Emo Welzl"
+					]
+				},
+				{
+					"name": "The bricklayer problem and the strong cycle lemma",
+					"place": "- Amer. Math. Monthly",
+					"date": "null",
+					"authors": [
+						"Hunter S. Snevily"
+					]
+				},
+				{
+					"name": "Relating Branching Program Size and Formula Size over the Full Binary Basis",
+					"place": "- In Proc. of 16th STACS, LNCS 1563",
+					"date": "null",
+					"authors": [
+						"Martin Sauerhoff",
+						"Ingo Wegener",
+						"Ralph Werchner"
+					]
+				},
+				{
+					"name": "Testability of 2-Level AND/EXOR Circuits",
+					"place": "- in European Design &amp; Test Conf",
+					"date": "null",
+					"authors": [
+						"Rolf Drechsler",
+						"Harry Hengster",
+						"Horst Sch?ï¿½fer",
+						"Joachim Hartmann",
+						"Bernd Becker"
+					]
+				},
+				{
+					"name": "Statistics on Random Trees",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"R. Casas",
+						"J. D?ï¿½az",
+						"C. Martinez"
+					]
+				},
+				{
+					"name": "q-Distributions and Markov Processes",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Davide Crippa",
+						"Klaus Simon"
+					]
+				},
+				{
+					"name": "Optimal Ordered Binary Decision Diagrams for Read-Once Formulas",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Martin Sauerhoff",
+						"Ingo Wegener",
+						"Ralph Werchner"
+					]
+				},
+				{
+					"name": "On constructing resolutions over the polynomial algebra",
+					"place": "- HOMOLOGY, HOMOTOPY AND APPLICATIONS",
+					"date": "null",
+					"authors": [
+						"Leif Johansson",
+						"Larry Lambe",
+						"Emil Sk?ï¿½ldberg"
+					]
+				},
+				{
+					"name": "Size estimation of the intersection join between two line segment datasets",
+					"place": "- In Proceedings 4rd East-European Conference on Advances in Databases and Information Systems (ADBIS 2000",
+					"date": "null",
+					"authors": [
+						"Enrico Nardelli",
+						"Guido Proietti"
+					]
+				},
+				{
+					"name": "AVERAGE CASE ANALYSIS OF DJ GRAPHS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Johann Blieberger"
+					]
+				},
+				{
+					"name": "Permutations with given peak set",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Sara Billey",
+						"Krzysztof Burdzy",
+						"Bruce E. Sagan"
+					]
+				},
+				{
+					"name": "A new algorithm for constructing large Carmichael",
+					"place": "- Ken Nakamula, Department of Mathematics and Information Sciences, Tokyo Metropolitan University, Minami-Osawa, Hachioji",
+					"date": "null",
+					"authors": [
+						"G??nter L?ï¿½h",
+						"Wolfgang Niebuhr"
+					]
+				},
+				{
+					"name": "Multiplicative function instead of logarithm. An elementary approach",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"E. Yu. Lerner"
+					]
+				},
+				{
+					"name": "approach for wavelets",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Fr?ï¿½d?ï¿½ric Chyzak",
+						"Peter Paule",
+						"Otmar Scherzer",
+						"Armin Schoisswohl",
+						"Burkhard Zimmermann"
+					]
+				},
+				{
+					"name": "Abstract Coverings That Preserve Sense of Direction ï¿½??",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Time Improvement on Josephus Problem",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Fatih Gelgi"
+					]
+				},
+				{
+					"name": "Efficient and Fast RNC Algorithms for the Uniform Generation of Unlabelled Graphs",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Michele Zito"
+					]
+				},
+				{
+					"name": "ON FINITELY GENERATED GROUPS AND PROBLEMS RELATED TO GROWTH",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Rostislav Grigorchuk",
+						"Pierre De La Harpe"
+					]
+				},
+				{
+					"name": "SW-SB-SS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "SOME BINOMIAL CONVOLUTION FORMULAS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Chu Wenchang"
+					]
+				},
+				{
+					"name": "On the Number of Carries Occuring in an Addition mod 2 k ï¿½?? 1",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jean-pierre Flori",
+						"Hugues Randriam"
+					]
+				},
+				{
+					"name": "On the Non-Approximability of Boolean Functions by OBDDs and Read-K-Times Branching Programs",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Beate Bollig",
+						"Martin Sauerhoff",
+						"Ingo Wegener"
+					]
+				},
+				{
+					"name": "The Influence of Memory on Creating Order",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Ulrich Tamm"
+					]
+				},
+				{
+					"name": "Multiuser Information Processing in Wireless Communication",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Suman Das"
+					]
+				},
+				{
+					"name": "Coverings That Preserve Sense of Direction",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Paolo Boldi",
+						"Sebastiano Vigna"
+					]
+				},
+				{
+					"name": "Strip Tiling and Regular Grammars",
+					"place": "- THEORETICAL COMPUTER SCIENCE",
+					"date": "null",
+					"authors": [
+						"Donatella Merlini",
+						"Renzo Sprugnoli",
+						"M. Cecilia Verri"
+					]
+				},
+				{
+					"name": "Theories of hydrophobic effects and the description of free volume in complex liquids",
+					"place": "- New Approaches to Problems in Liquid State Theory, volume 529, 407ï¿½??420 (Kluwer",
+					"date": "null",
+					"authors": [
+						"Lawrence R. Pratt",
+						"Shekhar Garde",
+						"Gerhard Hummer"
+					]
+				},
+				{
+					"name": "Lower and Upper Bounds for (Sums of) Binomial Coefficients",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Thomas Worsch"
+					]
+				},
+				{
+					"name": "Number Theory And Formal Languages",
+					"place": "- Emerging Applications of Number Theory, IMA Volumes in Mathematics and Applications",
+					"date": "null",
+					"authors": [
+						"Jeffrey Shallit"
+					]
+				},
+				{
+					"name": "Empirically Determined Ap ery-Like Formulae for",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jonathan Borwein And",
+						"Jonathan Borwein",
+						"David Bradley"
+					]
+				},
+				{
+					"name": "Hopcroftï¿½??s automaton minimization algorithm and Sturmian words, in: Discrete Mathematics and Theoretical Computer Science 2008",
+					"place": "- DMTCS Proc. Series",
+					"date": "null",
+					"authors": [
+						"Jean Berstel",
+						"Luc Boasson",
+						"Olivier Carton"
+					]
+				},
+				{
+					"name": "STANLEY DECOMPOSITIONS AND HILBERT DEPTH IN THE KOSZUL COMPLEX",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Winfried Bruns",
+						"Christian Krattenthaler",
+						"Jan Uliczka"
+					]
+				},
+				{
+					"name": "Multiple Harmonic Sums I: Generalizations of Wolstenholmeï¿½??s Theorem",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jianqiang Zhao"
+					]
+				},
+				{
+					"name": "Some intersection numbers of divisors on toroidal compactifications of Ag",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"C. Erdenberger",
+						"S. Grushevsky",
+						"K. Hulek"
+					]
+				},
+				{
+					"name": "On Moessnerï¿½??s Theorem",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Dexter Kozen",
+						"Alexandra Silva"
+					]
+				},
+				{
+					"name": "ON SAMPLING WITHOUT REPLACEMENT AND OK-CORRAL URN MODELS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Markus Kuba"
+					]
+				},
+				{
+					"name": "MpNT: A Multi-Precision Number Theory Package. Number-Theoretic . . .",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"F. L. Tiplea",
+						"S. Iftene",
+						"I. Goriac",
+						"R. M. Gord??n",
+						"E. Erbiceanu",
+						"et al."
+					]
+				},
+				{
+					"name": "An Algebraic Approach to the Analysis of Gerber-Shiu Functions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hansj?ï¿½rg Albrecher",
+						"Corina Constantinescu",
+						"Gottlieb Pirsic",
+						"Georg Regensburger",
+						"Markus Rosenkranz"
+					]
+				},
+				{
+					"name": "Approximate Self-Assembly of the Sierpinski Triangle",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jack H. Lutz",
+						"et al."
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "and",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Markus Kuba",
+						"Stephan Wagner",
+						"Technische Universit?ï¿½t Wien",
+						"Technische Universit?ï¿½t Graz"
+					]
+				},
+				{
+					"name": "Distributional analysis of Robin Hood linear probing hashing with buckets",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Alfredo Viola"
+					]
+				},
+				{
+					"name": "CONTRACT-BASED VERIFICATION AND TEST CASE GENERATION FOR OPEN SYSTEMS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Xianghua Deng"
+					]
+				},
+				{
+					"name": "ANEWALGORITHM FOR CONSTRUCTING LARGE CARMICHAEL NUMBERS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"G??nter L?ï¿½h",
+						"Wolfgang Niebuhr"
+					]
+				},
+				{
+					"name": "DOI: 10.1007/s00453-004-1146-6 Representing Trees of Higher Degree 1",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David Benoit",
+						"Erik D. Demaine",
+						"J. Ian Munro",
+						"Rajeev Raman",
+						"Venkatesh Raman",
+						"S. Srinivasa Rao"
+					]
+				},
+				{
+					"name": "S?ï¿½minaire Lotharingien de Combinatoire 57 (2007), Article B57a PERFECT MATCHINGS AND k-DECOMPOSABILITY OF INCREASING TREES",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Markus Kuba",
+						"Stephan Wagner",
+						"Technische Universit?ï¿½t Wien"
+					]
+				},
+				{
+					"name": "On-line Prediction and Conversion Strategies",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David P. Helmbold",
+						"Manfred K. Warmuth"
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Donatella Merlini",
+						"Renzo Sprugnoli"
+					]
+				},
+				{
+					"name": "On Differences of Zeta Values",
+					"place": "- in &quot;Journal of Computational and Applied Mathematics",
+					"date": "null",
+					"authors": [
+						"Philippe Flajolet",
+						"Linas Vepstas"
+					]
+				},
+				{
+					"name": "Verification Environment in Theorema",
+					"place": "- Articles in Refereed Conference Proceedings 1. N. Popov and",
+					"date": "null",
+					"authors": [
+						"Laura Ildik?? Kov??cs",
+						"Nikolaj Popov",
+						"Tudor Jebelean"
+					]
+				},
+				{
+					"name": "Counting Satisfying Assignments in 2-SAT and 3-SAT",
+					"place": "- IN PROCEEDINGS OF THE 8TH ANNUAL INTERNATIONAL COMPUTING AND COMBINATORICS CONFERENCE (COCOON-2002",
+					"date": "null",
+					"authors": [
+						"Vilhelm Dahll?ï¿½f",
+						"Peter Jonsson",
+						"Magnus Wahlstr?ï¿½m"
+					]
+				},
+				{
+					"name": "The Euler characteristic of the Whitehead automorphism group of a free product",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Craig Jensen",
+						"Jon Mccammond",
+						"John Meier"
+					]
+				},
+				{
+					"name": "Ordered Greed",
+					"place": "- In Proc. of 2004 Artificial Neural Networks in Engineering Conf. (ANNIEï¿½??04",
+					"date": "null",
+					"authors": [
+						"Peter G. Anderson",
+						"William T. Gustafson"
+					]
+				},
+				{
+					"name": "Strength Reduction of Integer Division and Modulo Operations",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jeffrey Sheldon",
+						"Walter Lee",
+						"Ben Greenwald",
+						"Saman Amarasinghe"
+					]
+				},
+				{
+					"name": "On the Distribution of the Transitive Closure in a Random Acyclic Digraph",
+					"place": "- Microsoft, One Microsoft Way, Redmond, Washington 98052-6399 Department of Mathematics, The Ohio state University",
+					"date": "null",
+					"authors": [
+						"Klaus Simon",
+						"Davide Crippa",
+						"Fabian Collenberg"
+					]
+				},
+				{
+					"name": "n-channel entropy-constrained multiple-description lattice vector quantization",
+					"place": "- IEEE TRANS. INFORM. TH",
+					"date": "null",
+					"authors": [
+						"Jan ??stergaard",
+						"Jesper Jensen",
+						"Richard Heusdens"
+					]
+				},
+				{
+					"name": "Oracles for bounded length shortest paths in planar graphs",
+					"place": "- ACM Trans. Algorithms",
+					"date": "null",
+					"authors": [
+						"Maciej Kurowski"
+					]
+				},
+				{
+					"name": "Asymptotics of the average height of 2-watermelons with a wall",
+					"place": "- ELEC.J.COMBIN.14 (2007) R64; MATH.CO/0607163; MR2350454",
+					"date": "null",
+					"authors": [
+						"Markus Fulmek"
+					]
+				},
+				{
+					"name": "A characterization of the Frobenius problem and its application to arithmetic progressions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hans J. H. Tuenter"
+					]
+				},
+				{
+					"name": "ARITHMETICAL KNOWLEDGE AND ARITHMETICAL DEFINABILITY: FOUR STUDIES",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Sean Walsh"
+					]
+				},
+				{
+					"name": "A Framework for Interactive Multicast Data Transport in the Internet",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Enumerative Combinatorics on Words",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Dominique Perrin",
+						"Marne-la-vallee Cedex France"
+					]
+				},
+				{
+					"name": "Birth Processes and Symmetric Polynomials",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Thomas Bickel",
+						"Nicola Galli",
+						"Klaus Simon"
+					]
+				},
+				{
+					"name": "Approximate Max k-Cut With Subgraph Guarantee",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Viggo Kann",
+						"Jens Lagergren",
+						"Alessandro Panconesi"
+					]
+				},
+				{
+					"name": "Block Codes for Asynchronous Data Transmission over a Noiseless q-ary Channel",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Vladimir B. Balakirsky"
+					]
+				},
+				{
+					"name": "Computational Geometry Provides Techniques for Approximately Solving the p-Median Problem",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Vladimir Estivill-Castro"
+					]
+				},
+				{
+					"name": "A Tool for Optimal Weak Sense of Direction",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Paolo Boldi",
+						"Sebastiano Vigna"
+					]
+				},
+				{
+					"name": "Approximability and Non-Approximability by Binary Decision Diagrams (Extended Abstract)",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Beate Bollig",
+						"Martin Sauerhoff",
+						"Ingo Wegener"
+					]
+				},
+				{
+					"name": "Market-Based Control of Mobile-Agent Systems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jonathan L. Bredin"
+					]
+				},
+				{
+					"name": "Two new bounds for the random-edge simplex algorithm",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Bernd G?ï¿½rtner",
+						"Volker Kaibel"
+					]
+				},
+				{
+					"name": "Average-case analysis of approximate trie search",
+					"place": "- IN PROC. 15TH SYMP. ON COMBINATORIAL PATTERN MATCHING (CPM), VOLUME 3109 OF LNCS",
+					"date": "null",
+					"authors": [
+						"Moritz G. Maa??"
+					]
+				},
+				{
+					"name": "A conjecture about numerators of Bernoulli numbers related to Integer Sequence A092291",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Bernd C. Kellner"
+					]
+				},
+				{
+					"name": "Rivals E: On the distribution of the number of missing words in random texts",
+					"place": "- Combinatorics, Probability and Computing",
+					"date": "null",
+					"authors": [
+						"S Rahmann"
+					]
+				},
+				{
+					"name": "Area-Efficient Algorithms for Upward Straight-Line Tree Drawings (Extended Abstract)",
+					"place": "- in: Proc. COCOON ï¿½??96",
+					"date": "null",
+					"authors": [
+						"Chan-Su Shin",
+						"Sung Kwon Kim"
+					]
+				},
+				{
+					"name": "Binomial Coefficients and Characters of the Symmetric Group",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Onn Chan",
+						"T. K. Lam"
+					]
+				},
+				{
+					"name": "Counting Occurrences Of A Pattern Of Type (1,2) or (2,1) in Permutations",
+					"place": "- of 1, 3,5, . . . , 2k ï¿½?? 3, and",
+					"date": "null",
+					"authors": [
+						"Anders Claesson",
+						"Toufik Mansour"
+					]
+				},
+				{
+					"name": "SOME IDENTITIES INVOLVING RATIONAL SUMS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"J. L. D?ï¿½az-barrero",
+						"J. Gibergans-b??guena",
+						"P. G. Popescu"
+					]
+				},
+				{
+					"name": "One Line and n Points",
+					"place": "- Proc. 33rd Ann. ACM Symp. on the Theory of Computing (STOC",
+					"date": "null",
+					"authors": [
+						"Bernd G?ï¿½rtner",
+						"Falk Tschirschnitz",
+						"Emo Welzl",
+						"J??zsef Solymosi",
+						"Pavel Valtr"
+					]
+				},
+				{
+					"name": "On the Distribution of Distances in Recursive Trees",
+					"place": "- J. Appl. Probab",
+					"date": "null",
+					"authors": [
+						"Robert P. Dobrow"
+					]
+				},
+				{
+					"name": "Low-Dimensional Lattices VII: Coordination Sequences",
+					"place": "- Proc. Royal Soc. A453",
+					"date": "null",
+					"authors": [
+						"J. H. Conway",
+						"N. J. A. Sloane"
+					]
+				},
+				{
+					"name": "Optimal selection of voltage regulator modules in a power delivery network",
+					"place": "- In the annual conference on Design Automation",
+					"date": "null",
+					"authors": [
+						"Behnam Amelifard",
+						"Massoud Pedram"
+					]
+				},
+				{
+					"name": "Connection between ordinary multinomials, Fibonacci numbers, Bell partition polynomials and discrete uniform distribution",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hac?ï¿½ne Belbachir",
+						"Sadek Bouroubi",
+						"Abdelkader Khelladi"
+					]
+				},
+				{
+					"name": "Partial sums of multiple zeta value series I: generalizations of Wolstenholmeï¿½??s Theorem",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jianqiang Zhao"
+					]
+				},
+				{
+					"name": "On problems related to growth, entropy, and spectrum in group theory",
+					"place": "- J. Dynam. Control Systems",
+					"date": "null",
+					"authors": [
+						"Rostislav Grigorchuk",
+						"Pierre De La Harpe"
+					]
+				},
+				{
+					"name": "The Construction of Orthonormal Wavelets Using Symbolic Methods and a Matrix Analytical Approach for Wavelets on the Interval",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Fr?ï¿½d?ï¿½ric Chyzak",
+						"Peter Paule",
+						"Otmar Scherzer",
+						"Armin Schoisswohl",
+						"Burkhard Zimmermann"
+					]
+				},
+				{
+					"name": "Fast Combinatorial Algorithms for Packing and Covering Problems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jochen K?ï¿½nemann",
+						"Diplomarbeit Von Jochen Konemann"
+					]
+				},
+				{
+					"name": "Exact real arithmetic with automatic error estimates in a computer algebra system",
+					"place": "- Uppsala University",
+					"date": "null",
+					"authors": [
+						"Patrik Andersson"
+					]
+				},
+				{
+					"name": "T E X 2",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Font Selection Copyright",
+						"X Font Selection"
+					]
+				},
+				{
+					"name": "Filter-Generating Systems",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Saed Samadi Akinori",
+						"Akinori Nishihara",
+						"Hiroshi Iwakura"
+					]
+				},
+				{
+					"name": "Near-Optimal Broadcast in All-Port Wormhole-Routed 3D Tori with Dimension-Ordered Routing",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Yu-Chee Tseng And",
+						"Yu-chee Tseng",
+						"San-yuan Wang"
+					]
+				},
+				{
+					"name": "Find Refined",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Roland Backhouse"
+					]
+				},
+				{
+					"name": "Random Generation of Words of Algebraic Languages according to the frequencies of the letters",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Alain Denise",
+						"Olivier Roques",
+						"Michel Termier"
+					]
+				},
+				{
+					"name": "Abstract Using Puzzles in Teaching Algorithms",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Genome Rearrangement Phylogeny Using",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Li-san Wang"
+					]
+				},
+				{
+					"name": "Strength Reduction of Integer Division and Modulo Operations",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Saman Amarasinghe",
+						"Walter Lee",
+						"Ben Greenwald"
+					]
+				},
+				{
+					"name": "Analyzing the Average-Case Behavior of Conjunctive Learning Algorithms",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"R??diger Reischuk",
+						"Thomas Zeugmann"
+					]
+				},
+				{
+					"name": "A new matrix inverse",
+					"place": "- PROC. AMER. MATH. SOC",
+					"date": "null",
+					"authors": [
+						"C. Krattenthaler"
+					]
+				},
+				{
+					"name": "Probabilistic Network Construction Using the Minimum Description Length Principle",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Remco R. Bouckaert"
+					]
+				},
+				{
+					"name": "Optimal Sampling Strategies in Quicksort and Quickselect",
+					"place": "- PROC. OF THE 25TH INTERNATIONAL COLLOQUIUM (ICALP-98), VOLUME 1443 OF LNCS",
+					"date": "null",
+					"authors": [
+						"Conrado Mart?ï¿½nez",
+						"Salvador Roura"
+					]
+				},
+				{
+					"name": "The WebGraph Framework II: Codes for the World-Wide Web",
+					"place": "- In DCC",
+					"date": "null",
+					"authors": [
+						"Paolo Boldi",
+						"Sebastiano Vigna"
+					]
+				},
+				{
+					"name": "The Dirac operator on SUq(2)",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Giovanni Landi",
+						"Andrzej Sitarz",
+						"Walter Van Suijlekom",
+						"Joseph C. V??rilly",
+						"et al."
+					]
+				},
+				{
+					"name": "The Monadic Theory of Morphic Infinite Words and Generalizations",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Olivier Carton",
+						"Wolfgang Thomas"
+					]
+				},
+				{
+					"name": "The Strong Secret Key Rate of Discrete Random Triples",
+					"place": "- COMMUNICATION AND CRYPTOGRAPHY",
+					"date": "null",
+					"authors": [
+						"Ueli M. Maurer"
+					]
+				},
+				{
+					"name": "Stochastic Fairness Queuing",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Paul E. Mckenney"
+					]
+				},
+				{
+					"name": "BLUeï¿½??s Format ï¿½?? the off-off alternative BLUeï¿½??s Format ï¿½?? the off-off alternative",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Kees Van Der Laan"
+					]
+				},
+				{
+					"name": "Graphics and TEX | A Reappraisal of METAFONT/MetaPost/PostScript",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Kees Van Der Laan"
+					]
+				},
+				{
+					"name": "Contents",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Math never seen",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Johannes K??ster"
+					]
+				},
+				{
+					"name": "Taylor and Lyubeznik Resolutions via Gr?ï¿½bner Bases",
+					"place": "- SUBMITTED TO JOURNAL OF SYMBOLIC COMPUTATION ",
+					"date": "null",
+					"authors": [
+						"Werner M. Seiler"
+					]
+				},
+				{
+					"name": "ACMACï¿½??s PrePrint Repository The maximum number of faces of the Minkowski sum of two convex polytopes",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Menelaos I. Karavelas",
+						"Eleni Tzanaki",
+						"Menelaos I",
+						"Menelaos I. Karavelas",
+						"Eleni Tzanaki"
+					]
+				},
+				{
+					"name": "REPRESENTING REAL NUMBERS IN A GENERALIZED Numeration System",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Emilie Charlier",
+						"EMARION LE GONIDEC",
+						"MICHEL RIGO"
+					]
+				},
+				{
+					"name": "of three convex polytopes",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Menelaos I. Karavelas",
+						"Christos Konaxis",
+						"Eleni Tzanaki",
+						"Menelaos I",
+						"Menelaos I. Karavelas",
+						"Christos Konaxis",
+						"Eleni Tzanaki"
+					]
+				},
+				{
+					"name": "[z n]ï¿½?(z) exp z = 1 ï¿½?? n",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Mark Wildon",
+						"Br [m"
+					]
+				},
+				{
+					"name": "This",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Project Mark",
+						"Wildon Ideas"
+					]
+				},
+				{
+					"name": "Complexity of Constrained VC-Classes",
+					"place": "- DISCRETE APPLIED MATHEMATICS",
+					"date": "null",
+					"authors": [
+						"Joel Ratsaby"
+					]
+				},
+				{
+					"name": "Dp-counter analytics",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Guido Moerkotte"
+					]
+				},
+				{
+					"name": "Solving difference equations whose coefficients are not transcendental",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Manuel Kauers",
+						"Johannes Kepler Universit?ï¿½t"
+					]
+				},
+				{
+					"name": "Off-line and On-line Guaranteed Start-Up Delay for Media-on-Demand with Stream Merging",
+					"place": "- IN PROCEEDINGS OF THE 15-TH ACM SYMPOSIUM ON PARALLELISM IN ALGORITHMS AND ARCHITECTURES (SPAA",
+					"date": "null",
+					"authors": [
+						"Amotz Bar-Noy",
+						"Justin Goshi",
+						"Richard E. Ladner"
+					]
+				},
+				{
+					"name": "SGML & XML Content Models",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Pekka Kilpel?ï¿½inen"
+					]
+				},
+				{
+					"name": "MULTIPLE ISOLATION OF NODES IN RECURSIVE TREES",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Markus Kuba",
+						"Alois Panholzer"
+					]
+				},
+				{
+					"name": "Gamblerï¿½??s fallacy, hot hand belief, and the time of patterns",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Yanlong Sun",
+						"Hongbin Wang"
+					]
+				},
+				{
+					"name": "Creative Telescoping for Holonomic Functions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Christoph Koutschan"
+					]
+				},
+				{
+					"name": "Preprint (Dec. 1, 2005), arXiv:math.NT/0512012. LUCAS TYPE CONGRUENCES FOR",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Cyclotomic Î¨-coefficients",
+						"Zhi-wei Sun",
+						"Daqing Wan"
+					]
+				},
+				{
+					"name": "MULTINOMIAL IDENTITIES ARISING FROM THE FREE PROBABILITY THEORY",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "Submitted to: JCAP",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David Seery"
+					]
+				},
+				{
+					"name": "A PROTOBIJECTION BETWEEN ALTERNATING SIGN MATRICES AND DESCENDING PLANE PARTITIONS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Arvind Ayyer"
+					]
+				},
+				{
+					"name": "IGUSA-TYPE FUNCTIONS ASSOCIATED TO FINITE FORMED SPACES AND THEIR FUNCTIONAL EQUATIONS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Benjamin Klopsch",
+						"Christopher Voll"
+					]
+				},
+				{
+					"name": "SLn(Z/kZ).",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"M. Kassabov",
+						"T. R. Riley"
+					]
+				},
+				{
+					"name": "A GENERALIZATION OF MORLEYï¿½??S CONGRUENCE",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hao Pan"
+					]
+				},
+				{
+					"name": "Large deviations for . . .",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Janosch Ortmann"
+					]
+				},
+				{
+					"name": "Walking into an Absolute Sum",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Hans J. H. Tuenter"
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Janne V. Kujala",
+						"Tuomas J. Lukka"
+					]
+				},
+				{
+					"name": "Convex and V-Shaped Sequences of Sums of Functions that Depend on Ceiling Functions",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Kabir Rustogi",
+						"Vitaly A. Strusevich"
+					]
+				},
+				{
+					"name": "The Ring of k-regular Sequences, II",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jean-Paul Allouche",
+						"Jeffrey Shallit"
+					]
+				},
+				{
+					"name": "BIMONOTONE ENUMERATION",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Michael Eisermann"
+					]
+				},
+				{
+					"name": "Asymptotic properties of estimators of the sample size in a record model",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Erhard Cramer"
+					]
+				},
+				{
+					"name": "Optimizing two-sequence functionals in competitive analysis",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Elmar Langetepe"
+					]
+				},
+				{
+					"name": "Formulas",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Gert Almkvist",
+						"Christian Krattenthaler",
+						"Joakim Petersson"
+					]
+				},
+				{
+					"name": "This document in subdirectoryRS/05/3/",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Olivier Danvy",
+						"Mayer Goldberg",
+						"Copyright C",
+						"Olivier Danvy",
+						"Mayer Goldberg",
+						"Olivier Danvy",
+						"Mayer Goldberg"
+					]
+				},
+				{
+					"name": "DIFFERENTIATING POLYNOMIALS, AND Î¶(2)",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David W. Farmer",
+						"Robert Rhoades"
+					]
+				},
+				{
+					"name": "unknown title",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"unknown authors"
+					]
+				},
+				{
+					"name": "versity of LondonSTATISTICAL MECHANICS OF FAREY FRACTION SPIN CHAIN MODELS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Jan Fiala",
+						"Jan Fiala"
+					]
+				},
+				{
+					"name": "Electronic Colloquium on Computational Complexity, Report No. 48 (2003) Upper and Lower Bounds for Randomized Search Heuristics in Black-Box Optimization ï¿½??",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Stefan Droste",
+						"Thomas Jansen",
+						"Ingo Wegener"
+					]
+				},
+				{
+					"name": "Clustering Algorithms for Chains",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Antti Ukkonen"
+					]
+				},
+				{
+					"name": "Searching Trees: an Essay",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Henning Fernau",
+						"Daniel Raible"
+					]
+				},
+				{
+					"name": "Distributional Analysis of the Parking Problem and Robin Hood Linear Probing Hashing with Buckets",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Alfredo Viola"
+					]
+				},
+				{
+					"name": "data patterns for submatrix.",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Cheng Yang",
+						"Usama Fayyad",
+						"Paul S. Bradley",
+						"Count P",
+						"P Other Products"
+					]
+				},
+				{
+					"name": "RECURSION IN COGNITION: A COMPUTATIONAL INVESTIGATION INTO THE REPRESENTATION AND PROCESSING OF LANGUAGE",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"David James",
+						"Lobina Bona"
+					]
+				},
+				{
+					"name": "CIRCULAR BINARY STRINGS WITHOUT ZIGZAGS",
+					"place": "",
+					"date": "null",
+					"authors": [
+						"Emanuele Munarini",
+						"Norma Zagaglia Salvi"
+					]
+				}
+			],
+			"citedByDBLP": [],
+			"citedByScopus": [
+				{
+					"name": "Mathematical formulas in text to speech system",
+					"place": "Komunikacie",
+					"date": "2009-09-08",
+					"authors": [
+						"Caky P."
+					]
+				}
+			]
+		},
+		{
+			"SpScore": 0.0,
+			"IrScore": 0.0,
+			"NrCitationDBLP": 0,
+			"NrCitationCitiseer": 0,
+			"NrCitationGoogleSchoolar": 0,
+			"numberOfCitationsScopus": 0,
+			"title": "(2010) Question Answering on Romanian, English and French Languages, in CLEF 2010 LABs and Workshops, Notebook Papers, 22-23 September 2010, Padua, Italy, ",
+			"ISBN": "978-88-904810",
+			"ISSN": "",
+			"isIndexedCitiSeer": false,
+			"isIndexedDBLP": false,
+			"isIndexedScholar": false,
+			"isIndexedScopus": false,
+			"authors": [
+				"Iftene A.",
+				"Trandab?? D.",
+				"Husarciuc M.",
+				"Moruz A."
+			],
+			"citedByScholar": [],
+			"citedByCitiSeer": [],
+			"citedByDBLP": [],
+			"citedByScopus": []
+		}
+	],
+	"sumSPScore": 2.0,
+	"sumIRScore": 2.0,
+	"sumByCategoryIR": {
+		"A": 0.0,
+		"B": 0.0,
+		"C": 0.0,
+		"D": 2.0
+	},
+	"sumByCategorySP": {
+		"A": 0.0,
+		"B": 0.0,
+		"C": 0.0,
+		"D": 2.0
+	}
+}

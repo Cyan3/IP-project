@@ -1,0 +1,1771 @@
+1 ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication SIGCOMM A
+2 ACM Conference on Computer and Communications Security CCS A
+3 ACM Conference on Computer Supported Cooperative Work CSCW A
+4 ACM Conference on Embedded Networked Sensor Systems SENSYS A
+5 ACM Conference on Embedded Software EMSOFT A
+6 ACM Conference on Hypertext and Hypermedia Hypertext A
+7 ACM Conference on Object Oriented Programming Systems Languages and Applications OOPSLA A
+8 ACM Creativity and Cognition CC A
+9 ACM International Conference on Emerging Networking Experiments and Technologies CoNEXT A
+10 ACM International Conference on Information and Knowledge Management CIKM A
+11 ACM International Conference on Knowledge Discovery and Data Mining SIGKDD A
+12 ACM International Conference on Mobile Computing and Networking MOBICOM A
+13 ACM International Conference on Research and Development in Information Retrieval SIGIR A
+14 ACM International Conference on Supercomputing ICS A
+15 ACM International Symposium on Computer Architecture ISCA A
+16 ACM International Symposium on High Performance Distributed Computing HPDC A
+17 ACM Multimedia ACMMM A
+18 ACM SIG International Conference on Computer Graphics and Interactive Techniques SIGGRAPH A
+19 ACM SIG on Computer and Communications Metrics and Performance SIGMETRICS A
+20 ACM SIGCOMM Internet Measurement Conference ACM IMC A
+21 ACM SIGMOD-­?SIGACT-­?SIGART Conference on Principles of Database Systems PODS A
+22 ACM SIGOPS Symposium on Operating Systems Principles SOSP A
+23 ACM SIGPLAN Conference on Languages, Tools, and Compilers for Embedded Systems LCTES A
+24 ACM SIGSOFT International Symposium on the Foundations of Software Engineering FSE A
+25 ACM Special Interest Group on Computer Science Education Conference SIGCSE A
+26 ACM Special Interest Group on Management of Data Conference SIGMOD A
+27 ACM Symposium of Mobile and Ad Hoc Computing MOBIHOC A
+28 ACM Symposium on Computational Geometry SCG A
+29 ACM Symposium on Principles of Distributed Computing PODC A
+30 ACM Symposium on Theory of Computing STOC A
+31 ACM Symposium on User Interface Software and Technology UIST A
+32 ACM Virtual Reality Software and Technology VRST A
+33 ACM Workshop on Hot Topics in Networks HOTNETS A
+34 ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems MSWIM A
+35 ACM/IEEE Supercomputing Conference SC A
+36 ACM/IFIP/USENIX International Middleware Conference Middleware A
+37 ACM/SIAM Symposium on Discrete Algorithms SODA A
+38 ACM/SPIE Multimedia Computing and Networking MMCN A
+39 ACM-­?SIGACT Symposium on Principles of Programming Languages POPL A
+40 ACM-­?SIGPLAN Conference on Programming Language Design and Implementation PLDI A
+41 ACM-­?SIGRAPH Interactive 3D Graphics I3DG A
+42 Advances in Cryptology CRYPTO A
+43 Advances in Modal Logic AiML A
+44 Advances in Neural Information Processing Systems NIPS A
+45 Algorithmic Learning Theory ALT A
+46 Algorithms and Data Structures Symposium (was Workshop on Algorithms and Data Structures) WADS A
+47 Americas Conference on Information Systems AMCIS A
+48 Annual Computer Security Applications Conference ACSAC A
+49 Annual Conference of the Cognitive Science Society CogSci A
+50 Annual Conference of the International Speech Communication Association (was Eurospeech) Interspeech A
+51 Annual Conference on Computational Learning Theory COLT A
+52 Annual Conference on Innovation and Technology in Computer Science Education ITiCSE A
+53 Annual International Conference of the IEEE Engineering in Medicine and Biology Society A
+54 AoM Organizational Communication and Information Systems OCIS A
+55 Application of Computers and Operations Research in the Minerals Industries APCOMin A
+56 Architectural Support for Programming Languages and Operating Systems ASPLOS A
+57 Artificial Intelligence in Medicine AIIM A
+58 Artificial Intelligence in Medicine in Europe AIME A
+59 Asian-­?Pacific Conference on Computational Mechanics APCOM A
+60 Aspect-­?Oriented Software Development AOSD A
+61 Association of Computational Linguistics ACL A
+62 AUSIMM Orebody Modelling and Strategic Mine Planning Conference A
+63 AUSIMM Project Evaluation A
+64 Australasian Conference on Information Systems ACIS A
+65 Australasian Congress on Applied Mechanics A
+66 Australasian Fluid Mechanics Conference A
+67 Automated Software Engineering Conference ASE A
+68 British Computer Society Conference on Human-­?Computer Interaction HCI A
+69 CIRP Life Cycle Engineering Conference A
+70 Cognitive Science Society Annual Conference CSSAC A
+71 Computer Aided Verification CAV A
+72 Computer Animation CANIM A
+73 Computer Applications in The Mineral Industries APCOM A
+74 Computer Supported Collaborative Learning CSCL A
+75 Computers in Cardiology A
+76 Conference in Uncertainty in Artificial Intelligence UAI A
+77 Conference on File and Storage Technologies FAST A
+78 Conference on Innovative Data Systems Research CIDR A
+79 Conference on Integer Programming and Combinatorial Optimization IPCO A
+80 Conference on Natural Language Learning CoNLL A
+81 Conference on the Quality of Software Architectures QoSA A
+82 Congress of the Modelling and Simulation Society of Australia and New Zealand Modsim 03 A
+83 Data Compression Conference DCC A
+84 Database Systems for Advanced Applications DASFAA A
+85 Design and Emotion Society Conferences D&E A
+86 Empirical Methods in Natural Language Processing EMNLP A
+87 Euromicro Conference on Real-­?Time Systems ECRTS A
+88 European Association of Computational Linguistics EACL A
+89 European Conference on Artificial Intelligence ECAI A
+90 European Conference on Computational Mechanics ECCM A
+91 European Conference on Computer Vision ECCV A
+92 European Conference on Information Systems ECIS A
+93 European Conference on Machine Learning ECML A
+94 European Conference on Numerical Methods in Geotechnical Engineering NUMGE A
+95 European Conference on Object-­?Oriented Programming ECOOP A
+96 European Conference on Principles and Practice of Knowledge Discovery in Databases PKDD A
+97 European Conference on Speech Communication and Technology (now Interspeech) EuroSpeech A
+98 European Conference on Wireless Sensor Networks EWSN A
+99 European Graphics Conference EUROGRAPH A
+100 European Symposium on Algorithms ESA A
+101 European Symposium on Programming ESOP A
+102 European Symposium On Research In Computer Security ESORICS A
+103 Eurosys Conference EuroSys A
+104 EvoStar EVOSTAR A
+105 Experiential Knowledge SIG conferences (Design Research Society (DRS) SIG,UK) A
+106 Extending Database Technology EDBT A
+107 FIE Frontiers in Education A
+108 Financial Cryptography and Data Security Conference FC A
+109 Formal Methods Europe FME A
+110 Foundations of Genetic Algorithms FOGA A
+111 Genetic and Evolutionary Computations GECCO A
+112 Geo congress of the Geo-­?Institute of ASCE A
+113 Graph Drawing GD A
+114 Hawaii International Conference on System Sciences HICSS A
+115 IASTED International Conference on Biomedical Engineering A
+116 IASTED Telehealth and Assistive Technology A
+117 IEEE Computational Systems Bioinformatics Conference CSB A
+118 IEEE Computer Security Foundations Symposium (was CSFW) CSF A
+119 IEEE Conference in Industrial Electronics and Applications A
+120 IEEE Conference on Computer Communications IEEE INFOCOM A
+121 IEEE Conference on Computer Vision and Pattern Recognition CVPR A
+122 IEEE Conference on Decision and Control CDC A
+123 IEEE Conference on Local Computer Networks LCN A
+124 IEEE Conference on Robotics, Automation and Mechatronics A
+125 IEEE Congress on Evolutionary Computation IEEE CEC A
+126 IEEE EMBS Neural Engineering Conference A
+127 IEEE Information Visualization Conference IEEE InfoVis A
+128 IEEE International Conference on Cluster Computing CLUSTER A
+129 IEEE International Conference on Computer Vision ICCV A
+130 IEEE International Conference on Data Mining ICDM A
+131 IEEE International Conference on Engineering of Complex Computer Systems ICECCS A
+132 IEEE International Conference on e-­?Science and Grid Computing e-­?Science A
+133 IEEE International Conference on Fuzzy Systems FUZZ-­?IEEE A
+134 IEEE International Conference on Pervasive Computing and Communications PERCOM A
+135 IEEE International Conference on Robots and Automation A
+136 IEEE International Conference on Services Computing SCC A
+137 IEEE International Conference on Software Maintenance ICSM A
+138 IEEE International Conference on Web Services ICWS A
+139 IEEE International Joint Conference on Neural Networks IJCNN A
+140 IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP) IPDPS A
+141 IEEE International Requirements Engineering Conference RE A
+142 IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks WoWMoM A
+143 IEEE International Symposium on Artificial Life IEEE Alife A
+144 IEEE International Symposium on Biomedical Imaging A
+145 IEEE International Symposium on Circuits and Systems ISCAS A
+146 IEEE International Symposium on Cluster, Cloud and Grid Computing CCGRID A
+147 IEEE International Symposium on Network Computing and Applications IEEE NCA A
+148 IEEE International Symposium on Wearable Computing ISWC A
+149 IEEE Real-­?Time and Embedded Technology and Applications Symposium RTAS A
+150 IEEE Symposium on Computational Complexity CCC A
+151 IEEE Symposium on Foundations of Computer Science FOCS A
+152 IEEE Symposium on Logic in Computer Science LICS A
+153 IEEE Symposium on Security and Privacy S&P A
+154 IEEE Symposium on Visual Languages and Human-­?Centric Computing (was VL) VL/HCC A
+155 IEEE Symposium on VLSI Circuits VLSIC A
+156 IEEE Visualization IEEE VIS A
+157 IEEE Workshop on Applications of Computer Vision WACV A
+158 IEEE World Congress on Computational Intelligence WCCI A
+159 IEEE/ACM International Conference on Computer-­?Aided Design ICCAD A
+160 IEEE/ACM International Conference on Grid Computing GRID A
+161 IEEE/ACM International Symposium on Mixed and Augmented Reality ISMAR A
+162 IEEE/IFIP International Conference on Dependable Systems DSN A
+163 IEEE/IFIP International Symposium on Trusted Computing and Communications TrustCom A
+164 IEEE/IFIP Working Conference on Software Architecture (now with ECSA) WICSA A
+165 IEEE/RSJ International Conference on Intelligent Robots and Systems IROS A
+166 IFIP Joint International Conference on Formal Description Techniques and Protocol Specification, Testing, And Verification FORTE A
+167 IFIP Networking 200X Networking 200X A
+168 IFIP TC13 Conference on Human-­?Computer Interaction Interact A
+169 IFIP/IEEE International Symposium on Integrated Management (odd years sharing with NOMS) IM A
+170 Information Processing in Sensor Networks IPSN A
+171 Intelligent Data Analysis IDA A
+172 Intelligent Systems in Molecular Biology ISMB A
+173 International Colloquium on Automata Languages and Programming ICALP A
+174 International Conference in Business Process Management BPM A
+175 International Conference on Acoustics, Speech, and Signal Processing ICASSP A
+176 International Conference on Advanced Information Systems Engineering CaiSE A
+177 International Conference on Apps for Specific Array Processors ASAP A
+178 International Conference on Automated Deduction CADE A
+179 International Conference on Automated Planning and Scheduling ICAPS A
+180 International Conference on Autonomous Agents and Multiagent Systems AAMAS A
+181 International Conference on Civil, Structural and Environmental Engineering Computing CIVIL-­?COMP A
+182 International Conference on Compiler Construction CC A
+183 International Conference on Compilers, Architecture, and Synthesis for Embedded Systems CASES A
+184 International Conference on Computational Linguistics COLING A
+185 International Conference on Computational Science ICCS A
+186 International Conference on Computer Graphics Theory and Application GRAPP A
+187 International Conference on Computers in Urban Planning and Urban Management CUPUM A
+188 International Conference on Computing and Combinatorics COCOON A
+189 International Conference on Conceptual Modelling ER A
+190 International Conference on Concurrency Theory CONCUR A
+191 International Conference on Control, Automation, Robotics and Vision ICARCV A
+192 International Conference on Cooperative Information Systems CoopIS A
+193 International Conference on Coordination Models and Languages Coordination A
+194 International Conference on Data Engineering ICDE A
+195 International Conference on Database Theory ICDT A
+196 International Conference on Design Science Research in Information Systems and Technology DESRIST A
+197 International Conference on Design Theory and Methodology (ASME) DTM A
+198 International Conference on Distributed Computing Systems ICDCS A
+199 International Conference on Enhancement and Promotion of Computational Methods in Engineering and Science A
+200 International conference on ER fluids and MR suspensions A
+201 International Conference on Evaluation and Assessment in Software Engineering EASE A
+202 International Conference on Field and Service Robotics FSR A
+203 International Conference on Formal Ontology in Information Systems FOIS A
+204 International Conference on Foundation on Data Organization FODO A
+205 International Conference on Functional Programming ICFP A
+206 International Conference on High Performance Computing HiPC A
+207 International Conference on Human Factors in Computing Systems CHI A
+208 International Conference on Information Systems ICIS A
+209 International Conference on Information Systems Development ISD A
+210 International Conference on Intelligent Tutoring Systems ITS A
+211 International Conference on Intelligent User Interfaces IUI A
+212 International Conference on Logic Programming ICLP A
+213 International Conference on Logic Programming and Non-­?monotonic Reasoning LPNMR A
+214 International Conference on Machine Learning ICML A
+215 International Conference on Mobile and Ubiquitous Systems: Networks and Services Mobiquitous A
+216 International Conference on Network Protocols ICNP A
+217 International Conference on Neural Information Processing ICONIP A
+218 International Conference on Numerical Methods in Industrial Forming Processes A
+219 International Conference on Parallel Architecture and Compilation Techniques PACT A
+220 International Conference on Parallel Processing Euro-­?Par A
+221 International Conference on Parallel Processing ICPP A
+222 International Conference on Pervasive Computing PERVASIVE A
+223 International Conference on Principles and Practice of Constraint Programming CP A
+224 International Conference on Reliable Software Technologies RST A
+225 International Conference on Robotics and Automation ICRA A
+226 International Conference on Scientific and Statistical Data Base Management SSDBM A
+227 International Conference on Security and Privacy for Communication Networks SecureCom A
+228 International Conference on Security in Pervasive Computing ICSPC A
+229 International Conference on Service Oriented Computing ICSOC A
+230 International Conference on Software Engineering ICSE A
+231 International Conference on Software Process ICSP A
+232 International Conference on Software Reuse ICSR A
+233 International Conference on Temporal Logic ICTL A
+234 International Conference on the Principles of Knowledge Representation and Reasoning KR A
+235 International Conference on the Simulation and Synthesis of Living Systems ALIFE A
+236 International Conference on the Theory and Application of Cryptographic Techniques EuroCrypt A
+237 International Conference on the Theory and Application of Cryptology and Information Security ASIACRYPT A
+238 International Conference on Theorem Proving in Higher Order Logics (will be ITP from 2010) TPHOLs A
+239 International Conference on Theorem Proving with Analytic Tableaux and Related Methods TABLEAUX A
+240 International Conference on Theory and Applications of Satisfiability Testing SAT A
+241 International Conference on Very Large Databases VLDB A
+242 International Conference on Virtual Execution Environments VEE A
+243 International Conference on Web Information Systems Engineering WISE A
+244 International Congress of Theoretical and Applied Mechanics A
+245 International Geostatistics Congress A
+246 International Joint Conference on Artificial Intelligence IJCAI A
+247 International Joint Conference on Automated Reasoning IJCAR A
+248 International Joint Conference on Qualitative and Quantitative Practical Reasoning ESQARU A
+249 International Symposium Component-­?Based Software Engineering CBSE A
+250 International Symposium of Automation and Robotics in Construction A
+251 International Symposium on Active Control of Sound and Vibration A
+252 International Symposium on Algorithms and Computation ISAAC A
+253 International Symposium on Automated Technology for Verification and Analysis ATVA A
+254 International Symposium on Code Generation and Optimization CGO A
+255 International Symposium on Computational Geomechanics A
+256 International Symposium on Distributed Computing (was WDAG) DISC A
+257 International Symposium on Empirical Software Engineering and Measurement ESEM A
+258 International Symposium on Functional and Logic Programming FLOPS A
+259 International Symposium on Fundamentals of Computer Theory FCT A
+260 International Symposium on High Performance Computer Architecture HPCA A
+261 International Symposium on Mathematical Foundations of Computer Science MFCS A
+262 International Symposium on Memory Management ISMM A
+263 International Symposium on Robotics ISR A
+264 International Symposium on Robotics Research ISSR A
+265 International Symposium on Software Reliability Engineering ISSRE A
+266 International Symposium on Software Testing and Analysis ISSTA A
+267 International Symposium on Spatial Databases SSTD A
+268 International Symposium on Symbolic and Algebraic Computation ISSAC A
+269 International Symposium on Temporal Representation and Reasoning TIME A
+270 International Symposium on Vehicle System Dynamics A
+271 International Workshop on Approximation Algorithms for Combinatorial Optimization Problems APPROX A
+272 International Workshop on Graph-­?Theoretic Concepts in Computer Science WG A
+273 International Workshop on Randomization and Computation RANDOM A
+274 International Workshop on Software and Compilers for Embedded Systems SCOPES A
+275 International World Wide Web Conference WWW A
+276 Internet Measurement Conference IMC A
+277 IUTAM Symposia series A
+278 Knowledge capture K-­?CAP A
+279 Knowledge Discovery and Data Mining KDD A
+280 Logic Programming and Automated Reasoning LPAR A
+281 Logics in Artificial Intelligence, European Conference JELIA A
+282 Medical Image Computing and Computer-­?Assisted Intervention MICCAI A
+283 Mini-­?EURO Conference, Managing Uncertainty in Decision Support Models A
+284 Modelling and Simulation A
+285 National Conference of the American Association for Artificial Intelligence AAAI A
+286 Network and OS Support for Digital A/V NOSSDAV A
+287 North American Association for Computational Linguistics NAACL A
+288 Numerical Models in Geomechanics NUMOG A
+289 Pacific Asia Conference on Information Systems PACIS A
+290 Pacific Conference on Computer Graphics and Applications PG A
+291 Pacific-­?Asia Conference on Knowledge Discovery and Data Mining PAKDD A
+292 Parallel Problem Solving from Nature PPSN A
+293 Principles and Practice of Parallel Programming PPoPP A
+294 Proceedings MIT Conferences on Computational Solid and Fluid Mechanics A
+295 Real Time Systems Symposium RTSS A
+296 Research in Engineering Education Symposium REES A
+297 Robotics: Systems and Science RSS A
+298 SIAM International Conference on Data Mining SDM A
+299 Sixth International Conference on Hydroinformatics 2004 A
+300 SPIE Smart Structures and Materials and Non-­?destructive Evaluation and Health Monitoring A
+301 Static Analysis Symposium SAS A
+302 Structural and Syntactical Pattern Recognition SSPR A
+303 Symposia on VLSI Technology and Circuits VLSI A
+304 Symposium Model Analysis and Simulation of Computer and Telecommunications Systems MASCOTS A
+305 Symposium on High Performance Chips HOT CHIPS A
+306 Symposium on Parallelism in Algorithms and Architectures SPAA A
+307 Symposium on Reliable Distributed Systems SRDS A
+308 Tangible, Embedded, and Embodied Interaction TEI A
+309 Theoretical Aspects of Rationality and Knowledge TARK A
+310 Theory of Cryptography Conference TCC A
+311 Tools and Algorithms for Construction and Analysis of Systems TACAS A
+312 Ubiquitous Computing UbiComp A
+313 Usenix Annual Technical Conference USENIX A
+314 Usenix Network and Distributed System Security Symposium NDSS A
+315 Usenix Security Symposium USENIX-­?Security A
+316 Usenix Symposium on Operating Systems Design and Implementation OSDI A
+317 USENIX Workshop on Hot Topics in Operating Systems HotOS A
+319 Workshop on Algorithm Engineering and Experiments ALENEX A
+320 World Congress on Computational Mechanics WCCM A
+1 2008 International Conference on Biomedical Robotics and Biomechatronics BIO ROB B
+2 AAEE -­? Annual Conference of Australasian Association for Engineering Education B
+3 ACM Conference on Electronic Commerce EC B
+4 ACM International Conference on Advances in Geographic Information Systems SIGSPATIAL B
+5 ACM International Conference on Digital Interactive Media in Entertainment and Arts DIMEA B
+6 ACM International Conference on Recommender Systems RecSys B
+7 ACM International Conference on Web Search and Data Mining WSDM B
+8 ACM International Wireless Communications and Mobile Computing Conference IWCMC B
+9 ACM International Workshop on. Mobility Management and Wireless Access MobiWac B
+10 ACM SIGGRAPH/Eurographics Symposium on Computer Animation SCA B
+11 ACM SIGMM International Workshop on Multimedia Information Retrieval MIR B
+12 ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services Mobisys B
+13 ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation PEPM B
+14 ACM SIGSOFT Workshop on Program Analysis for Software Tools and Engineering PASTE B
+15 ACM Special Interest Group on Supporting Group Work (was SIGGRoup) Group B
+16 ACM Symposium on Applied Computing SAC B
+17 ACM Symposium on Information, Computer and Communications Security AsiaCCS B
+18 ACM Symposium on Solid and Physical Modelling SPM B
+19 ACM Workshop on Scalable Trusted Computing STC B
+20 ACM Workshop on Web Information and Data Management WIDM B
+21 ACM/IEEE International Conference on Distributed Smart Cameras ICDSC B
+22 ACM/IEEE/SCS Workshop on Parallel and Distributed Simulation PADS B
+23 ACM-­?SIGMIS CPR Conference ACM-­?SIGMIS CPR B
+24 Ada-­?Europe International Conference on Reliable Software Technologies EuAda B
+25 Advanced Concepts for Intelligent Vision Systems ACIVS B
+26 Advanced Video and Signal Based Surveillance AVSS B
+27 Advanced Visual Interfaces AVI B
+28 Agent-­?Oriented Information Systems Workshop AOIS B
+29 AIAA Aerospace Sciences Meeting B
+30 AISB Convention (Society for the Study of Artificial Intelligence and Simulation of Behaviour) AISB B
+31 Ambient Information Systems AIS B
+32 Annual International Workshop on Presence PRESENCE B
+33 Annual PPIG Workshop PPIG B
+34 Application of Concurrency to System Design ACSD B
+35 Artificial Neural Networks in Engineering Conference ANNIE B
+36 ASEE Annual Conference and Exposition B
+37 ASEE Global Colloquium of Engineering Education B
+38 Asia Pacific Conference on Communications APCC B
+39 Asian Computing Science Conference ASIAN B
+40 Asian Conference on Computer Vision ACCV B
+41 ASIAN Symposium on Programming Languages and Systems APLAS B
+42 Asian Symposium on Visualization B
+43 Asia-­?Pacific Bioinformatics Conference APBC B
+44 Asia-­?Pacific Conference on Conceptual Modelling APCCM B
+45 Asia-­?Pacific Conference on Simulated Evolution and Learning SEAL B
+46 Association for Computer-­?Aided Architectural Design Research in Asia (CAADRIA) annual conference CAADRIA B
+47 Australasian Computer Science Conference ACSC B
+48 Australasian Computer Systems Architecture Conference (now Asia-­?Pacific Computer Systems Architecture Conference) ACSAC B
+49 Australasian Conference on Computer Science Education ACE B
+50 Australasian Conference on Information Security and Privacy ACISP B
+51 Australasian Conference on Robotics and Automation ACRA B
+52 Australasian Database Conference ADC B
+53 Australasian Information Security Conference AISC B
+54 Australasian Joint Conference on Artificial Intelligence AI B
+55 Australasian Speech Science and Technology SST B
+56 Australasian User Interface Conference AUIC B
+57 Australasian Workshop on Combinatorial Algorithms AWOCA B
+58 Australasian Workshop on Health Data and Knowledge Management HDKM B
+59 Australian Computer Human Interaction Conference OZCHI B
+60 Australian Conference for Knowledge Management and Intelligent Decision Support ACKMIDS B
+61 Australian Conference on Artificial Life ACAL B
+62 Australian Data Mining Conference AusDM B
+63 Australian Digital Forensics Conference B
+64 Australian Information Security Management Conference B
+65 Australian Software Engineering Conference ASWEC B
+66 Australian Symposium on Information Visualisation ASIV B
+67 Australian Women in IT Conference OzWIT B
+68 Australian Workshop on Requirements Engineering AWRE B
+69 Automation and Robotics International Symposium ISARC B
+70 Baltic Sea Conference on Computing Education Research Koli Calling B
+71 Bled Electronic Commerce Conference BECC B
+72 British Machine Vision Conference BMVC B
+73 British National Conference on Databases BNCOD B
+74 Canadian Artificial Intelligence Conference CAAI B
+75 Chemeca: Australasian Conference on Chemical Engineering B
+76 Collaborative Electronic Commerce Technology and Research CollECTeR B
+77 Combinatorial Pattern Matching CPM B
+78 Complexity and information-­?theoretic approaches to biology CITB B
+79 Computational Intelligence in Security for Information Systems CISIS B
+80 Computational Wind Engineering B
+81 Computer Graphics International CGI B
+82 Computing and Control in the Water Industry 2009 B
+83 Computing: The Australasian Theory Symposium CATS B
+84 Conference and Labs of the Evaluation Forum CLEF B
+85 Conference of the Association for Machine Translation in the Americas AMTA B
+86 Conference of the European Association for Machine Translation EAMT B
+87 Conference of the Pacific Association for Computational Linguistics PACLING B
+88 Conference on Agile Software Development Agile B
+89 Conference on Algebra and Coalgebra in Computer Science CALCO B
+90 Conference on Analysis of Algorithms AofA B
+91 Conference on Artificial Intelligence for Applications CAIA B
+92 Conference on Combinatorial Optimization and Applications COCOA B
+93 Conference on Fun with Algorithms FUN B
+94 Conference on Information Science, Technology and Management CISTM B
+95 Conference on Security and Cryptography for Networks SCN B
+96 Conference on Software in Telecommunications and Computer Networks SOFTCOMM B
+97 Conference on Theory and Applications of Models of Computation TAMC B
+98 Congress of the Italian Assoc for AI AI*IA B
+99 Construction Automation Conference B
+100 Cultural Attitudes towards Technology and Communications CATAC B
+101 Current Trends in Theory and Practice of Computer Science SOFSEM B
+102 Data Warehousing and Knowledge Discovery DaWaK B
+103 Databases and Programming Language DBPL B
+104 Declarative Agent Languages and Technologies DALT B
+105 Design for User Experience DUX B
+106 Design Research Society (UK) International Conference DRS B
+107 Design Society Conferences B
+108 Design, Automation and Test in Europe Conference DATE B
+109 Designing Interactive Systems DIS B
+110 Designing Pleasurable Products And Interfaces DPPI B
+111 Deutsche Arbeitsgemeinschaft für Mustererkennung DAGM e.V DAGM B
+112 Developments in Language Theory DLT B
+113 Digital Image Computing Techniques and Applications DICTA B
+114 Dynamic Languages Symposium DLS B
+115 Education and Research in Computer Aided Architectural Design in Europe eCAADe B
+116 Educational Data Mining EDM B
+117 Engineering Education series (organised by Higher Education Academy Engineering Subject Centre UK) B
+118 Entertainment and media in the ubiquitous era (ACM) MINDTREK B
+119 Environmental Design Research Association EDRA B
+120 ERCIM Annual Workshop on Constraint Solving and Constraint Logic Programming ERCIM/CSCLP B
+121 Ershov Conference PSI B
+122 ETHICOMP Conference ETHICOMP B
+123 Eurographics Symposium on Parallel Graphics and Visualization EGPGV B
+124 Eurographics Symposium on Virtual Environments EGVE B
+125 Eurographics/IEEE Symposium on Visualization EuroVis B
+126 European Conference on Artificial Life ECAL B
+127 European Conference on Computational Biology ECCB B
+128 European Conference on Computer Supported Cooperative Work ECSCW B
+129 European Conference on Genetic Programming EUROGP B
+130 European Conference on Information Retrieval ECIR B
+131 European Conference on Knowledge Management EKM B
+132 European Conference on Pattern Languages of Programs EuroPLop B
+133 European Metallurgical Congress B
+134 European Natural Language Generation Workshop EuroNLG B
+135 European PKI Workshop: Theory and Practice EUROPKI B
+136 European Signal Processing Conference EUSIPCO B
+137 European Simulation MultiConference ESM B
+138 European Simulation Symposium ESS B
+139 European Software Engineering Conference ESEC B
+140 European SPI EuroSPI B
+141 European Symposium on Artificial Neural Networks ESANN B
+142 European, Mediterranean and Middle Eastern Conference on Information Systems EMCIS B
+143 Financial Cryptography FINCRY B
+144 FISITA World Automotive Congress B
+145 Formal Power Series and Algebraic Combinatorics FPSAC B
+146 Foundations of Software Science and Computational Structures FOSSACS B
+147 Foundations of Software Technology and Theoretical Computer Science FST&TCS B
+148 French Conference on Knowledge Acquisition and Machine Learning FCKAML B
+149 Fundamental Approaches to Software Engineering FASE B
+150 Geometric Modelling and Imaging, International Conference (IEEE) GMAI B
+151 Geometry Modeling and Processing GMP B
+152 German Conference on Multi-­?Agent system Technologies MATES B
+153 Global Information Technology Management Association World Conference GITMA B
+154 Graphics Interface GI B
+155 Heterogeneity in Computing Workshop HCW B
+156 IEEE Computer Communications Workshop CCW B
+157 IEEE Conference on Automation Science and Engineering B
+158 IEEE Conference on Computational Complexity Complexity B
+159 IEEE Conference on Sensor, Mesh and Ad Hoc Communications and Networks SECON B
+160 IEEE Conference on Systems, Man and Cybernetics SMC B
+161 IEEE Congress on Services SERVICES B
+162 IEEE Consumer Communications and Networking Conference IEEE CCNC B
+163 IEEE Global Telecommunications Conference IEEE GLOBECOM B
+164 IEEE International Conference and Workshop on the Engineering of Computer Based Systems ECBS B
+165 IEEE International Conference on Advanced Learning Technologies ICALT B
+166 IEEE International Conference on Autonomic Computing ICAC B
+167 IEEE International Conference on Cloud Computing CLOUD B
+168 IEEE International Conference on Communications ICC B
+169 IEEE International Conference on Control Applications CCA B
+170 IEEE International Conference on Distributed Computing in Sensor Systems DCOSS B
+171 IEEE International Conference on e-­?Business Engineering ICEBE B
+172 IEEE International Conference on High Performance Computing and Communications HPCC B
+173 IEEE International Conference on High Performance Computing and Simulation IEEE HPCS B
+174 IEEE International Conference on Image Processing ICIP B
+175 IEEE International Conference on Mechatronics and Automation B
+176 IEEE International Conference on Mobile Ad-­?hoc and Sensor Systems MASS B
+177 IEEE International Conference on Multimedia and Expo ICME B
+178 IEEE International Conference on Networks ICON B
+179 IEEE International Conference on Neural Networks ICNN B
+180 IEEE International Conference on Remote Frequency Identification IEEE RFID B
+181 IEEE International Conference on Robotics and Biomimetics B
+182 IEEE International Conference on Wireless Information Technology and Systems ICWITS B
+183 IEEE International Dynamic Spectrum Access Networks Symposium IEEE DYSPAN B
+184 IEEE International Enterprise Distributed Object Computing Conference EDOC B
+185 IEEE International Performance Computing and Communications Conference IPCCC B
+186 IEEE International Symposium on Distributed Simulation and Real-­?time Applications IEEE DS-­?RT B
+187 IEEE International Symposium on Electronics and the Environment B
+188 IEEE International Symposium on High Assurance Systems Engineering HASE B
+189 IEEE International Symposium on Information Theory ISIT B
+190 IEEE International Symposium on Intelligent Control ISIC B
+191 IEEE International Symposium on Parallel and Distributed Processing with Applications ISPA B
+192 IEEE International Symposium on Personal and Indoor Mobile Radio Conference PIMRC B
+193 IEEE International Test Conference ITC B
+194 IEEE International Workshop on Object-­?Oriented Real-­?Time Dependable Systems WORDS B
+195 IEEE International Workshop on Quality of Service IWQoS B
+196 IEEE International Workshop on Visualizing Software for Understanding and Analysis VISSOFT B
+197 IEEE Network Operations and Management Symposium NOMS B
+198 IEEE Pacific Visualization Symposium (was APVIS) PacificVis B
+199 IEEE Symposium on 3D User Interfaces 3DUI B
+200 IEEE Symposium on Computers and Communications ISCC B
+201 IEEE Symposium on High-­?Performance Interconnects HOTI B
+202 IEEE Vehicular Technology Conference VTC B
+203 IEEE Virtual Reality Conference VR B
+204 IEEE Wireless Communications and Networking Conference WCNC B
+205 IEEE Working Conference on Reverse Engineering WCRE B
+206 IEEE Workshop on Hot Topics in Web Systems and Technologies HotWeb B
+207 IEEE/IFAC Computer Aided Control System Design CACSD B
+208 IEEE/IFIP International Conference on Information Technology for Balanced Automation Systems BASYS B
+209 IFIP International Conference on Distributed Applications and Inoperable Systems DAIS B
+210 IFIP International Conference on Open Distributed Processing ODP B
+211 IFIP International Information Security Conference IFIP SEC B
+212 IFIP/ACM Working Conference on Component Deployment CD B
+213 IFIP/IEEE International Workshop on Distributed Systems Operations and Management DSOM B
+214 IFSA World Congress IFSA B
+215 IMA International Conference on Cryptography and Coding B
+216 Image and Vision Computing Conference IVCNZ B
+217 Inductive Logic Programming ILP B
+218 Information Security Conference ISC B
+219 Information Security Practice and Experience Conference ISPEC B
+220 Information Systems Education Conference ISECON B
+221 Information Theory Workshop ITW B
+222 Innovative Applications in AI IAAI B
+223 Integrated Formal Methods IFM B
+224 Integration of Software Engineering and Agent Technology ISEAT B
+225 Intelligent Vehicles Symposium IEEE IV B
+226 Intelligent Virtual Agents IVA B
+227 Interaction Design and Children (ACM) IDC B
+228 Interactive Entertainment IE B
+229 International Association of Ergonomics Societies Congress IEA B
+230 International Baltic Conference on Databases and Information Systems DB&IS B
+231 International Business Information Management IBIMA B
+232 International Cognitive Robotics Conference COGROBO B
+233 International Colloquium on Structural Information and Communication Complexity SIROCCO B
+234 International Colloquium on Theoretical Aspects of Computing ICTAC B
+235 International Computer Science Conference ICSC B
+236 International Computer Software and Applications Conference COMPSAC B
+237 International Computing Education Research Workshop ICER B
+238 International Conference and Exhibition on High Performance Computing in the Asia-­?Pacific Region HPC Asia B
+239 International Conference of Society for Group Decision and Negotiation GDN B
+240 International Conference on AD-­?HOC Networks and Wireless ADHOC-­?NOW B
+241 International Conference on Advanced Computing and Communications AdCom B
+242 International Conference on Advanced Data Mining and Applications ADMA B
+243 International Conference on Advanced Information Networking and Applications (was ICOIN) AINA B
+244 International Conference on Advances in Intelligent Systems: Theory and Applications AISTA B
+245 International Conference on Advances in Mobile Computing and Multimedia MOMM B
+246 International Conference on Algebraic and Logic Programming ALP B
+247 International Conference on Algorithms and Architectures for Parallel Processing ICA3PP B
+248 International Conference on Applied Cryptography and Network Security ACNS B
+249 International Conference on Artificial Intelligence and Statistics AISTATS B
+250 International Conference on Artificial Neural Networks ICANN B
+251 International Conference on Artificial Reality and Telexistence ICAT B
+252 International Conference on Availability, Reliability and Security ARES B
+253 International Conference on Biomedical and Pharmaceutical Engineering B
+254 International Conference on Broadband Communications, Networks and Systems Broadnets B
+255 International Conference on Business Information Systems BIS B
+256 International Conference on Computational Molecular Biology RECOMB B
+257 International Conference on Computer Analysis of Images and Patterns CAIP B
+258 International Conference on Computer Graphics and Interactive Techniques in Australasia and Southeast Asia SIGGRAPH ASIA B
+259 International Conference on Computer Safety, Reliability and Security SAFECOMP B
+260 International Conference on Computer Supported Cooperative Work in Design CSCWD B
+261 International Conference on Computers in Education ICCE B
+262 International Conference on Conceptual Structures ICCS B
+263 International Conference on Cryptology and Network Security CANS B
+264 International Conference on Cryptology in India INDOCRYPT B
+265 International Conference on Cyberworlds (was International Symposium on Cyberworlds) CW B
+266 International Conference on Database and Expert Systems Applications DEXA B
+267 International Conference on Digital Government Research DGO B
+268 International Conference on Discrete Mathematics and Theoretical Computer Science DMTCS B
+269 International Conference on Distributed Computing and Networking ICDCN B
+270 International Conference on e-­?Business ICEB B
+271 International Conference on Electronic Commerce and Web Technology ECWeb B
+272 International Conference on Email and Anti-­?Spam CEAS B
+273 International Conference on Engineering Computational Technology B
+274 International Conference on Engineering Design (ICED), The Design Society ICED B
+275 International Conference on Evaluation of Novel Approaches to Software Engineering ENASE B
+276 International Conference on extreme Programming and Flexible Processes in Software Engineering XP B
+277 International Conference on Fluid Control, Measurements, and Visualization B
+278 International Conference on Fluid Mechanics B
+279 International Conference on Formal Engineering Methods FEM B
+280 International Conference on Frontiers of Handwriting Recognition ICFHR B
+281 International Conference on Generative Programming and Component Engineering GPCE B
+282 International Conference on Genetic Algorithms ICGA B
+283 International Conference on Graph Transformations ICGT B
+284 International Conference on High Performance Computing, Networking and Communication Systems HPCNCS B
+285 International Conference on Human-­?Computer Interaction with Mobile Devices and Services MobileHCI B
+286 International Conference on Image Analysis and Processing ICIAP B
+287 International Conference on Implementation and Application of Automata CIAA B
+288 International Conference on Informatics Education and Research ICIER B
+289 International Conference on Information and Communications Security ICICS B
+290 International Conference on Information Resources Management Conf-­?IRM B
+291 International Conference on Information Security and Cryptography SECRYPT B
+292 International Conference on Information Security and Cryptology ICISC B
+293 International Conference on Information Systems Security ICISS B
+294 International Conference on Information Systems Technology and its Application ISTA B
+295 International Conference on Information Visualisation IV B
+296 International Conference on Information, Communications and Signal Processing ICICS B
+298 International Conference on Intelligent Agents, Web Technologies, and Internet Commerce IAWTIC B
+299 International Conference on Intelligent Sensors, Sensor Networks and Information Processing ISSNIP B
+300 International Conference on Intelligent Systems and Knowledge Engineering ISKE B
+301 International Conference on Intelligent Text Processing and Computational Linguistics CICLING B
+302 International Conference on Internet Computing IC B
+303 International Conference on Internet Technologies and Applications ITA B
+304 International Conference on Knowledge Engineering and Knowledge Management EKAW B
+305 International Conference on Knowledge Science, Engineering and Management KSEM B
+306 International Conference on Knowledge-­?Based and Intelligent Information and Engineering Systems KES B
+307 International Conference on Management of Data COMAD B
+308 International Conference on Massively Parallel Computing Systems MPCS B
+309 International Conference on Model Transformation ICMT B
+310 International Conference on Modelling Decisions for Artificial Intelligence MDAI B
+311 International Conference on Multiagent Systems ICMS B
+312 International Conference on Multimodal Interfaces ICMI B
+313 International Conference on network and System Security NSS B
+314 International Conference on Parallel and Distributed Computing, Applications and Technologies PDCAT B
+315 International Conference on Parallel and Distributed Processing Techniques and Applications PDPTA B
+316 International Conference on Parallel and Distributed Systems ICPADS B
+317 International Conference on Pattern Recognition ICPR B
+318 International Conference on Persuasive Technology Persuasive B
+319 International Conference on Principles and Practice of Declarative Programming PPDP B
+320 International Conference on Principles of Distributed Systems OPODIS B
+321 International Conference on Provable Security ProvSec B
+322 International Conference on Qualitative Research in IT & IT in Qualitative Research QualIT B
+323 International Conference on Quality of Service in Heterogeneous Wired/Wireless Networks Qsine B
+324 International Conference on Quality Software QSIC B
+325 International Conference on Real-­?Time and Embedded Computing Systems and Applications RTCSA B
+326 International Conference on Research Challenges in Information Science RCIS B
+327 International Conference on Sequences and their Applications SEQAPP B
+328 International Conference on Software and Data Technologies ICSoft B
+329 International Conference on Software Composition SC B
+330 International Conference on Software Development SWDC B
+331 International Conference on Software Engineering and Formal Methods SEFM B
+332 International Conference on Software Engineering and Knowledge Engineering SEKE B
+333 International Conference on Software Language Engineering SLE B
+334 International Conference on Software Methods and Tools SoMeT B
+335 International Conference on Tests and Proofs TAP B
+336 International Conference on the Application and Theory of Petri Nets ICATPN B
+337 International Conference on the Unified Modelling Language (was UML) MODELS B
+338 International Conference on Theoretical and Methodological Issues in machine Translation TMI B
+339 International Conference on Tools with Artificial Intelligence ICTAI B
+340 International Conference on Trust, Privacy and Security in Digital Business TrustBus B
+341 International Conference on Ubiquitous and Intelligence Computing UIC B
+342 International Conference on User Modelling (now UMAP) UM B
+343 International Conference on User Modelling, Adaptation, and Personalization (was AH and UM) UMAP B
+344 International Conference on Vector and Parallel Processing VecPar B
+345 International Conference on Virtual Systems and MultiMedia VSMM B
+346 International Conference on Wired / Wireless Internet Communications WWIC B
+347 International Conference/Workshop on Practice and Theory in Public Key Cryptography PKC B
+348 International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision WSCG B
+349 International Congress Aeronautical Sciences B
+350 International Congress on Industrial and Applied Mathematics B
+351 International Database Engineering and Applications Symposium IDEAS B
+352 International Frontiers of Algorithmics Workshop FAW B
+353 International Fuzzy Logic and Intelligent technologies in Nuclear Science Conference FLINS B
+354 International Joint Conference on Natural Language Processing IJCNLP B
+355 International Joint Workshop on Computational Creativity IJWCC B
+356 International Meeting on DNA Computing and Molecular Programming DNA B
+357 International Natural Language Generation Conference INLG B
+358 International Semantic Web Conference ISWC B
+359 International Symposium on Advanced DB Technologies and Integration ADTI B
+360 International Symposium on Algorithmic Game Theory SAGT B
+361 International Symposium on Applied Algebra, Algebraic Algorithms and Error-­?Correcting Codes AAAAECC B
+362 International Symposium on Artificial Intelligence and Maths ISAIM B
+363 International Symposium on Cavitation B
+364 International Symposium on Communications and Information Technologies ISCIT B
+365 International Symposium on Computational Life Science CompLife B
+366 International Symposium on Computer Architecture and High Performance Computing SBAC-­?PAD B
+367 International Symposium on Empirical Software Engineering ISESE B
+368 International Symposium on Experimental Algorithms SEA B
+369 International Symposium on Information Theory and Its Applications ISITA B
+370 International Symposium on Latin American Theoretical Informatics LATIN B
+371 International Symposium on Logic-­?based Program Synthesis and Transformation LOPSTR B
+372 International Symposium on Mathematical Morphology ISMM B
+373 International Symposium on Modelling and Optimization in Mobile, Ad Hoc, and Wireless Networks WiOpt B
+374 International Symposium on Parallel Architectures, Algorithms and Networks I-­?SPAN B
+375 International Symposium on Recent Advances in Intrusion Detection RAID B
+376 International Symposium on String Processing and Information Retrieval SPIRE B
+377 International Symposium on Theoretical Aspects of Computer Science STACS B
+378 International Symposiums on Wikis WIKISYM B
+379 International Work-­?Conference on Artificial and Natural Neural Networks IWANN B
+380 International Workshop of Privacy Enhancing Technologies PET B
+381 International Workshop on Agents and Data Mining Interaction ADMI B
+382 International Workshop on Ant Colony ANTS B
+383 International Workshop on Coalgebraic Methods in Computer Science CMCS B
+384 International Workshop on Coding and Cryptography WCC B
+385 International Workshop on Combinatorial Algorithm IWOCA B
+386 International Workshop on Computer-­?Aided Software Eng IWCASE B
+387 International Workshop on Data Warehousing and OLAP DOLAP B
+388 International Workshop on Efficient Algorithms WEA B
+389 International Workshop on Fast Software Encryption FSE B
+390 International Workshop on Horizontal Interactive Human-­?Computer Systems Tabletop B
+391 International Workshop on Multimedia Signal Processing MMSP B
+392 International Workshop on Parameterized and Exact Computation IWPEC B
+393 International Workshop on Paraphrasing IWP B
+394 International Workshop on Requirements Engineering Visualization REV B
+395 International Workshop on Requirements Engineering: Foundation for Software Quality REFSQ B
+396 International Workshop on Research Issues in Data Engineering RIDE B
+397 International Workshop on Rewriting Logic and its Applications WRLA B
+398 International Workshop on Security IWSEC B
+399 International Workshop on Software Process Simulation and Modelling (now ICSP) PROSim B
+400 International Workshop on Web Content Caching and Distribution WCW B
+401 International Workshop Programming Multi-­?Agent Systems PROMAS B
+402 International Workshops on Enabling Technologies: Infrastructures for Collaborative Enterprises WETICE B
+403 International Workshops on First-­?Order Theorem Proving FTP B
+404 Joint Modular Languages Conference JMLC B
+405 Joint workshop on Multimodal Interaction and Related Machine Learning Algorithms (now ICMI-­?MLMI) MLMI B
+406 Language Descriptions, Tools and Applications LDTA B
+407 Logic and Engineering of Natural Language Semantics LENLS B
+408 Language Resources and Evaluation LREC B
+409 Logical Foundations of Computer Science LFCS B
+410 Machine Translation Summit MT SUMMIT B
+411 Massively Parallel Processing Using Optional Interconnections MPPOI B
+412 Mathematics of Program Construction MPC B
+413 Mechatronics and Machine Vision in Practice M2VIP B
+414 Medicine Meets Virtual Reality MMVR B
+415 Meeting of the International Environmental Modelling and Software Society B
+416 Methods Effectives en Geometrie Algebrique MEGA B
+417 Mobile and Ubiquitous Multimedia (ACM) MUM B
+418 Mobile Media MMC B
+419 National Conference on Hydraulics in Water Engineering B
+420 Nature inspired cooperative strategies for optimization NICSO B
+421 Nordic Design Research Conference NORDES B
+422 Pacific Asia Conference on Language, Information and Computation PACLIC B
+423 Pacific Asian Conference on Expert Systems PACES B
+424 Pacific Rim International Conference on Artificial Intelligence PRICAI B
+425 Pacific Rim International Symposium on Dependable Computing PRDC B
+426 Pacific Rim International Workshop on Multi-­?Agents PRIMA B
+427 Pacific Rim Knowledge Acquisition Workshop PKAW B
+428 Pacific-­?Rim Symposium on Image and Video Technology PSIVT B
+429 Participatory Design Conference PDC B
+430 Passive and Active Measurement Conference PAM B
+431 Pattern Languages of Programs PLOP B
+432 Portuguese Conference on Artificial Intelligence EPIA B
+433 Practical Aspects of Declarative Languages PADL B
+434 Practice and Theory of Automated Timetabling PATAT B
+435 Product Focused Software Process Improvement PROFES B
+436 Project Management conference PMOZ B
+437 Rewriting Techniques and Applications RTA B
+438 Robot Soccer World Cup RoboCup B
+439 RSA Conference RSA B
+440 Scandinavian Conference on Artificial Intelligence SCAI B
+441 Scandinavian Workshop on Algorithm Theory SWAT B
+442 SEFI -­? Annual Conference of European Society for Engineering Education B
+443 Selected Areas in Cryptography SAC B
+444 Singapore International Conference on Intelligent Systems SPICIS B
+445 SKLOIS Conference on Information Security and Cryptology Inscrypt B
+446 Smart Card Research and Advanced Application Conference SCRAA B
+447 Software Technology and Engineering Practice Conference STEP B
+448 SPIE International Conference on Visual Communications and Image Processing VCIP B
+449 Summer Computer Simulation Conference SCSC B
+450 Symposium on Abstraction, Reformulation and Approximation SARA B
+451 Symposium on Advances in DB and Information Systems ADBIS B
+452 Symposium on Geometry Processing SGP B
+453 Symposium on Logical Formalizations of Commonsense Reasoning COMMONSENSE B
+454 Symposium on Networked Systems, Design and Implementation NSDI B
+455 Technology of Object-­?Oriented Languages and Systems Europe TOOLS Europe B
+456 Testbeds and Research Infrastructures for the Development of Networks and Communities TridentCom B
+457 The organizational semiotics Conference ORGSEM B
+458 The Theory and Application of Diagrams DIAGRAMS B
+459 TMS Annual Meeting and Exhibition B
+460 Unconventional Models of Computation UMC B
+461 Unified Modelling Language UML B
+462 United Kingdom Systems Society UKSS B
+463 Universal Machines and Computations MCU B
+464 Verification, Model Checking and Abstract Interpretation VMCAI B
+465 Visual Database Systems VDB B
+466 Winter Simulation Conference WSC B
+467 Workshop on Algebraic Development Techniques WADT B
+468 Workshop on Algorithm Engineering WAE B
+469 Workshop on Algorithms in Bioinformatics WABI B
+470 Workshop on Analytic Algorithms and Combinatorics ANALCO B
+471 Workshop on Approximation and Online Algorithms WAOA B
+472 Workshop on Combinatorial and Algorithmic Aspects of Networking CAAN B
+473 Workshop on Constraint Satisfaction for Planning and Scheduling COPLAS B
+474 Workshop on Job Scheduling Strategies for Parallel Processing JSSPP B
+475 Workshop on Logic, Language, Information and Computation WoLLIC B
+476 Workshop on Power Aware Computing and Systems HotPower B
+477 Workshop on Programming Languages and Operating Systems PLOS B
+478 World Congress on Cost Engineering, Project Management and Quantity Surveying, AACE American Association of Cost Engineers ICEC B
+479 World Congress on Expert Systems WCES B
+480 World Congress on Medical Informatics MEDINFO B
+481 World Congress on Neural Networks WCNN B
+482 World of Construction Project Management Conference WCPM B
+1 3-­?D Digital Imaging and Modelling 3DIM C
+2 A Satellite workshop on Formal Approaches to Testing of Software FATES C
+3 Accounting and Finance Association of Australia and New Zealand Conference AFAANZ C
+4 ACIS Conference on Software Engineering Research, Management and Applications SERA C
+5 ACM Annual Computer Science Conference CSC C
+6 ACM Digital Rights Management Workshop DRM C
+7 ACM Information Technology Education SIGITE C
+8 ACM International Workshop On Multimedia Databases MMDB C
+9 ACM SIGCHI_NZ Conference on Human-­?Computer Interaction CHINZ C
+10 ACM SIGIR Workshop on XML and Information Retrieval SIGIR/XML C
+11 ACM SIGOPS European Workshops SIGOPS-­?EW C
+12 ACM SIGPLAN Workshop on Types in Language Design and Implementation (was TIC) TLDI C
+13 ACM SIGUCCS Conference on User Services SIGUCCS C
+14 ACM Symposium on Principles of Database Systems SPDS C
+15 ACM Workshop on Formal Methods in Security Engineering: From Specifications to Code FMSE C
+16 ACM Workshop on Hot Topics in Software Upgrades HotSWUp C
+17 ACM Workshop on Role Based Access Control (now SACMAT) RBAC C
+18 ACM Workshop on Secure Web Services SWS C
+19 ACS/IEEE International Conference on Computer Systems and Applications AICCSA C
+20 Active and Real-­?Time Database Systems ARTDB C
+21 Advanced Course on Artificial Intelligence ACAI C
+22 Advanced Research in VLSI ARVLSI C
+23 Advances in Information Systems ADVIS C
+24 Advances in Intelligent Systems AIS C
+25 Advances in the Theory of Computing AITC C
+26 Agent-­?Oriented Software Engineering Workshop AOSE C
+27 AIChE Annual Meeting C
+28 Algebraic Methodology and Software Technology AMAST C
+29 Algorithms and Complexity in Durham ACID C
+30 Ambient Intelligence Developments Aml.d C
+31 American Federation of Information Processing Societies AFIPS C
+32 Annual Conference of the Australasian Society for Computers in Learning in Tertiary Education ASCILITE C
+33 Annual Conference of the European Association for Computer Science Logic CSL C
+34 Annual Conference of the International Academy for Information Management IAIM C
+35 Annual Conference on Evolutionary Programming EP C
+36 Annual Conference on Privacy, Security and Trust PST C
+37 Annual Convention for Survey, Mapping and Remote Sensing RS C
+38 Annual Fall Workshop on Computational Geometry CGW C
+39 Annual International Conference on Ada TRI-­?Ada C
+40 Annual Meeting of the Decision Sciences Institute DSI C
+41 Annual PKI R&D Workshop PKI C
+42 Annual Simulation Symposium ANSS C
+43 Annual Workshop on Selected Areas in Cryptography SELCRYP C
+44 Apple University Consortium Academic and Developers Conference AUCADC C
+45 Applications of Information Visualization IV-­?App C
+46 Applications of Natural Language to Data Bases NLDB C
+47 Applied Computing Conference ACC C
+48 Applied Perception in Graphics and Visualization APGV C
+49 Argentine Symposium on Artificial Intelligence ASAI C
+50 Artificial Intelligence in Knowledge Management AIKM C
+51 Asia Information Retrieval Symposium AIRS C
+52 Asia International Conference on Modelling and Simulation AMS C
+53 Asia Pacific Conference on Hardware Description Languages (was Asia Pacific CHipDesign Languages) APCHDL C
+54 Asia Pacific Decision Science Institute Conference APDSI C
+55 Asia Pacific Design Automation Conference ASDAC C
+56 Asia Pacific Research Symposium on Accounting Information Systems APRSAIS C
+57 Asia Pacific Web Conference APWEB C
+58 Asian International Mobile Computing Conference AMOC C
+59 Asian Symposium on Computer Mathematics ASCM C
+60 Asia-­?Pacific Computer Human Interaction Conference APCHI C
+61 Asia-­?Pacific Conference on Complex Systems Complex C
+62 Asia-­?Pacific Forum on Engineering and Technology Education AFETE C
+63 Asia-­?Pacific Network Operations and Management Symposium APNOMS C
+64 Asia-­?Pacific Services Computing Conference APSCC C
+65 Asia-­?Pacific Software Engineering Conference APSEC C
+66 Asia-­?Pacific Symposium on Visualisation APVIS C
+67 Asilomar Conference on Signals, Systems and Computing ACSSC C
+68 Aspect-­?Orientation Asia AO-­?Asia C
+69 Athens Colloquium on Algorithms and Complexity ACAC C
+70 Australasia Conference on Information Security and Privacy AISP C
+71 Australasian Cognitive Science Society Conference AuCSS C
+72 Australasian Compumod Users' Conference COMPUMOD C
+73 Australasian Computer Architecture Conference ACAC C
+74 Australasian Computer Music Conference ACMA C
+75 Australasian Computers in Education Conference ACEC C
+76 Australasian Conference on Combinatorial Mathematics and Combinatorial Computing ACCMCC C
+77 Australasian Conference on Parallel and Real-­?Time Systems APRTS C
+78 Australasian Conference on Pattern Languages of Programs KoalaPLoP C
+79 Australasian Information Security Workshop 2007 (Privacy Enhancing Technologies) AISW-­?PET C
+80 Australasian Refinement Workshop AuRW C
+81 Australasian Remote Sensing Conference and Photogrammetry Conference ARSPC C
+82 Australasian Road Safety Research, Policing and Education Conference C
+83 Australasian Symposium on Grid Computing and e-­?Research (now AusPDC) AusGrid C
+84 Australasian Symposium on Parallel and Distributed Computing (was AusGrid) AusPDC C
+85 Australasian Urban and Regional Information Systems Association Conference AURISA C
+86 Australasian Women in Computing Workshop WIC C
+87 Australia-­?Japan Joint Workshop on Intelligent and Evolutionary Systems AJWIES C
+88 Australian and New Zealand Academy of Management Conference ANZAM C
+89 Australian and New Zealand Intelligent Information Systems Conference ANZIIS C
+90 Australian and New Zealand Marketing Academy Conference ANZMAC C
+91 Australian Conference on Neural Networks ACNN C
+92 Australian Conference on Software Metrics ACOSM C
+93 Australian Game Developers Conference AGDC C
+94 Australian Information Warfare and Security Conference WarSec C
+95 Australian Institute of Computer Ethics Conference AICE C
+96 Australian Knowledge Acquisition Workshop AKAW C
+97 Australian MADYMO Users Meeting MADYMO C
+98 Australian MATLAB Conference MATLAB C
+99 Australian Supercomputing Conference ACS C
+100 Australian Telecommunication Networks and Applications Conference ATNAC C
+101 Australian UNIX Users Group National Conference AUUG C
+102 Australian Workshop on Mobile Computing, Databases and Applications MCDA C
+103 Australian Workshop on Safety Critical Systems and Software SCSS C
+104 Australian Workshop on Software Architecture AWSA C
+105 Australian World Wide Web Conference AusWeb C
+106 Automation of Software Test AST C
+107 Benelux Workshop on Information and System Security WISSec C
+108 Bioinformatics Visualization BioViz C
+109 Body Sensor Networks BSN C
+110 Brazilian Symposium on Computer Graphics and Image Processing SIBGRAPI C
+111 Brazilian Symposium on Databases SBBD C
+112 Brazilian Symposium on Graphs, Algorithms and Combinatorics GRACO C
+113 Brazilian Symposium on Information and Computer Systems Security SBSEG C
+114 British Colloquium for Theoretical Computer Science BCTCS C
+115 British Computer Society Formal Aspects of Computing Science Specialist Group Workshop BCS-­?FMW C
+116 Canadian Conference on Computational Geometry CCCG C
+117 Canadian Conference on Computer and Robot Vision CRV C
+118 Canadian Conference on Electrical and Computer Engineering CCECE C
+119 Canadian Discrete and Algorithmic Mathematics Conference CanaDAM C
+120 CGAL User Workshop CGAL C
+121 CGC Workshop on Computational Geometry CGC C
+122 Challenges of Large Applications in Distributed Environments CLADE C
+123 Chilean Database Workshop JCC/WBD(CDW) C
+124 ChinaGrid Annual Conference ChinaGrid C
+125 Colloquium on Mathematics and Computer Science: Algorithms, Trees, Combinatorics and Probabilities MathInfo C
+126 Cologne-­?Twente Workshop on Graphs and Combinatorial Optimization CTW C
+127 CombinaTexas: Combinatorics in the South-­?Central U.S. Combina Texas C
+128 Committee on Data for Science and Technology CODATA C
+129 Complex Objects Visualization Workshop COV C
+130 Computability in Europe: Logic and Theory of Algorithms CiE C
+131 Computational Techniques and Applications Conference CTAC C
+132 Computational Topology Workshop CT C
+133 Computer Animation, Information Visualisation, and Digital Effects CAivDE C
+134 Computer Science Research Conference CSRC C
+135 Computing in Civil Engineering and Building International Conference ICCCBE C
+136 Computing in Education Group of Victoria Conference CEG C
+137 Conférence en Recherche d'information et Applications CORIA C
+138 Conference for the International Simulation and Gaming Association ISAGA C
+139 Conference of South African Institute of Computer Scientists and Information Technologists SAICSIT C
+140 Conference of the Association of Asian-­?Pacific Operational Research Societies APORS C
+141 Conference of the Commission Internationale pour l'Etude et l'Amelioration de l'Enseignement des Mathematiques CIEAEM C
+142 Conference of the International Society for Decision Support Systems ISDSS C
+143 Conference on Algorithmic Aspects in Information and Management AAIM C
+144 Conference on Algorithms and Hardware for Parallel Processing CONPAR C
+145 Conference on Artificial Neural Networks and Expert systems ANNES C
+146 Conference on Computers, Freedom, and Privacy CFP C
+147 Conference on Discrete Mathematics, Algebra and their Application DIMA C
+148 Conference on Graph Theory and Discrete Geometry CGTDG C
+149 Conference on Information Sciences and Systems CISS C
+150 Conference on Office Information Systems SIGOA C
+151 Conference on Operational Research Practice in Africa ORPA C
+152 Conference on Operations Research COR C
+153 Conference on Orders, Algorithms and Applications Ordal C
+154 Conference on RFID Security RFIDSec C
+155 Conference on Security in Network Architectures and Information Systems SAR-­?SSI C
+156 Conference on Software Engineering Education and Training CSEE&T C
+157 Conference on Spatial Information Theory COSIT C
+158 Conference on Visualization and Data Analysis VDA C
+159 ConnectED: International Conference on Design Education ConnectED C
+160 Constraint Databases and Applications CDB C
+161 Constraint Programming Day CPD C
+162 Construction Applications of Virtual Reality, International Conference CAVR C
+163 Construction Applications to Virtual Reality Conference CONVR C
+164 Cooperative Design, Visualization, and Engineering CDVE C
+165 Coordinated and Multiple Views in Exploratory Visualization CMV C
+166 Cryptography Policy and Algorithms Conference CryPAC C
+167 Crypto'Puces Crypto'Puces C
+168 Cultural Heritage Knowledge Visualisation CHKV C
+169 Data Semantics in Web Information Systems DASWIS C
+170 Design and Aesthetics in Visualisation DAViz C
+171 Design and Management of Data Warehouses DMDW C
+172 Digital Arts and Culture DAC C
+173 Digital Games Research Conference DIGRA C
+174 DIMACS Workshop on Intrinsic Complexity of Computation DIMACS Intrinsic C
+175 Discourse Anaphora and Anaphor Resolution Colloquium DAARC C
+176 Discrete and Algorithmic Geometry DAG C
+177 Discrete Models: Combinatorics, Computation and Geometry DM-­?CCG C
+178 Distributed Communities on the Web Workshop Dcw C
+179 Domain -­? Specific Languages for Software Engineering DSLSE C
+180 Domain Specific Aspect Languages DSAL C
+181 Dutch Computational Geometry Day DutchCG C
+182 Dynamic Graph Workshop DGW C
+183 ECRYPT Workshop on Cryptographic Hash Functions C
+184 ECRYPT Workshop on Tools for Cryptanalysis C
+185 Embedded Sensor Networks Workshop Emnets C
+186 Enabling Grids for E-­?Science European Conference EGEE C
+187 ENVI and IDL Data Analysis and Visualization Symposium VISualize C
+188 ERATO Conference on Quantum Information Science EQIS C
+189 Euro Virtual Reality Euro VR C
+190 EuroConference on Combinatorics, Graph Theory and Applications EUroComb C
+191 Euromicro Conference on Software Engineering and Advanced Applications SEAA C
+192 Euromicro International Conference on Parallel, Distributed and Network Based Processing PDP C
+193 European Chapter on Combinatorial Optimization ECCO C
+194 European Computing Conference ECC C
+195 European Conference of Information Warfare ECIW C
+196 European Conference on Ambient Intelligence AmI C
+197 European Conference on Computational Learning Theory (Now in COLT) EuroCOLT C
+198 European Conference on e-­?Government ECEG C
+199 European Conference on Information Management and Evaluation ECIME C
+200 European Conference on Operations Research EURO C
+201 European Conference on Research Methodology for Business and Management Studies ECRM C
+202 European Conference on Software Maintenance and Reengineering CSMR C
+203 European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty ECSQARU C
+204 European Conference on Universal Multiservice Networks ECUMN C
+205 European Congress on Intelligent Techniques and Soft Computing EUFIT C
+206 European Institute for Computer Anti-­?Virus Research EICAR Conference EICAR C
+207 European Lisp Workshop ELW C
+208 European PVM/MPI Users' Group Conference EuroPVM/MPI C
+209 European Symposium on Gender and ICT ESGICT C
+210 European Workshop on Advanced Mobile Robots EuroBot C
+211 European Workshop on Computational Geometry EuroCG C
+212 European Workshop on Modelling Autonomous Agents in a Multi-­?Agent World MAAMAW C
+213 European Workshop on Multi-­?Agent Systems EUMAS C
+214 European Workshop on Security and Privacy in Ad -­?Hoc and Sensor Networks ESAS C
+215 European-­?Japanese Conference on Information Modelling and Knowledge Bases EJC C
+216 Exploring Modelling Methods in Systems Analysis and Design EMMSAD C
+217 Extreme Markup Languages Extreme C
+218 Far East Workshop on Future DB Systems FEWFDB C
+219 Finite Differences-­?Finite Elements-­?Finite Volumes-­?Boundary Elements F-­?and-­?B C
+220 FIRA Robot World Congress FIRA C
+221 Flexible Query-­?Answering Systems FQAS C
+222 Florida Artificial Intelligence Research Society Conference FlAIRS C
+223 Formal and Computational Cryptography FCC C
+224 Formal Methods in Software Engineering and Defence Systems Workshop FMSEDS C
+225 Formal Methods Pacific FMP C
+226 Forum on Specification, Verification and Design Languages FDL C
+227 Foundations of Aspect-­?Oriented Languages FOAL C
+228 Franco-­?Canadian Workshop on Combinatorial Algorithms ComAI C
+229 French Journées de Géométrie Algorithmique JGA C
+230 French Speaking Conference on the Extraction and Management of Knowledge EGC C
+231 Functional and Declarative Programming in Education FDPE C
+232 Game Developers Conference GDC C
+233 Geometry Festival: An international workshop on Discrete Geometry and Rigidity GeomFest C
+234 GeoVisualization and Information Visualization GeoViz C
+235 German Conference on Artificial Intelligence KI C
+236 GI International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment DIMVA C
+237 GIS Planet Conference GISPlanet C
+238 Global Chinese Conference on Computers in Education GCCCE C
+239 Grace Hopper Celebration of Women in Computing GHC C
+240 Haskell Workshop HASKELL C
+241 Health Informatics Conference HIC C
+242 Hellenic Conference on Artificial Intelligence SETN C
+243 High Performance Computing Symposium Canada HPCS-­?Canada C
+244 High-­?Performance Grid Computing Workshop (part of IPDPS Conference) HPGrid C
+245 Human Factors and Ergonomics Conference (Human Factors and Ergonomics Society of Australia) HFESA C
+246 Human System Interaction HIS C
+247 Hungarian National Conference on Agent Based Computation HUNABC C
+248 IAVoSS Workshop On Trustworthy Elections WOTE C
+249 Iberian Conference on Pattern Recognition and Image Analysis IBPRIA C
+250 IberoAmerican Congress on Pattern Recognition CIARP C
+251 ICEE-­? ICEER -­? International Conference for Engineering Education and Research C
+252 IEEE Automatic Speech Recognition and Understanding Workshop ASRU C
+253 IEEE Bioinformatics and Bioengineering BIBE C
+254 IEEE Conference on Electronic Commerce Technology (merger of CEC and EEE) CEC C
+255 IEEE Conference on Mass Storage Systems and Technologies MSST C
+256 IEEE Conference on Ultra Wideband Systems and Technologies ICUWB C
+257 IEEE Conference on Wireless Communication and Sensor Networks WCSN C
+258 IEEE European Conference on Web Services ECOWS C
+259 IEEE Global Information Infrastructure Symposium GIIS C
+260 IEEE Global Internet Symposium GI C
+261 IEEE Information Theory Workshop on Detection, Estimation, Classification and Imaging DECI C
+262 IEEE International Augmented Reality Toolkit Workshop IARTW C
+263 IEEE International Conference on 3D Systems Integration (combines ASET & 3D) IEEE 3D IC C
+264 IEEE International Conference on Adaptive and Intelligent Systems ICAIS C
+265 IEEE International Conference on Automatic Face and Gesture Recognition FG C
+266 IEEE International Conference on Cognitive Informatics ICCI C
+267 IEEE International Conference on Computational Cybernetics ICCC C
+268 IEEE International Conference on Computational Intelligence for Measurement Systems and Applications CIMSA C
+269 IEEE International Conference on Computer and Information Technology CIT C
+270 IEEE International Conference on COTS-­?Based Software Systems ICCBSS C
+271 IEEE International Conference on Cybernetics and Intelligent Systems CIS C
+272 IEEE International Conference on Digital EcoSystems and Technologies Conference IEEE DEST C
+273 IEEE International Conference on Enterprise Computing, E-­?Commerce and E-­?Services EEE C
+274 IEEE International Conference on Global Software Engineering ICGSE C
+275 IEEE International Conference on Granular Computing GrC C
+276 IEEE International Conference on Industrial and Information Systems ICIIS C
+277 IEEE International Conference on Information and Automation IEEE ICIA C
+278 IEEE International Conference on Information Integration and Reuse IEEE IRI C
+279 IEEE International Conference on Intelligence and Security Informatics ISI C
+280 IEEE International Conference on Intelligence for Homeland Security and Personal Safety CIHSPS C
+281 IEEE International Conference on Intelligent Computer Communication and Processing ICCP C
+282 IEEE International Conference on Intelligent Systems IEEE IS C
+283 IEEE International Conference on Parallel Processing Workshops WoPP C
+284 IEEE International Conference on Peer to Peer Computing P2P C
+285 IEEE International Conference on Service-­?Oriented Computing Applications SOCA C
+286 IEEE International Conference on Signal Processing and Communication ICSPC C
+287 IEEE International Conference on Telecommunications ICT C
+288 IEEE International Conference on Wireless and Mobile Computing, Networking and Communications WiMob C
+289 IEEE International Geoscience and Remote Sensing Symposium IGARSS C
+290 IEEE International High Level Design Validation and Test Workshop HLDVT C
+291 IEEE International Multioptic Conference INMIC C
+292 IEEE International On-­?Line Testing Symposium IOLTS C
+293 IEEE International Symposium on Adaptive Dynamic Programming and Reinforcement Learning IEEE ADPRL C
+294 IEEE International Symposium on Multimedia ISM C
+295 IEEE International Symposium on Object-­?Oriented Real-­?Time Distributed Computing ISORC C
+296 IEEE International Symposium on Performance Analysis of Systems and Software ISPASS C
+297 IEEE International Symposium on Security in Networks and Distributed Systems SSNDS C
+298 IEEE International Symposium on Web Systems Evolution WSE C
+299 IEEE International Working Conference on Mining Software Repositories MSR C
+300 IEEE International Workshop on Cellular Nanoscale Networks and Applications CNNA C
+301 IEEE International Workshop on Databases for Next-­?Generation Researchers SWOD C
+302 IEEE International Workshop on Future Trends of Distributed Computing Systems FTDCS C
+303 IEEE International Workshop on Neural Networks for Signal Processing NNSP C
+304 IEEE International Workshop on Source Code Analysis and Manipulation SCAM C
+305 IEEE International Workshop on the Value of Security through Collaboration SECOVAL C
+306 IEEE Knowledge and Data Engineering Exchange Workshop KDEEW C
+307 IEEE Latin-­?American Conference on Communications latincom C
+308 IEEE Software Engineering Workshop SEW C
+309 IEEE Swarm Intelligence Symposium IEEE SIS C
+310 IEEE Symposium on Advanced Management of Information for Globalized Enterprises AMIGE C
+311 IEEE Symposium on Computational Intelligence and Data Mining IEEE CIDM C
+312 IEEE Symposium on Computational Intelligence and Games CIG C
+313 IEEE Symposium on Computational Intelligence for Financial Engineering IEEE CIFEr C
+314 IEEE Symposium on Computational intelligence for Image Processing IEEE CIIP C
+315 IEEE Symposium on Computational intelligence for Multimedia Signal and Vision Processing IEEE CIMSVP C
+316 IEEE Symposium on Computational Intelligence for Security and Defence Applications IEEE CISDA C
+317 IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology IEEE CIBCB C
+318 IEEE Symposium on Computational Intelligence in Control and Automation IEEE CICA C
+319 IEEE Symposium on Computational Intelligence in Cyber Security IEEE CICS C
+320 IEEE Symposium on Computational Intelligence in Image and Signal Processing CIISP C
+321 IEEE Symposium on Computational Intelligence in Multi-­?Criteria Decision-­?Making IEEE MCDM C
+322 IEEE Symposium on Computational Intelligence in Scheduling IEEE CI-­?Sched C
+323 IEEE Symposium on Computer Arithmetic ARITH C
+324 IEEE Symposium on Intelligent Agents IEEE IA C
+325 IEEE Symposium on Rapid Prototyping RSP C
+326 IEEE Symposium on Visual Analytics Science and Technology IEEE VAST C
+327 IEEE Systems and Information Engineering Design Symposium SIEDS C
+328 IEEE Systems Conference SysCon C
+329 IEEE Tencon (IEEE Region 10 Conference) Tencon C
+330 IEEE Workshop on Advances in Techniques for Analysis of Remotely Sensed Data WARDS C
+331 IEEE Workshop on Computational Intelligence for Visual Intelligence IEEE CIVI C
+332 IEEE Workshop on Computational Intelligence in Aerospace Applications IEEE CIAA C
+333 IEEE Workshop on Computational Intelligence in Biometrics: Theory, Algorithms, and Applications IEEE CIB C
+334 IEEE Workshop on Computational Intelligence in Vehicles and Vehicular Systems IEEE CIWS C
+335 IEEE Workshop on Computational Intelligence in Virtual Environments IEEE CIVE C
+336 IEEE Workshop on Evolvable and Adaptive Hardware IEEE WEAH C
+337 IEEE Workshop on Evolving and Self-­?Developing Intelligent Systems IEEE ESDIS C
+338 IEEE Workshop on High Performance Switching and Routing HPSR C
+339 IEEE Workshop on Hybrid Intelligent Models and Applications IEEE HIMA C
+340 IEEE Workshop on Memetic Algorithms IEEE WOMA C
+341 IEEE Workshop On Mobile Computing Systems And Applications WMCSA C
+342 IEEE Workshop on Organic Computing IEEE OC C
+343 IEEE Workshop on Robotic Intelligence in Informationally Structured Space IEEE RiiSS C
+344 IEEE Workshop on Speech Coding SCW C
+345 IEEE Workshop on Wireless Mesh Networks WiMesh C
+346 IEEE WoWMoM Workshop on Hot Topics in Mesh Networking HotMESH C
+347 IEEE/ACIS International Conference on Computer and Information Science ICIS C
+348 IEEE/IFIP International Conference on Embedded and Ubiquitous Computing EUC C
+349 IEEE/WIC/ACM International Conference on Intelligent Agent Technology IAT C
+350 IEEE/WIC/ACM international Conference on Web Intelligence and Intelligent Agent Technology WI-­?IAT C
+351 IEEE-­?RAS International Conference on Humanoid Robots Humanoids C
+352 IFAC Conference on System Structure and Control SSC C
+353 IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes SAFEProcess C
+354 IFIP Conference on Biologically Inspired Collaborative Computing BICC C
+355 IFIP Congress (Information Processing) Information Processing C
+356 IFIP International Conference on Broadband Communications BC C
+357 IFIP International Conference on Theoretical Computer Science IFIP TCS C
+358 IFIP Working Conference on Visual Database Systems VDbS C
+359 IFIP Working Conferences on Virtual Enterprises PRO-­?VE C
+360 IFIP International Conference on Network and Parallel Computing NPC C
+361 IGIP -­? international Society for Engineering Education Annual Meeting C
+362 Industrial Simulation Conference ISC C
+363 Informatics Education Europe IEE C
+364 Information Integration and Web-­?based Applications and Services IIWAS C
+365 Information Security Symposium CERIAS C
+366 Information Security Workshop ISW C
+367 Information Systems Research Seminar in Scandinavia IRIS C
+368 Information Visualisation Theory and Practice InfVis C
+369 Information Visualization Evaluation IVE C
+370 Information Visualization in Biomedical Informatics IVBI C
+371 Informing Science and Information Technology Education InSITE C
+372 Innovative Internet Computer Systems IICS C
+373 Institute for Small Business and Entrepreneurship Annual Conference ISBE C
+374 Int. Workshop on Formal Methods for Industrial Critical Systems FMICS C
+375 Int. Workshop on Multi-­?Media Data Base Management Systems IW-­?MMDBMS C
+376 Integrated Data Environments Australia Workshop IDEAW C
+377 Intelligence Tools, Data Mining, Visualization IDV C
+378 Intelligent Multimedia, Video and Speech Processing Symposium MVSP C
+379 Interaction Interaction C
+380 International and Interdisciplinary Conference on Modelling and Using Context CONTEXT C
+381 International Atlantic Web Intelligence Conference AWIC C
+382 International Colloquium on Data Sciences, Knowledge Discovery and Business Intelligence DSKDB C
+383 International Command and Control Research and Technology Symposium ICCRTS C
+384 International Computer Science Symposium in Russia CSR C
+385 International Conference Computer Graphics, Imaging and Visualization CGIV C
+386 International Conference Formal Concept Analysis Conference ICFCA C
+387 International Conference Imaging Science, Systems and Technology CISST C
+388 International Conference of Broadband Communication, Information Technology and Biomedical Applications broadcom C
+389 International Conference of Z and B Users ZB C
+390 International Conference of Z Users ZUSER C
+391 International Conference on 3G Mobile Communication Technologies 3G C
+392 International Conference on Adaptive and Natural Computing Algorithms ICANNGA C
+393 International Conference on Advanced Information Management IMS C
+394 International Conference on Advanced Language Processing and Web Information Technology ALPIT C
+395 International Conference on Advances in Computer-­?Human Interactions ACHI C
+396 International Conference on Advances in Infrastructure for Electronic Business, Science, and Education on the Internet SSGRR C
+397 International Conference on Advances in Pattern Recognition and Digital Techniques ICAPRDT C
+398 International Conference on Affective Computing and Intelligent ACII C
+399 International Conference on Agents and Artificial Intelligence ICAART C
+400 International Conference on Algorithms and Complexity (was Italian Conference ) CIAC C
+401 International Conference on Artificial Intelligence IC-­?AI C
+402 International Conference on Artificial Intelligence and Law ICAIL C
+403 International Conference on Artificial Intelligence and Pattern Recognition AIPR C
+404 International Conference on Artificial Intelligence and Soft Computing ICAISC C
+405 International Conference on Artificial Intelligence in Science and Technology AISAT C
+406 International Conference on Arts and Technology ArtsIT C
+407 International Conference on Automation, Robotics and Control Systems ARCS C
+408 International Conference on Autonomic and Trusted Computing ATC C
+409 International Conference on CAD/CAM, Robotics and Factories of the Future RFF C
+410 International Conference on Case-­?Based Reasoning Research and Development ICCBR C
+411 International Conference on Chinese Computing ICCC C
+412 International Conference on Cloud Computing CloudCom C
+413 International Conference on Collaborative Computing: Networks, Applications and Worksharing CollaborateCom C
+414 International Conference on Communication System Software and Middleware COMSWARE C
+415 International Conference on Communications in Computing CIC C
+416 International Conference on Complex Systems CxS C
+417 International Conference on Complex, Intelligent and Software Intensive Systems CISIS C
+418 International Conference on Computability and Complexity in Analysis CCA C
+419 International Conference on Computational Collective Intelligence: Semantic Web, Social Networks and Multiagent Systems ICCCI C
+420 International Conference on Computational Engineering Science ICES C
+421 International Conference on Computational Intelligence and Multimedia ICCIMA C
+422 International Conference on Computational Intelligence and Security CIS C
+423 International Conference on Computational Intelligence and Software Engineering CISE C
+424 International Conference on Computational Intelligence for Modelling, Control and Automation CIMCA C
+425 International Conference on Computational Intelligence, Robotics and Autonomous Systems CIRAS C
+426 International Conference on Computational Science and Applications ICCSA C
+427 International Conference on Computational Semiotics for Games and New Media Cosign C
+428 International Conference on Computer and Information Technology ICCIT C
+429 International Conference on Computer Graphics, Virtual Reality, Visualisation and Interaction in Africa AFRIGRAPH C
+430 International Conference on Computer Information Systems and Industrial Management Applications CISIM C
+431 International Conference on Computer Theory and Applications ICCTA C
+432 International Conference on Computer Vision Systems ICVS C
+433 International Conference on Computers and their Applications CATA C
+434 International Conference on Computers Helping People with Special Needs ICCHP C
+435 International Conference on Computing and Informatics ICOCI C
+436 International Conference on Construction Engineering and Management ICCEM C
+437 International Conference on Convergence and Hybrid Information Technology ICHIT C
+438 International Conference on Creating Connecting and Collaborating through Computing C5 C
+439 International Conference on Cybercrime Forensics Education and Training CFET C
+440 International Conference on Database Systems for Advanced Applications DSAA C
+441 International Conference on Declarative Programming and Knowledge Management INAP C
+442 International Conference on Dependability of Computer Systems DEPCoS C
+443 International Conference on Dependable, Autonomic and Secure Computing DASC C
+444 International Conference on Digital Content, Multimedia Technology and its Applications IDC C
+445 International Conference on Digital Society ICDS C
+446 International Conference on Discrete Geometry for Computer Imagery DGCI C
+447 International Conference on Distributed Computing and Internet Technologies ICDCIT C
+448 International Conference on Distributed Frameworks for Multimedia Applications DFMA C
+449 International Conference on Dublin Core and Metadata Applications DC C
+450 International Conference on Electronic Commerce ICEComm C
+451 International Conference on Electronic Voting EVOTE C
+452 International Conference on Embedded Software and Systems ICESS C
+453 International Conference on Engineering Applications of Neural Networks EANN C
+454 International Conference on Engineering Education ICEE C
+455 International Conference on Enterprise Information Systems ICEIS C
+456 International Conference on Enterprise Information Systems and Web Technologies EISWT C
+457 International Conference on Enterprise Integration and Modelling Technology ICEIMT C
+458 International Conference on Entertainment Computing ICEC C
+459 International Conference on Evolutionary Computation ICEC C
+460 International Conference on Experimental Implementation of Quantum Computation QuantCom C
+461 International Conference on Formal Methods for Open Object-­?Based Distributed Systems FMOOD C
+462 International Conference on Frontiers of Information Technology FIT C
+463 International Conference on Fuzzy Systems and Knowledge FSKD C
+464 International Conference on GeoComputation GeoComp C
+465 International Conference on Grid and Cooperative Computing GCC C
+466 International Conference on Grid and Pervasive Computing GPC C
+467 International Conference on Grid Computing and Applications GCA C
+468 International Conference on Grid computing, high-­?performance and Distributed Applications GADA C
+469 International Conference on Health Informatics Healthinf C
+470 International Conference on High Performance Scientific Computing HPSC C
+471 International Conference on High-­?Performance Clustered Computing (International Conference on Linux Clusters) LCI C
+472 International Conference on Hybrid Artificial Intelligence Systems HAIS C
+473 International Conference on Hybrid Intelligent Systems HIS C
+474 International Conference on Hydroinformatics C
+475 International Conference on Image and Graphics ICIG C
+476 International Conference on Image and Signal Processing ICISP C
+477 International Conference on Immersive Telecommunications IMMERSCOM C
+478 International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems IEA/AIE C
+479 International Conference on Information and Communication Technologies Development ICTD C
+480 International Conference on Information and Communication Technologies in Tourism ENTER C
+481 International Conference on Information and Communications Technology ICICT C
+482 International Conference on Information and Emerging Technologies ICIET C
+483 International Conference on Information and Knowledge Engineering IKE C
+484 International Conference on Information Fusion FUSION C
+485 International Conference on Information Processing and Management of Uncertainty IPMU C
+486 International Conference on Information Security and Assurance ISA C
+487 International Conference on Information Systems Analysis and Synthesis ISAS C
+488 International Conference on Information Technology and Applications ICITA C
+489 International Conference on Information Technology Interfaces ITI C
+490 International Conference on Information Technology: Coding and Computing ITCC C
+491 International Conference on Information Theoretic Security ICITS C
+492 International Conference on Innovation in Architecture, Engineering and Construction AEC C
+493 International Conference on Intelligent and Advanced Systems ICIAS C
+494 International Conference on Intelligent Data Engineering and Automated Learning IDEAL C
+495 International Conference on Intelligent Pervasive Computing IPC C
+496 International Conference on Intelligent Systems ICIL C
+497 International Conference on Intelligent Systems Designs and Applications ISDA C
+498 International Conference on Interaction Sciences: Information Technology, Culture and Human ICIS C
+499 International Conference on International and Communication Technologies ICICTE C
+500 International Conference on Internet and Web Applications and Services ICIW C
+501 International Conference on Internet Computing in Science and Engineering ICICSE C
+502 International Conference on Internet Monitoring and Protocol ICIMP C
+503 International Conference on Knowledge Discovery and Data Mining WKDD C
+504 International Conference on Knowledge Engineering and Ontology KEOD C
+505 International Conference on Knowledge-­?based Intelligent Electronic Systems KIES C
+506 International Conference on Language and Automata Theory and Applications LATA C
+507 International Conference on Legal Knowledge-­?based Systems JURIX C
+508 International Conference on Machine Learning and Applications ICMLA C
+509 International Conference on Machine Learning and Cybernetics ICMLC C
+510 International Conference on Machine Vision ICMV C
+511 International Conference on Management of Technology IAMOT C
+512 International Conference on Medical Information Visualisation MediVis C
+513 International Conference on Mobile Business ICMB C
+514 International Conference on Mobile Data Management MDM C
+515 International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies UBICOMM C
+516 International Conference on Modeling, Simulation and Visualization Methods MSV C
+517 International Conference on Modelling, Simulation and Optimisation ICMSO C
+518 International Conference on Multimedia Modelling MMM C
+519 International Conference on Natural Computation ICNC C
+520 International Conference on Networked Computing INC C
+521 International Conference on Networking and Mobile Computing ICCNMC C
+522 International Conference on Networking, Sensing and Control ICNSC C
+523 International Conference on Networks and Communications NetCoM C
+524 International Conference on Neural, Parallel and Scientific Computations NPSC C
+525 International Conference on New Trends of Information and Service Science NISS C
+526 International Conference on Next Generation Web Services Practices NWESP C
+527 International Conference on Next Generation Wired/Wireless Advanced Networking NEW2AN C
+528 International Conference on Optimization: Techniques And Applications ICOTA C
+529 International Conference on Pairing-­?based Cryptography Pairing C
+530 International Conference on Parallel Processing and Applied Mathematics PPAM C
+531 International Conference on Pervasive Computing and Applications ICPCA C
+532 International Conference on Pervasive Services ICPS C
+533 International Conference on Principles of Practice in Multi-­?Agent Systems PRIMA C
+534 International Conference on Probability, Statistics and Operational Research PSOR C
+535 International Conference on Program Comprehension (was IWPC) ICPC C
+536 International Conference on Recent Advances in Information Technology and Applications RAITA C
+537 International Conference on Recent Advances in Natural Language Processing RANLP C
+538 International Conference on Relational Methods in Computer Science RelMiCS C
+539 International Conference on Relations, Orders and Graphs: Interaction with Computer Science ROGICS C
+540 International Conference on Risks and Security of Internet and Systems CRiSIS C
+541 International Conference on Robotics ROVPIA C
+542 International Conference on Rough Sets and Current Trends in Computing RSCTC C
+543 International Conference on Rules and Rule Markup Languages for the Semantic Web RuleML C
+544 International Conference on Security of Information and Networks SIN C
+545 International Conference on Semantic and Digital Media Technologies SAMT C
+546 International Conference on Semantics Knowledge and Grid SKG C
+547 International Conference on Software Engineering Advances ICSEA C
+548 International Conference on Software Engineering Theory and Practice SETP C
+549 International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing SNPD C
+550 International Conference on Software Process and Product Measurement MENSURA C
+551 International Conference on Software Quality Management SQM C
+552 International Conference on Software Testing, Verification and Validation ICST C
+553 International Conference on Spoken Language Processing ICSLP C
+554 International Conference on Systems Engineering ISCEng C
+555 International Conference on Systems Research, Informatics and Cybernetics ICSRIC C
+556 International Conference on Systems Thinking in Management STM C
+557 International Conference on Technology and Business Management ICTBM C
+558 International Conference on Telecom Technology and Applications ICTTA C
+559 International Conference on the Foundations of Digital Games FDG C
+560 International Conference on the Statistical Analysis of Textual Data JADT C
+561 International Conference on Theoretical and Mathematical Foundations of Computer Science TMFCS C
+562 International Conference on Theory and Applications of Computational Science TACS C
+563 International Conference on Trust Management iTrust C
+564 International Conference on Unconventional Computation UC C
+565 International Conference on Virtual Storytelling ICVS C
+566 International Conference on Vision Theory and Applications VISAPP C
+567 International Conference on Visual Information Systems VISUAL C
+568 International Conference on VLSI Design VLSID C
+569 International Conference on Web Engineering ICWE C
+570 International Conference on Web Information Systems and Technologies WEBIST C
+571 International Conference on Web-­?Age Information Management WAIM C
+572 International Conference on Web-­?based Modelling and Simulation WebSim C
+573 International Conference on Wireless Communications, Networking and Mobile Computing WiCOM C
+574 International Conference on Worldwide Computing and Its Applications WWCA C
+575 International Conference Software and Systems Engineering and their Applications ICSSEA C
+576 International Congress of Chinese Mathematicians ICCM C
+577 International Congress of Mathematicians ICM C
+578 International Congress on Computational and Applied Mathematics ICCAM C
+579 International Congress on Modelling and Simulation MODSIM C
+580 International CSI Computer Conference CSICC C
+581 International Forum on Applied Wearable Computing IFAWC C
+582 International French Speaking Conference on Logic and Constraint Programming JFPLC C
+583 International ICSC Congress on Intelligent Systems and Applications IICISA C
+584 International IEEE Security in Storage Workshop SISW C
+585 International IEEE Workshop on Software Evolvability SE C
+586 International Information Technology in Regional Areas Conference ITiRA C
+587 International Joint Conference CAAP/FASE on Theory and Practice of Software Development TAPSOFT C
+588 International Joint Conference on e-­?Business and Telecommunications ICETE C
+589 International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management IC3K C
+590 International KES Symposium on Agents and Multiagent systems -­? Technologies and Applications KES AMSTA C
+591 International Machine Vision and Image Processing Conference IMVIP C
+592 International Manufacturing Leaders Forum C
+593 International Multi-­?Conference on Engineering and Technological Innovation IMETI C
+594 International Network Optimization Conference INOC C
+595 International Parallel Computing Workshop PCW C
+596 International Picture Coding Symposium PCS C
+597 International Python Conference IPythC C
+598 International Supercomputing Conference ISC C
+599 International Symposium on 3D Data Processing Visualization and Transmission 3DPVT C
+600 International Symposium on Applications and the Internet SAINT C
+601 International Symposium on Applied Computational Intelligence and Informatics SACI C
+602 International Symposium on Applied Machine Intelligence and Informatics SAMI C
+603 International Symposium on Artificial Life and Robotics AROB C
+604 International Symposium on Audio, Video, Image Processing and Intelligent Applications ISAVIIA C
+605 International Symposium on Automation and Robotics in Construction SARC C
+606 International Symposium on Autonomous Decentralized Systems ISADS C
+607 International Symposium on Circuits and Systems CIRSYS C
+608 International Symposium on Collaborative Technologies and Systems CTS C
+609 International Symposium on Combinatorial Optimisation CO C
+610 International Symposium on Computer and Information Sciences ISCIS C
+611 International Symposium on Computer Design COMPDES C
+612 International Symposium on Cooperative Database Systems for Advanced Applications CODAS C
+613 International Symposium on Data, privacy and E-­?Commerce ISDPE C
+614 International Symposium on Fault-­?Tolerant Computing FTCS C
+615 International Symposium on Foundations of Intelligent Systems ISMIS C
+616 International Symposium on Future Software Technology ISFST C
+617 International Symposium on Grid Computing ISGC C
+618 International Symposium on Information and Communication Technologies ISICT C
+619 International Symposium on Information Assurance and Security IAS C
+620 International Symposium on Information Processing ISIP C
+621 International Symposium on Innovations in Intelligent Systems and Applications INISTA C
+622 International Symposium on Intelligent and Interactive Multimedia: Systems and Services KES IIMSS C
+623 International Symposium on Intelligent Multimedia, Video and Speech Processing ISIMP C
+624 International Symposium on Intelligent Systems and Informatics SISY C
+625 International Symposium on Leveraging Applications of Formal Methods, Verification and Validation ISoLA C
+626 International Symposium on Neural Networks ISNN C
+627 International Symposium on Next Generation Data Base Systems and Applications NGDB C
+628 International Symposium on Object Technologies for Advanced Software ISOTAS C
+629 International Symposium on Parallel and Distributed Computing ISPDC C
+630 International Symposium on Spatial Data Handling SDH C
+631 International Symposium on Spatial Data Infrastructures ISSDI C
+632 International Symposium on Spatial Data Quality ISSDQ C
+633 International Symposium on Static Analysis ISSA C
+634 International Symposium on Symbolic and Numeric Algorithms for Scientific Computing SYNASC C
+635 International Symposium on System Synthesis ISSS C
+636 International Symposium on Technology and Society ISTAS C
+637 International Symposium on the Mathematical Theory of Networks and Systems MTNS C
+638 International Symposium on Theoretical Aspects of Software Engineering TASE C
+639 International Symposium on Visual Computing ISVC C
+640 International Symposium on Voronoi diagrams in Science and Engineering ISVD C
+641 International Symposium on Wireless Personal Multimedia Communications WPMC C
+642 International Visualization in Transportation Symposium and Workshop TRB Viz C
+643 International Web Conference IWC C
+644 International Wireless Internet Conference WiCon C
+645 International Wordnet Conference (Global Wordnet Conference) GWC C
+646 International Workshop in Software Measurement IWSM C
+647 International Workshop of the Initiative for the Evaluation of XML Retrieval INEX C
+648 International Workshop on Abstract State Machines ASM(W) C
+649 International Workshop on Advanced Architectures and Algorithms for Internet Delivery and Applications AAA-­?IDEA C
+650 International Workshop on Algorithmic Aspects of Wireless Sensor Networks Algosensors C
+651 International Workshop on Algorithms and Computation WALCOM C
+652 International Workshop on Aliasing, Confinement and Ownership IWACO C
+653 International Workshop on Boolean Functions: Cryptography and Applications BFCA C
+654 International Workshop on Business Process Design BPD C
+655 International Workshop on Business Process Intelligence BPI C
+656 International Workshop on Business Process Modelling, Development, and Support BPMDS C
+657 International Workshop on C# and .NET Technologies C# C
+658 International Workshop on Combinations of Intelligent Methods and Applications CIMA C
+659 International Workshop on Combinatorial Image Analysis: Theory and Applications IWCIA C
+660 International Workshop on Comparative Evaluation in Requirements Engineering CERE C
+661 International Workshop on Critical Information Infrastructures Security CRITIS C
+662 International Workshop on Developments in Computational Models DCM C
+663 International Workshop on Digital Watermarking IWDW C
+664 International Workshop on Distributed Object Management IWDOM C
+665 International Workshop on Domain Driven Data Mining DDDM C
+666 International Workshop on Economics-­?Driven Software Engineering Research EDSER C
+667 International Workshop on Enterprise and Organizational Modelling and Simulation EOMAS C
+668 International Workshop on Enterprise Networking and Computing in Health Care Industry HealthCom C
+669 International Workshop on Entertainment Computing WEC C
+670 International Workshop on Evolution and Change in Data Management ECDM C
+671 International Workshop on Formal Methods for interactive Systems FMIS C
+672 International Workshop on Formal Methods for Parallel Programming: Theory and Applications FMPPTA C
+673 International Workshop on Foundations for Secure/Survivable Systems and Networks FSSSSN C
+674 International Workshop on Foundations of Models and Languages for Data and Objects FMLDO C
+675 International Workshop on Foundations of Object-­?Oriented Languages FOOL C
+676 International Workshop on Functional and (Constraint) Logic Programming WFLP C
+677 International Workshop on Genetic and Evolutionary Fuzzy Systems GEFS C
+678 International Workshop on Global Optimization GO C
+679 International Workshop on Group-­?Oriented Cryptographic Protocols GOCP C
+680 International workshop on High-­?Level Parallel Programming and Applications HLPP C
+681 International Workshop on High-­?Level Parallel Programming Models and Supportive Environments HIPS C
+682 International Workshop on Hot topics in Peer-­?to-­?Peer Systems HotP2P C
+683 International Workshop on Human Aspects in Ambient Intelligence: Agent Technology, Human-­?Oriented Knowledge and Applications HAI C
+684 International Workshop on Image Analysis and Information Fusion IAIF C
+685 International Workshop on Incorporating COTS Software into Software Systems, Tools and Techniques IWICSS C
+686 International Workshop on Information Hiding IH C
+687 International Workshop on Information Security Applications WISA C
+688 International Workshop on Intelligent Agents IWIA C
+689 International Workshop on Interactive Entertainment IDET C
+690 International Workshop on Issues in the Theory of Security WITS C
+691 International Workshop on Knowledge Discovery from Data Streams IWKDDS C
+692 International Workshop on Logic and Complexity in Computer Science LCCS C
+693 International Workshop on Metamodelling -­? Utilization in Software Engineering MUSE C
+694 International Workshop on Middleware for Grid Computing MGC C
+695 International Workshop on Mobile Commerce and Services WMCS C
+696 International Workshop on Modelling and Visualization of XML and Semantic Web Data MOVIX C
+697 International Workshop on Modelling in Software Engineering MISE C
+698 International Workshop on Modelling, Simulation, Verification and Validation of Enterprise Information Systems MSVVEIS C
+699 International Workshop on MultiAgent Based Simulation MABS C
+700 International Workshop on Multimedia Data Storage, Retrieval, Integration and Applications MDSRIA C
+701 International Workshop on Nonmonotonic Reasoning, Action and Change NRAC C
+702 International Workshop on Parsing Technologies IWPT C
+703 International Workshop on Pattern Recognition in Information Systems PRIS C
+704 International Workshop on Post-­?Quantum Cryptography PQCrypt C
+705 International Workshop on Program Comprehension (now ICPC) IWPC C
+706 International Workshop on Quality of Information Systems QOIS C
+707 International Workshop on Realising Evidence-­?based Software Engineering REBSE C
+708 International Workshop on Satellite and Space Communications IWSSC C
+709 International Workshop on Schema Languages for XML X-­?Schemas C
+710 International Workshop on Security in Information Systems WOSIS C
+711 International Workshop on Security Protocols IWSP C
+712 International Workshop on Soft Computing Applications SOFA C
+713 International Workshop on Software Engineering for High Performance Computing Applications SE-­?HPC C
+714 International Workshop on Software Product Management IWSPM C
+715 International Workshop on Software Quality WoSQ C
+716 International Workshop on Software Technology for Augmented Reality Systems IWSTAR C
+717 International Workshop on Temporal Databases TDB C
+718 International Workshop on the Algorithmic Foundations of Robotics WAFR C
+719 International Workshop on the Sate of the Art in Cryptology and New Challenges Ahead Quo Vadis Cryptology C
+720 International Workshop on the Web and Databases WebDB C
+721 International Workshop on Ubiquitous Virtual Reality IWUVR C
+722 International Workshop on Visualization for Cyber Security VizSec C
+723 International Workshop on Web and Wireless Geographical Information Systems W2GIS C
+724 International Workshop on Web Information Systems Modelling WISM C
+725 International Workshop on Wireless and Mobile Networks WiMoNe C
+726 International XML Database Symposium Xsym C
+727 Internationale Tagung Wirtschaftsinformatik DITW C
+728 Internet Research AOIR C
+729 Internet Society Conference INET C
+730 Interoperating Geographic Information Systems INTEROP C
+731 INTUITION International Conference INTUITION C
+732 ISCA International Conference on Computer Applications in Industry and Engineering CAINE C
+733 ISCA Tutorial and Research Workshop Automatic Speech Recognition ASR C
+734 Italian Conference on Theoretical Computer Science ICTCS C
+735 Italian Symposium on Advanced Database Systems SEBD C
+736 Japan Conference on Computational Geometry and Graphs JCCGG C
+737 Japan Conference on Discrete and Computational Geometry JCDCG C
+738 Japan-­?China Joint Workshop on Frontier of Computer Science and Technology FCST C
+739 Japanese-­?Hungarian Symposium on Discrete Mathematics and Its Applications JH C
+740 Japan-­?Korea Joint Workshop on Algorithms and Computations WAAC C
+741 Joint Australia and New Zealand Biennial Conference on Digital Image and Vision Computing DIVC C
+742 Joint Conference on Information Sciences JCIS C
+743 Joint Conference on New Methods in Language Processing and Computational Natural Language Learning NeMLaP C
+744 Joint European Conference and Exhibition on Geographical Information Systems JECGI C
+745 Joint European Networking Conference JENC C
+746 Joint International Conference on CyberGames and Interactive Entertainment CGIE C
+747 Joint iTrust and PST Conferences on Privacy, Trust Management and Security IFIP TM C
+748 Joint Working Conference on Secure Information Networks: Communications and Multimedia Security CMS C
+749 Journal of Computing Science in Colleges (Conference proceedings) CCSC C
+750 KES International Symposium on Intelligent Decision Technologies KES IDT C
+751 Knowledge Acquisition, Modelling and Management Workshop KAW C
+752 Knowledge and Data Engineering Exchange Workshop KDEX C
+753 Knowledge Discovery and Data Mining in Biological Databases Meeting KDDMBD C
+754 Knowledge Domain Visualisation KDViz C
+755 Knowledge Representation Meets Databases KRDB C
+756 Knowledge Visualization and Visual Thinking KV C
+757 Kyoto International Conference on Computational Geometry and Graph Theory KyotoCGGT C
+758 Latin American Conference on Informatics CLEI C
+759 Latin American Conference on Pattern Languages of Programming SugarLoafPLoP C
+760 Latin American Web Congress LA-­?WEB C
+761 Latin-­?American Algorithms, Graphs and Optimization Symposium LAGOS C
+762 Law via the Internet LI C
+763 Lexical Semantics and Knowledge Representation SIGLEX C
+764 Machine Vision Applications MVA C
+765 MACIS: International Conference of Mathematical Aspects of Computer and Information Sciences MACIS C
+766 Management of Innovation and Technology International Conference ICMIT C
+767 Mathematical Methods in Computer Science MMICS C
+768 Mexican International Conference on Current Trends in Computer Science (was Mexican International Conference on Computer Science) ENC C
+769 Mid-­?West Conference on Combinatorics, Cryptography, and Computing MIGHTY C
+770 Mining for Enhanced Web Search MEWS C
+771 Mobility in Databases and Distributed Systems MDDS C
+772 Modelling and Optimization: Theory and Applications MOPTA C
+773 MSRI Combinatorial Game Theory Research Workshop GameTheory C
+774 Multimedia Content Access: Algorithms and Systems (was Multimedia Content Analysis, Management and Retrieval) MCA:AS C
+775 NAISO Congress on Autonomous Intelligent Systems NAISO C
+776 NASA LaRC Formal Methods Workshop LARC C
+777 National Advisory Committee on Computing Qualifications NACCQ C
+778 National Conference Communications NCC C
+779 National Conference on Computer and Information Systems NCCIS C
+780 National Database Conference (China) NDB C
+781 National Health Informatics Conference NHIC C
+782 National Information Systems Security Conference (was National Computer Security Conference) NISSC C
+784 NATO Conference on software engineering NATOSE C
+785 Natural Language Processing and Knowledge Engineering IEEE NLP-­?KE C
+786 Networked Group Communication NGC C
+787 New Security Paradigms Workshop NSPW C
+788 New Zealand Game Developers Conference FUSE C
+789 Nordic Conference on Pattern Languages of Programs VikingPLoP C
+790 Nordic Workshop on Secure IT Systems NordSec C
+791 North American Conference on Logic Programming NACLP C
+792 North American Fuzzy Information Processing Society Conference NAFIPS C
+793 Norwegian Computer Human Interaction NORDCHI C
+794 Onward Software Engineering Onward C
+795 Optimal Discrete Structures and Algorithms ODSA C
+796 Optimization: Techniques And Applications OTA C
+797 Organisations and Society in Information Systems Workshop OASIS C
+798 Pacific Symposium on Biocomputing PSB C
+799 Pacific-­?Asia Workshop on Electronic Commerce PAWEC C
+800 Pacific-­?Rim Conference on Multimedia PCM C
+801 Pan Pacific Conference on Information Systems PPCIS C
+802 Pan-­?Sydney Area Workshop on Visual Information Processing VIP C
+803 Parallel and Distributed Information Systems PDIS C
+804 Parallel Computing PARCO C
+805 Parallel Computing with FPGAs ParaFPGA C
+806 Practical Application of Intelligent Agents and Multi-­?Agent Technology Conference PAAM C
+807 Practical Aspects of PROLOG/Constraint Technology PAP/PACT C
+808 Practices of Linking Aspect Technology and Evolution PLATE C
+809 Prague Stringology Conference PSC C
+810 Principles and Practice of Programming in Java PPPJ C
+811 Privacy in Statistical Databases PSD C
+812 Processing Declarative Knowledge, International Workshop PDK C
+813 Program Visualization Workshop PVW C
+814 Programming Language Techniques for XML PLAN-­?X C
+815 Reflection, AOP and Meta-­?Data for Software Evolution RAM-­?SE C
+816 Relationships and Associations in Object-­?Oriented Languages RAOOL C
+817 Richard Tapia Celebration of Diversity in Computing Conference Tapia C
+818 Scottish Functional Programming Workshop SFP C
+819 Search: Workshop on Search, Sorting and Coding Search C
+820 Semantic Web Visualisation VSW C
+821 Sensor Networks Sensor Networks C
+822 Service Oriented Computing: Consequences for Engineering Requirements SOCCER C
+823 SGAI International Conference on Artificial Intelligence SGAI C
+824 SIAM Conference on Discrete Mathematics DM C
+825 SIAM Conference on Geometric Design GeoD C
+826 SIAM Conference on Optimization OP C
+827 SIAM Workshop on Algorithms for Listing, Counting, and Enumeration ALICE C
+828 SIGdial Workshop on Discourse and Dialog SIGdial C
+829 SIGGRAPH/EUROGRAPHICS Conference On Graphics Hardware HWWS C
+830 SIGIR workshop: Stylistic Analysis of Text For Information Access Style C
+831 SIGOPT -­? International Conference on Optimization ICO C
+832 Simulation Technology and Training Conference SimTecT C
+833 Soft Computing in Computer Graphics, Imaging, and Vision SCCGIV C
+834 Software Education Conference SRIG-­?ET C
+835 Software Engineering Education and Training Conference SEET C
+836 Software Performance Enhancement for Encryption and Decryption SPEED C
+837 Software Quality Conference SQC C
+838 South African International Graph Theory Conference SAIGTC C
+839 Southeastern International Conference on Combinatorics, Graph Theory, and Computing C
+840 Southern Conference on Computing SCC C
+841 Southwestern Conference on Pattern Languages of Programs ChiliPLoP C
+842 Spanish Meeting on Computational Geometry EGC C
+843 Spatial Information Research Centre Colloquium SIRC C
+844 Spatial Information Science and Technology Conference SIST C
+845 Special-­?purpose Hardware for Attacking Cryptographic Systems SHARCS C
+846 SPIE Conference on Performance and Control of Network Systems PCNS C
+847 SPIE Conference on Visual Data Exploration and Analysis VDEA C
+848 SPIE International Conference on Multimedia Storage and Archiving Systems MSAS C
+849 Spring Conference on Computer Graphics SCCG C
+850 State of the Art of Stream Ciphers SASC C
+851 Stochastic Local Search Algorithms SLS C
+852 Storage and Retrieval for Media Databases (was Storage and Retrieval for Image and Video Databases) SRMD C
+853 Summer School on Modelling and Verification of Parallel Processes MOVEP C
+854 Symposium of Asian Association for Algorithms and Computation AAAC C
+855 Symposium on Access Control Models and Technologies, ACM (was RBAC) SACMAT C
+856 Symposium on Assessment of Quality S/W Dev Tools AQSDT C
+857 Symposium on Cellular Automata JAC C
+858 Symposium On Combinatorics, Algorithms, Probabilistic and Experimental Methodologies ESCAPE C
+859 Symposium on Computational Geometry for Mechanics and Applications SOCGMA C
+860 Symposium on Design, Analysis, and Simulation of Distributed Systems DASD C
+861 Symposium on Discrete Mathematics EDM C
+862 Symposium on Information Technology and Information Systems ITIS C
+863 Symposium on Information Theory in the Benelux C
+864 Symposium on Programs as Data Objects PADO C
+865 Symposium on Requirements Engineering for Information Security SREIS C
+866 Symposium on Stabilization, Safety, and Security of Distributed Systems SSS C
+867 Symposium on Stochastic Algorithms, Foundations and Applications SAGA C
+868 Systems Engineering / Test and Evaluation Conference SETE C
+869 TAI: Algorithmic Information Theory: Kolmogorov Complexity TAI C
+870 Techniques and Problems in Graph Theory TPGT C
+871 Technology for Interactive Digital Storytelling TIDSE C
+872 Text Analysis Conference TAC C
+873 The Claude Shannon Workshop on Coding and Cryptography C
+874 The Conference on visualization of information SEE C
+876 The International Conference on Mobile Technology, Applications and Systems MOBILITY C
+877 The International Conference on Semantic Web and Web Services SWWS C
+878 The International Workshop on Algorithms and Graphs IWAAG C
+879 The Modelling and Simulation Society of Australia and New Zealand Meeting ANZMODS C
+880 The Northern Formal Methods Workshops NFM C
+881 Topological and Geometric Graph Theory TGGT C
+882 Traitement Automatique des Langues Naturelles TALN C
+883 Trustworthy Interfaces for Passwords and Personal Information workshop TIPPI C
+884 Twente Workshop on Graphs and Combinatorial Optimization Twente C
+885 UK Academy of Information Systems Conference UKAIS C
+886 UK e-­?Science All Hands Meeting UK e-­?Science C
+887 United Kingdom Virtual Reality Special Interest Group Conference UK-­?VRSIG VR-­?SIG C
+888 Usable Security Workshop USEC C
+889 USENIX Windows NT Symposium UWNTS C
+890 USENIX Workshop on Electronic Commerce USENIX EC C
+891 USENIX/ACCURATE Electronic Voting Technology Workshop EVT C
+892 Virtual Reality Annual International Symposium VRAIS C
+893 Vision Interface VI C
+894 VisMasters Design Modelling and Visualization Conference DMVC C
+895 Visual Analytics VA C
+896 Visual Information Communications International VINCI C
+897 Visual Languages and Formal Methods VLFM C
+898 Visualisation in Built Environment BuiltViz C
+899 Visualization In Science and Education VISE C
+900 Visualization in Software Engineering SEViz C
+901 Visualization in Software Product Lines Workshop VisPLE C
+902 Web Visualization WebViz C
+903 Western Australian Workshop on Information Systems Research WAWISR C
+904 Western Canadian Conference on Computing Education WCCCE C
+905 Western Decision Sciences Institute Conference WDSI C
+906 Western European Workshop on Research in Cryptology WeWoRC C
+907 Women in Computing WICS C
+908 Workshop in Information Security Theory and Practices WISTP C
+909 Workshop on Ad Hoc and Ubiquitous computing AUC C
+910 Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems ATMOS C
+911 Workshop on Algorithmic Aspects of Advanced Programming Languages WAAAPL C
+912 Workshop on Algorithms And Models For The Web Graph WAW C
+913 Workshop on Algorithms, Combinatorics, and Geometry ACG C
+914 Workshop on Application Specific Processors WASP C
+915 Workshop on Applications of Graph Theory in Wireless Ad hoc Networks and Sensor Networks Graph-­?hoc C
+916 Workshop on Approximation and Randomization Algorithms in Communication Networks ARACNE C
+917 Workshop on Aspect Oriented Requirements Engineering and Architecture Design Early Aspects C
+918 Workshop on Aspect-­?Oriented Modelling AOM C
+919 Workshop on Aspects, Components, and Patterns for Infrastructure Software ACP4IS C
+920 Workshop on Assurance Cases for Security DSN C
+921 Workshop on Australasian Information Security, Data Mining and Web Intelligence, and Software Internationalisation AISW C
+922 Workshop on Component-­?Oriented Programming WCOP C
+923 Workshop on Computational and Conformal Geometry CCG C
+924 Workshop on Computational Geometry and Applications CGA C
+925 Workshop on Computational Graph Theory and Combinatorics WCGTC C
+926 Workshop on Computational Optimization WCO-­?IMCSIT C
+927 Workshop on Computer Architecture Education WCAE C
+928 Workshop on Cryptographic Hardware and Embedded Systems CHES C
+929 Workshop on Cryptography for Ad hoc Networks WCAN C
+930 Workshop on Data Engineering for Wireless and Mobile Access MobiDE C
+931 Workshop on Database Technology for Virtual Enterprises DTVE C
+932 Workshop on Declarative Programming in the Context of OO Languages DP-­?COOL C
+933 Workshop on Distributed Data and Structures WDAS C
+934 Workshop on Domain Specific Modelling DSM C
+935 Workshop on Duplicating, Deconstructing, and Debunking WDDD C
+936 Workshop on Economics of Peer-­?to-­?Peer Systems P2P Econ C
+937 Workshop on Elliptic Curve Cryptography ECC C
+938 Workshop on Fault Diagnosis and Tolerance in Cryptography FDTC C
+939 Workshop on Formal Techniques for Java Programs FTJP C
+940 Workshop on Hybrid Intelligent Systems WHIS C
+941 Workshop on Information Hiding INFH C
+942 Workshop On Java For High-­?Performance Computing JHPC C
+943 Workshop on Localized Algorithms and Protocols for Wireless Sensor Networks LOCALALGOS C
+944 Workshop on Logic and Learning L&L C
+945 Workshop on Massive Data Algorithmics Massive C
+946 Workshop on Mobile Computing Systems and Applications HOTMOBILE C
+947 Workshop on Multiparadigm Programming with OO Languages MPOOL C
+948 Workshop on Nature Inspired Distributed Computing NISDIC C
+949 Workshop on Network-­?Related Data Management NRDM C
+950 Workshop on New Technologies for Personalized Information Access PIA C
+951 Workshop on Object-­?Oriented Database Systems OODBS C
+952 Workshop on Object-­?Oriented Development WOOD C
+953 Workshop on On-­?Line Algorithms OLA C
+954 Workshop on Parallel and Distributed Debugging ACM/ONR PADD C
+955 Workshop on Parameterized Complexity WPC C
+956 Workshop on Physics and Computation PC C
+957 Workshop on Probabilistic Graph Theory PGT C
+958 Workshop on Quantum Information Processing QIP C
+959 Workshop on Real-­?Time Databases RTDB C
+960 Workshop on Research Issues in Data Mining and Knowledge Discovery DMKD C
+961 Workshop on Robust Shape Operations WRSO C
+962 Workshop on Runtime Verification RV C
+963 Workshop on Scientific Knowledge, Information, and Computing SIDEKIC C
+964 Workshop on Security and Privacy in e-­?Commerce SPEC C
+965 Workshop on Service Oriented Computing SOCASE C
+966 Workshop on the Arithmetic of Finite Fields WAIFI C
+967 Workshop on Theoretical and Algorithmic Aspects of Sensor and Ad-­?hoc Networks WTASA C
+968 Workshop on Uncertainty in Geometric Computations GEOM Uncertainty C
+969 Workshop on Web Usage Analysis WebKDD C
+970 World Computer Congress WCC C
+971 World Conference on the WWW and Internet WebNet C
+972 World Congress in Computer Science, Computer Engineering, and Applied Computing WORLDCOMP C
+973 World Congress on Engineering Asset Management WCEAM-­?IMS C

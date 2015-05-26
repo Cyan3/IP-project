@@ -23,6 +23,7 @@ Route::get('home',['middleware' => 'auth','uses' => 'PunctajeController@home']);
 
 Route::post('pages',['middleware' => 'auth','uses' => 'PunctajeController@store']);
 
+Route::post('modul3',['middleware' => 'auth','uses' => 'modul3Controller@displayPoints']);
 
 Route::controllers([
 	'auth' => 'Auth\AuthController',

@@ -119,4 +119,4 @@ function getAuthors($pubId)
 }
 
 
-1?>
+?>
