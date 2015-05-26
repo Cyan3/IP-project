@@ -127,7 +127,7 @@ class modul2Controller extends Controller
     public function showOutput()
     {
         $path = $this->pubsFromDBtoJson();
-        $this->execJar($path);
+        //$this->execJar($path);
 
 
         $filePath = public_path() . '\output.JSON';
@@ -151,7 +151,8 @@ class modul2Controller extends Controller
             $this->addCitation($cit_id, $cit['citedByScholar'], 'Scholar');
             $this->addCitation($cit_id, $cit['citedByScopus'], 'Scopus');
         }
-        var_dump($json_a);
+        //var_dump($json_a);
+
         return view('pages.modul2output')->with('json_a', $json_a);
     }
 
@@ -173,6 +174,61 @@ class modul2Controller extends Controller
 
         }
     }
+
+    public function getPubFromBD(){
+        $max = DB::table('publications')->max('querry_id');
+        $pubFromDB = DB::table('publications')->where('usr_id','=',Auth::user()->id)->where('querry_id','=',$max)->get();
+        return $pubFromDB;
+    }
+
+    public function getCitFromBD($pub,$typeDB){
+        if  ($typeDB == 'CitiSeer'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb' ,'=',strtolower($typeDB))->get();
+            return $cit;
+        } elseif  ($typeDB == 'DBLP'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb' ,'=',strtolower($typeDB))->get();
+            return $cit;
+        } elseif  ($typeDB == 'Scholar'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb' ,'=',strtolower($typeDB))->get();
+            return $cit;
+        } elseif  ($typeDB == 'Scopus'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb' ,'=',strtolower($typeDB))->get();
+            return $cit;
+        }
+    }
+
+    public function getNrCit($pub,$typeDB){
+        if  ($typeDB == 'CitiSeer'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb' ,'=',strtolower($typeDB))->get();
+            return count($cit);
+        } elseif  ($typeDB == 'DBLP'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb','=',strtolower($typeDB))->get();
+            return count($cit);
+        } elseif  ($typeDB == 'Scholar'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb','=',strtolower($typeDB))->get();
+            return count($cit);
+        } elseif  ($typeDB == 'Scopus'){
+            $cit = DB::table('citations')->where('pub_id','=',$pub->id)->where('fromdb','=',strtolower($typeDB))->get();
+            return count($cit);
+        }
+    }
+
+    public function isInDB($bol){
+        if($bol == true){
+            return 'Yes';
+        }
+        return 'No';
+    }
+
+    public function getAuthors($pub_id){
+        $authors = DB::table('pubauthors')->where('pub_id','=',$pub_id)->get();
+        return $authors;
+    }
+
+    public function getCitAuthors($cit_id){
+        $authors = DB::table('authors')->where('cit_id','=',$cit_id)->get();
+    }
+
 
 }
 

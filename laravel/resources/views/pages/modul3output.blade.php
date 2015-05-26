@@ -33,40 +33,192 @@
         </div>
 
 
-        <div id="input-mod-2" class="col-md-12">
+        <div id="modul-3" class="col-md-12">
             <div class="row">
-                <table class="table table-striped">
-                    <thead>
-                    <tr>
-                        <th>Year</th>
-                        <th>Title</th>
-                        <th>Authors</th>
-                        <th>SpScore</th>
-                        <th>IrScore</th>
-                    </tr>
-                    </thead>
+                <div class="col-md-12 punctaje-finale-exec">
+                    <div class="col-md-12 punctaje-table-header">
+                        <div class="col-md-1 text-center"><p>Year</p></div>
+                        <div class="col-md-7 text-center"><p>Title</p></div>
+                        <div class="col-md-2 text-center"><p>Authors</p></div>
+                        <div class="col-md-1 text-center"><p>SpScore</p></div>
+                        <div class="col-md-1 text-center"><p>IrScore</p></div>
+                    </div>
+                </div>
+                <div class="col-md-12 punctaje-table-body">
                         <?php
                             foreach ($pubFromDB as $pub){
-                                echo "<tr>";
-                                echo "<td>" . $pub->year . "</td>";
-                                echo "<td>" . $pub->title . "</td>";
-                                echo "<td>";
-
-                                $authors = getAuthors($pub->id);
-                                foreach ($authors as $author) {
-                                    echo $author->name . ', ';
+                                echo '<div class="col-md-12 text-center table-row">';
+                                if(is_null($pub->year)){
+                                    echo '<div class="col-md-1 text-center"><p>null</p></div>';
+                                }else{
+                                    echo '<div class="col-md-1 text-center"><p>'.$pub->year.'</p></div>';
+                                }
+                                if(is_null($pub->title)){
+                                    echo '<div class="col-md-7 text-center"><p>null</p></div>';
+                                }else{
+                                    echo '<div class="col-md-7 text-center"><p>'.$pub->title.'</p></div>';
                                 }
 
-                                echo "</td>";
+                                echo '<div class="col-md-2 text-center"><p>';
 
-                                echo "<td>" . $pub->spscore . "</td>";
-                                echo "<td>" . $pub->irscore . "</td>";
-                                echo "</tr>";
+                                    $authors = getAuthors($pub->id);
+                                    foreach ($authors as $author) {
+                                        echo $author->name . ', ';
+                                    }
+
+                                echo "</p></div>";
+                                if(is_null($pub->spscore)){
+                                    echo '<div class="col-md-1 text-center"><p>null</p></div>';
+                                }else{
+                                    echo '<div class="col-md-1 text-center"><p>'.$pub->spscore.'</p></div>';
+                                }
+                                if(is_null($pub->irscore)){
+                                    echo '<div class="col-md-1 text-center"><p>null</p></div>';
+                                }else{
+                                    echo '<div class="col-md-1 text-center"><p>'.$pub->irscore.'</p></div>';
+                                }
+                                echo "</div>";
                             }
                         ?>
-                     </tbody>
+                </div>
 
-                </table>
+                <h3>Punctaje totale per executie</h3>
+                <div class="col-md-12 punctaje-finale-exec">
+                    <div class="col-md-12 punctaje-table-header">
+                        <div class="col-md-3">
+                            <div class="punctaje-col-header col-md-12 text-center">
+                                <p>sumByCategoryIR</p>
+                            </div>
+                            <div class="punctaje-col-sub-header">
+                                <div class="col-md-3 text-center">A</div>
+                                <div class="col-md-3 text-center">B</div>
+                                <div class="col-md-3 text-center">C</div>
+                                <div class="col-md-3 text-center">D</div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="punctaje-col-header col-md-12 text-center">
+                                <p>sumIRScore</p>
+                            </div>
+                            <div class="punctaje-col-sub-header">
+                                <div class="col-md-3 text-center">A</div>
+                                <div class="col-md-3 text-center">B</div>
+                                <div class="col-md-3 text-center">C</div>
+                                <div class="col-md-3 text-center">D</div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="punctaje-col-header col-md-12 text-center">
+                                <p>sumSPScore</p>
+                            </div>
+                            <div class="punctaje-col-sub-header">
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="punctaje-col-header col-md-12 text-center">
+                                <p>sumIRScore</p>
+                            </div>
+                            <div class="punctaje-col-sub-header">
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 punctaje-table-body">
+                        <div class="col-md-3">
+                            <div class="col-md-12">
+                                <?php
+                                    foreach($score_db as $query){
+                                        if(is_null($query->sumbycategoryira)){
+                                            echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                        }else{
+                                            echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryira.'</p></div>';
+                                        }
+                                        if(is_null($query->sumbycategoryirb)){
+                                            echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                        }else{
+                                            echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryirb.'</p></div>';
+                                        }
+                                        if(is_null($query->sumbycategoryirc)){
+                                            echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                        }else{
+                                            echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryirc.'</p></div>';
+                                        }
+                                        if(is_null($query->sumbycategoryird)){
+                                            echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                        }else{
+                                            echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryird.'</p></div>';
+                                        }
+
+                                    }
+                                ?>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="col-md-12">
+                                <?php
+                                foreach($score_db as $query){
+                                    if(is_null($query->sumbycategoryspa)){
+                                        echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                    }else{
+                                        echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryspa.'</p></div>';
+                                    }
+                                    if(is_null($query->sumbycategoryspb)){
+                                        echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                    }else{
+                                        echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryspb.'</p></div>';
+                                    }
+                                    if(is_null($query->sumbycategoryspc)){
+                                        echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                    }else{
+                                        echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryspc.'</p></div>';
+                                    }
+                                    if(is_null($query->sumbycategoryspd)){
+                                        echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                    }else{
+                                        echo '<div class="col-md-3 text-center"><p>'.$query->sumbycategoryspd.'</p></div>';
+                                    }
+                                }
+                                ?>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="col-md-12">
+                                <?php
+                                    foreach($score_db as $query){
+                                        if(is_null($query->sumspscore)){
+                                            echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                        }else{
+                                            echo '<div class="col-md-12 text-center"><p>'.$query->sumspscore.'</p></div>';
+                                        }
+
+                                    }
+                                ?>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="col-md-12">
+                                <?php
+                                foreach($score_db as $query){
+                                    if(is_null($query->sumirscore)){
+                                        echo '<div class="col-md-3 text-center"><p>0</p></div>';
+                                    }else{
+                                        echo '<div class="col-md-12 text-center"><p>'.$query->sumirscore.'</p></div>';
+                                    }
+
+                                }
+                                ?>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
             </div>
         </div>
 

@@ -293,3 +293,12 @@ input[readonly] {
 #input-mod-2 .row{
     margin:0;
 }
+#modul-3 .row{
+    margin: 15px;
+}
+#modul-3 #table-total{
+    text-align: center;
+}
+.centered{
+    margin: 0 auto;
+}

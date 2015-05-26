@@ -87,7 +87,12 @@ class modul3Controller extends Controller {
 	{
 		//
 	}
-
+    public function redirectModul3(){
+        return redirect('modul3Compiled');
+    }
+    public function redirectModul4(){
+        return redirect('modul4');
+    }
     public function displayPoints()
     {
         $path=public_path(). '\jar\\input.json';
@@ -130,7 +135,8 @@ class modul3Controller extends Controller {
             'updated_at' => Carbon::now(),
         ]);
         //var_dump($pubFromDB);
-        return view('pages.modul3output')->with('pubFromDB',$pubFromDB );
+        $score_db = DB::table('score_querry')->where('pub_q_id','=',$max)->get();
+        return view('pages.modul3output')->with('pubFromDB',$pubFromDB )->with('score_db',$score_db);
 
     }
 

@@ -23,8 +23,10 @@ Route::get('home',['middleware' => 'auth','uses' => 'PunctajeController@home']);
 
 Route::post('pages',['middleware' => 'auth','uses' => 'PunctajeController@store']);
 
-Route::post('modul3',['middleware' => 'auth','uses' => 'modul3Controller@displayPoints']);
-
+Route::post('modul3',['middleware' => 'auth','uses' => 'modul3Controller@redirectModul3']);
+Route::get('modul3Compiled',['middleware' => 'auth','uses' => 'modul3Controller@displayPoints']);
+Route::post('modul3Compiled',['middleware' => 'auth','uses' => 'modul3Controller@redirectModul4']);
+Route::get('modul4',['middleware' => 'auth','uses' => 'modul4Controller@showResults']);
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',

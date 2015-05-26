@@ -42,13 +42,8 @@ if (isset($_GET['execJAR'])) {
                 <table class="table table-striped">
                     <thead>
                     <tr>
-                        <th>Year</th>
                         <th>Title</th>
-                        <th>ISBN</th>
-                        <th>ISSN</th>
-                        <th>AUTHORS</th>
-                    </tr>
-                    <tr>
+                        <th>Authors</th>
                         <th>isIndexedCitiSeer</th>
                         <th>isIndexedDBLP</th>
                         <th>isIndexedScholar</th>
@@ -64,31 +59,153 @@ if (isset($_GET['execJAR'])) {
                     <tbody>
 
                     <?php
+                    $pubs = App::make('\App\Http\Controllers\modul2Controller')->getPubFromBD();
+                    foreach ($pubs as $pub) {
+                        echo '<tr>';
+                        echo '<th>';
+                        echo $pub->title;
+                        echo '</th>';
+                        echo '<th>';
+                        $authors = App::make('\App\Http\Controllers\modul2Controller')->getAuthors($pub->id);
+                        foreach ($authors as $author) {
+                            echo $author->name . ', ';
+                        }
+                        echo '</th>';
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_citiseer);
+                        echo '</th>';
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_dblp);
+                        echo '</th>';
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_scholar);
+                        echo '</th>';
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->isInDB($pub->i_scopus);
+                        echo '</th>';
 
-                    foreach ($json_a as $pub) {
-                        echo "<tr>";
-                        echo "<td>" . $pub['year']. "</td>";
-                        echo "<td>" . $pub['name'] . "</td>";
-                        echo "<td>" . $pub['ISBN']. "</td>";
-                        echo "<td>" . $pub['ISSN']. "</td>";
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'CitiSeer');
+                        echo '</th>';
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'DBLP');
+                        echo '</th>';
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'Scholar');
+                        echo '</th>';
+                        echo '<th>';
+                        echo App::make('\App\Http\Controllers\modul2Controller')->getNrCit($pub, 'Scopus');
+                        echo '</th>';
+                        echo '</tr>';
+                        $citiseer = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'CitiSeer');
+                        $dblp = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'DBLP');
+                        $scholar = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'Scholar');
+                        $scopus = App::make('\App\Http\Controllers\modul2Controller')->getCitFromBD($pub, 'Scopus');
 
-                        echo "<td>";
+                        echo '<tr>';
+                        if (count($citiseer) == 0) {
+                            echo '<th>';
+                            echo 'Nu exista citaii in baza de date CitiSeer';
+                            echo '</th>';
+                        } else {
+                            echo '<tr>
+                                                <th>Titlu</th>
+                                                <th>Autori</th>
+                                                <th>Locatia</th>
+                                            </tr>';
+                            foreach ($citiseer as $cit) {
+                                echo '<th>' . $cit->name . '</th>';
+                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                echo '<th>';
+                                foreach ($citAuthors as $citAuthor) {
+                                    echo $citAuthor->name . ', ';
+                                }
+                                echo '</th>';
+                                echo '<th>' . $cit->location . '</th>';
 
-                        foreach ($pub['authors'] as $author) {
-                            echo $author . ', ';
+                            }
+
                         }
 
-                        echo "</td>";
 
-                        echo "</tr>";
-                        echo "<tr>";
-                        echo "<td>" . $pub['isIndexedCitiSeer']. "</td>";
-                        echo "<td>" . $pub['isIndexedDBLP'] . "</td>";
-                        echo "<td>" . $pub['isIndexedScholar']. "</td>";
-                        echo "<td>" . $pub['isIndexedScopus']. "</td>";
-                        echo "</tr>";
+                        echo '</tr>';
+                        echo '<tr>';
+                        if (count($dblp) == 0) {
+                            echo '<th>';
+                            echo 'Nu exista citaii in baza de date DBLP';
+                            echo '</th>';
+                        } else {
+                            echo '<tr>
+                                                <th>Titlu</th>
+                                                <th>Autori</th>
+                                                <th>Locatia</th>
+                                            </tr>';
+                            foreach ($dblp as $cit) {
+                                echo '<th>' . $cit->name . '</th>';
+                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                echo '<th>';
+                                foreach ($citAuthors as $citAuthor) {
+                                    echo $citAuthor->name . ', ';
+                                }
+                                echo '</th>';
+                                echo '<th>' . $cit->location . '</th>';
+
+                            }
+
+                        }
 
 
+                        echo '</tr>';
+                        echo '<tr>';
+                        if (count($scholar) == 0) {
+                            echo '<th>';
+                            echo 'Nu exista citaii in baza de date Google Scholar';
+                            echo '</th>';
+                        } else {
+                            echo '<tr>
+                                                <th>Titlu</th>
+                                                <th>Autori</th>
+                                                <th>Locatia</th>
+                                            </tr>';
+                            foreach ($scholar as $cit) {
+                                echo '<th>' . $cit->name . '</th>';
+                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                echo '<th>';
+                                foreach ($citAuthors as $citAuthor) {
+                                    echo $citAuthor->name . ', ';
+                                }
+                                echo '</th>';
+                                echo '<th>' . $cit->location . '</th>';
+
+                            }
+
+                        }
+
+
+                        echo '</tr>';
+                        echo '<tr>';
+                        if (count($scopus) == 0) {
+                            echo '<th>';
+                            echo 'Nu exista citaii in baza de date Scopus';
+                            echo '</th>';
+                        } else {
+                            echo '<tr>
+                                                <th>Titlu</th>
+                                                <th>Autori</th>
+                                                <th>Locatia</th>
+                                            </tr>';
+                            foreach ($scopus as $cit) {
+                                echo '<th>' . $cit->name . '</th>';
+                                $citAuthors = App::make('\App\Http\Controllers\modul2Controller')->getCitAuthor($cit->id);
+                                echo '<th>';
+                                foreach ($citAuthors as $citAuthor) {
+                                    echo $citAuthor->name . ', ';
+                                }
+                                echo '</th>';
+                                echo '<th>' . $cit->location . '</th>';
+                            }
+                        }
+                        echo '</tr>';
                     }
 
                     ?>
